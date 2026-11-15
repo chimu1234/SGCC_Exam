@@ -1,0 +1,30 @@
+{
+  "outputDir": "data",
+  "banks": [
+    {
+      "id": "public-2027",
+      "name": "公共与行业知识（2027版）",
+      "shortName": "公共与行业知识",
+      "description": "国家电网高校毕业生招聘考试公共与行业知识题库，共 832 题，无解析。",
+      "adapter": "pdf_question_bank",
+      "source": "sources/public-2027/题库.pdf",
+      "tags": ["国网", "校招"],
+      "options": {
+        "durationMin": 60
+      }
+    },
+    {
+      "id": "mock-145390",
+      "name": "27届10月模考·计算机类",
+      "shortName": "10月模考（计算机类）",
+      "description": "某机构模拟考试，共 165 题，含解析、图片与共享材料。",
+      "adapter": "structured_json_bank",
+      "source": "sources/mock-145390/questions.json",
+      "tags": ["模考", "计算机类"],
+      "options": {
+        "imageDir": "sources/mock-145390/images",
+        "durationMin": 120
+      }
+    }
+  ]
+}

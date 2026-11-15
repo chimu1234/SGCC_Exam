@@ -1,0 +1,5666 @@
+{
+  "paper": "27届10月模考大赛-计算机类",
+  "source_url": "https://tiku.hzdwpx.com/index/exam/preview.html?paper_id=145390",
+  "score": "65",
+  "exported_at": "2026-10-30 16:03:01",
+  "total_items": 165,
+  "images": [
+    {
+      "local": "images/img_001.png",
+      "url": "https://hengzhen.oss-cn-beijing.aliyuncs.com/mock/0a22f657e893eaad2e71e194cdd69e87.png"
+    },
+    {
+      "local": "images/img_002.png",
+      "url": "https://hengzhen.oss-cn-beijing.aliyuncs.com/mock/41c2d12e5fd9e9eaa34424ac0e9442a9.png"
+    },
+    {
+      "local": "images/img_003.png",
+      "url": "https://hengzhen.oss-cn-beijing.aliyuncs.com/mock/3d080183e5dc7dac63025f4658130736.png"
+    },
+    {
+      "local": "images/img_004.png",
+      "url": "https://hengzhen.oss-cn-beijing.aliyuncs.com/mock/5b8da67bf483ce99a82afbd76a9ce1d1.png"
+    },
+    {
+      "local": "images/img_005.png",
+      "url": "https://hengzhen.oss-cn-beijing.aliyuncs.com/mock/a3321dfeb85bd340ff6f8f419a8fc1b8.png"
+    },
+    {
+      "local": "images/img_006.png",
+      "url": "https://hengzhen.oss-cn-beijing.aliyuncs.com/mock/aefb005cf812616e52df6da60e7458e1.png"
+    },
+    {
+      "local": "images/img_007.png",
+      "url": "https://hengzhen.oss-cn-beijing.aliyuncs.com/mock/c881df36787133565ae74052fc81c58a.png"
+    },
+    {
+      "local": "images/img_008.png",
+      "url": "https://hengzhen.oss-cn-beijing.aliyuncs.com/mock/c4e644ef2db5512216fa002d529cfcaa.png"
+    },
+    {
+      "local": "images/img_009.png",
+      "url": "https://hengzhen.oss-cn-beijing.aliyuncs.com/mock/a2f73afce726a3ee93f998e2efde0188.png"
+    },
+    {
+      "local": "images/img_010.png",
+      "url": "https://hengzhen.oss-cn-beijing.aliyuncs.com/mock/567bb32b607764c94ec2ed22a9a67a4e.png"
+    },
+    {
+      "local": "images/img_011.png",
+      "url": "https://hengzhen.oss-cn-beijing.aliyuncs.com/mock/eafc34202ed668cc469738942335d86d.png"
+    },
+    {
+      "local": "images/img_012.png",
+      "url": "https://hengzhen.oss-cn-beijing.aliyuncs.com/mock/7a6a349ddbf58daa87684d52aa247638.png"
+    },
+    {
+      "local": "images/img_013.png",
+      "url": "https://hengzhen.oss-cn-beijing.aliyuncs.com/mock/84483c7ca620e2cc618139ab19e9657a.png"
+    },
+    {
+      "local": "images/img_014.png",
+      "url": "https://hengzhen.oss-cn-beijing.aliyuncs.com/mock/569eb043fd6a42dfbd78d4eba440830d.png"
+    },
+    {
+      "local": "images/img_015.png",
+      "url": "https://hengzhen.oss-cn-beijing.aliyuncs.com/mock/65f698d7b57a9e6d314740ef5796bd9f.png"
+    },
+    {
+      "local": "images/img_016.png",
+      "url": "https://hengzhen.oss-cn-beijing.aliyuncs.com/mock/78d828eb37d0fb2a7aa0e54626db5cc7.png"
+    },
+    {
+      "local": "images/img_017.png",
+      "url": "https://hengzhen.oss-cn-beijing.aliyuncs.com/mock/24cea242f0b114f2cc8f2f7cd29ac802.png"
+    },
+    {
+      "local": "images/img_018.png",
+      "url": "https://hengzhen.oss-cn-beijing.aliyuncs.com/mock/fe2eb07ec04de8ad058bb80ea0b331ca.png"
+    },
+    {
+      "local": "images/img_019.png",
+      "url": "https://hengzhen.oss-cn-beijing.aliyuncs.com/mock/02964fc5b7c6ae46fd22a2d925396e67.png"
+    },
+    {
+      "local": "images/img_020.png",
+      "url": "https://hengzhen.oss-cn-beijing.aliyuncs.com/mock/054f9586263f7cf1dcccd43290391142.png"
+    },
+    {
+      "local": "images/img_021.png",
+      "url": "https://hengzhen.oss-cn-beijing.aliyuncs.com/mock/7e5821522e98265fe16f1e9dfbc0c2cb.png"
+    }
+  ],
+  "sections": [
+    {
+      "title": "一、综合单选题（每题0.5分，共20题，总计10分）",
+      "materials": [],
+      "items": [
+        {
+          "seq": 1,
+          "no": 1,
+          "score": "0.5",
+          "stem": "2月5日并网的全球首台大功率海上风电机组，坐落于（     ）海域。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.闽南",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.粤东",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.浙南",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.苏东",
+              "images": []
+            }
+          ],
+          "correct_answer": "A",
+          "user_answer": "A",
+          "is_correct": true,
+          "analysis": "考点：能源电力时事。2月5日并网的全球首台大功率海上风电机组位于福建闽南海上风电基地（闽南海域），是我国大容量海上风电机组的示范工程，标志着我国海上风电单机容量进入世界前列。干扰项中，粤东、浙南、苏东虽同为我国海上风电重点区域，但不是该机组所在地。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 2,
+          "no": 2,
+          "score": "0.5",
+          "stem": "我国5G基站总数突破（    ）万个。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.500",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.400",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.300",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.200",
+              "images": []
+            }
+          ],
+          "correct_answer": "A",
+          "user_answer": "B",
+          "is_correct": false,
+          "analysis": "考点：5G 网络建设成就。截至题目所涉时点，我国5G基站总数已突破500万个，建成全球规模最大、技术最先进的5G独立组网网络，5G移动电话用户数、千兆宽带用户数均居世界前列。400万、300万、200万均为此前的阶段数据，属于“数字未更新”型干扰项。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 3,
+          "no": 3,
+          "score": "0.5",
+          "stem": "6月27日，“人造太阳”项目中，（    ）、（    ）聚变堆关键超导磁体完成了研制验收与满参数测试。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.环向场超导磁体、高温超导中心螺管线圈",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.纵向场超导磁体、低温超导线圈",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.托卡马克磁体、常规导体线圈",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.环流器磁体、高温线圈",
+              "images": []
+            }
+          ],
+          "correct_answer": "A",
+          "user_answer": "A",
+          "is_correct": true,
+          "analysis": "考点：可控核聚变工程进展。6月27日，我国“人造太阳”项目中环向场（TF）超导磁体、高温超导中心螺管线圈（CS）两类聚变堆关键超导磁体完成研制验收与满参数测试，是托卡马克装置的核心部件。B项的“纵向场”不是托卡马克磁体分类（应为环向场、极向场），C、D的“常规导体线圈”“环流器”与高温超导、聚变堆的实际技术路线不符。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 4,
+          "no": 4,
+          "score": "0.5",
+          "stem": "国家电网有限公司是关系国家能源安全和国民经济命脉的（       ），经营区域覆盖我国（       ）个省（自治区、直辖市），供电范围占国土面积的88%。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.特大型国有重点骨干企业；26",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.特大型国有重点骨干企业；28",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.大型国有企业；28",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.大型国有企业；32",
+              "images": []
+            }
+          ],
+          "correct_answer": "A",
+          "user_answer": "B",
+          "is_correct": false,
+          "analysis": "考点：国家电网有限公司企业定位。国家电网是关系国家能源安全和国民经济命脉的特大型国有重点骨干企业，经营区域覆盖26个省（自治区、直辖市），供电范围占国土面积88%。B、C的“28个省”与“大型国有企业”均不准确；D的“32个省”超出我国省级行政区总数，明显错误。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 5,
+          "no": 5,
+          "score": "0.5",
+          "stem": "建设新型能源体系，就是在传统能源体系基础上，逐步建立以（       ）为供应主体、（       ）为兜底保障、（       ）为关键支撑、（       ）为用能导向，清洁低碳安全高效的能源体系。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.化石能源；非化石能源；新型电力系统；绿色经济灵活",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.非化石能源；化石能源；智能电网；绿色智慧节约",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.非化石能源；化石能源；新型电力系统；绿色智慧节约",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.非化石能源；化石能源；智能电网；绿色经济灵活",
+              "images": []
+            }
+          ],
+          "correct_answer": "C",
+          "user_answer": "C",
+          "is_correct": true,
+          "analysis": "考点：新型能源体系的内涵。完整表述为：以非化石能源为供应主体、化石能源为兜底保障、新型电力系统为关键支撑、绿色智慧节约为用能导向，加快构建清洁低碳安全高效的能源体系。A、B把“供应主体”和“兜底保障”的位置弄反或不到位；D的“智能电网”是新型电力系统的组成部分，不能替代“新型电力系统”这一关键支撑定位；“绿色经济灵活”也非规范表述。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 6,
+          "no": 6,
+          "score": "0.5",
+          "stem": "国家电网有限公司企业文化的核心特质是（       ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.先行",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.创新",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.争先",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.率先",
+              "images": []
+            }
+          ],
+          "correct_answer": "A",
+          "user_answer": "A",
+          "is_correct": true,
+          "analysis": "考点：企业文化。国家电网有限公司企业文化以“先行”为核心特质，强调在服务党和国家工作大局、推动能源转型中“走在前、作表率”，体现“人民电业为人民”的宗旨。B“创新”、C“争先”、D“率先”都是具体工作要求或一般性表述，不是官方概括的“核心特质”。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 7,
+          "no": 7,
+          "score": "0.5",
+          "stem": "国家电网有限公司深化国际能源合作，高质量共建“一带一路”，建成的首个海外特高压项目是（       ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.巴西美丽山特高压直流工程",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.巴基斯坦默蒂亚里—拉合尔特高压工程",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.埃塞俄比亚—肯尼亚特高压工程",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.哈萨克斯坦—中国特高压工程",
+              "images": []
+            }
+          ],
+          "correct_answer": "A",
+          "user_answer": "D",
+          "is_correct": false,
+          "analysis": "考点：国际化业务。巴西美丽山特高压直流工程（含一期、二期±800kV项目）是国家电网在海外建成的首个特高压项目，也是我国特高压技术“走出去”的标志性工程。巴基斯坦默蒂亚里—拉合尔为±660kV高压直流，埃塞俄比亚—肯尼亚为±500kV直流，哈萨克斯坦—中国特高压工程并不存在，均不符合“首个海外特高压”的限定。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 8,
+          "no": 8,
+          "score": "0.5",
+          "stem": "以下不属于国家电网有限公司安全理念的是（       ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.人人尽责，重在现场",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.事前预防，真抓实干",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.铁腕治安，久久为功",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.防微杜渐，慎始慎终",
+              "images": []
+            }
+          ],
+          "correct_answer": "D",
+          "user_answer": "C",
+          "is_correct": false,
+          "analysis": "考点：安全理念。国家电网安全理念的规范表述为“人人尽责、重在现场”“事前预防、真抓实干”“铁腕治安、久久为功”。D项“防微杜渐，慎始慎终”虽是正确的安全道理，但不属于该理念的原文表述，故为“不属于”项。做这类题的关键是区分“道理正确”与“原文表述”。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 9,
+          "no": 9,
+          "score": "0.5",
+          "stem": "下列用语中，符合接电话礼仪的是（       ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.“XXX不在，你等会再打过来吧”",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.“你大声点，我听不清”",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.“您好！这里是XXX部门。请问您有什么事”",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.“对不起，XXX不在，你有什么事我告诉他吧”",
+              "images": []
+            }
+          ],
+          "correct_answer": "C",
+          "user_answer": "C",
+          "is_correct": true,
+          "analysis": "考点：职业礼仪。接听电话应主动报出单位/部门并询问来意，C项“您好！这里是XXX部门。请问您有什么事”最规范。A项让对方“等会再打过来”推诿；B项“你大声点，我听不清”语气生硬；D项既不说明去向，又以“你有什么事我告诉他吧”代替转达，且未询问对方是否方便，均失礼。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 10,
+          "no": 10,
+          "score": "0.5",
+          "stem": "《中华人民共和国国民经济和社会发展第十五个五年规划纲要》关于加力建设新型能源基础设施的论述中提出，（       ），建设“三北”风电光伏、西南水风光一体化、沿海核电、海上风电等清洁能源基地，加强分布式能源就近开发利用，布局发展绿色氢氨醇，积极推进光热发电和地热能利用。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.统筹就地消纳和外送",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.坚持外送优先",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.坚持就地消纳优先",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.以新能源利用率提升为导向",
+              "images": []
+            }
+          ],
+          "correct_answer": "A",
+          "user_answer": "A",
+          "is_correct": true,
+          "analysis": "考点：“十五五”规划纲要关于新型能源基础设施的表述。原文强调“统筹就地消纳和外送”，即大型清洁能源基地既要通过特高压等通道外送，也要在本地就近消纳，二者统筹而非偏废。B“外送优先”、C“就地消纳优先”都是片面提法；D“以新能源利用率为导向”不是该处论述的落脚点。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 11,
+          "no": 11,
+          "score": "0.5",
+          "stem": "把下面的六个图形分为两类，使每一类图形都有各自的共同特征或规律，分类正确的一项是：（     ）。",
+          "stem_images": [
+            "images/img_001.png"
+          ],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.①②③，④⑤⑥",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.①③④，②⑤⑥",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.①③⑥，②④⑤",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.①⑤⑥，②③④",
+              "images": []
+            }
+          ],
+          "correct_answer": "C",
+          "user_answer": "C",
+          "is_correct": true,
+          "analysis": "本题为分组分类题目。元素组成相同，但无明显位置规律。观察发现，题干图形均出现两个黑块，且图①③⑥中两个黑块均通过一条线连接，图②④⑤中两个黑块均通过一个面连接，即图①③⑥为一组，图②④⑤为一组。故正确答案为C。",
+          "analysis_source": "original",
+          "analysis_images": []
+        },
+        {
+          "seq": 12,
+          "no": 12,
+          "score": "0.5",
+          "stem": "三位小学老师虞老师、高老师和冯老师，他们每人分别担任音乐、科学、英语、体育、思想品德和数学 6 科中两门课的教学。已知：\n\n（1）科学老师和体育老师住在同一幢公寓楼；\n\n（2）虞老师在三人中年龄最小；\n\n（3）冯老师、音乐老师和体育老师三个人经常一起去打球；\n\n（4）音乐老师比数学老师年龄要大些；\n\n（5）假日里，英语老师、数学老师和虞老师喜欢结伴去旅行。\n\n根据以上条件，可知，冯老师教：",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.音乐",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.思想品德",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.英语",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.科学",
+              "images": []
+            }
+          ],
+          "correct_answer": "D",
+          "user_answer": "D",
+          "is_correct": true,
+          "analysis": "第一步：分析题干条件。（1）科学老师和体育老师不是同一人；（2）虞老师年龄最小；（3）冯老师不教音乐和体育，且音乐老师和体育老师不是同一人；（4）音乐老师年龄大于数学老师，且音乐老师和数学老师不是同一人；（5）虞老师不教英语和数学，且英语老师和数学老师不是同一人。第二步：根据题干条件进行推理。本题最大信息为虞老师，从虞老师入手解题。由条件（2）（4）（5）可知，虞老师不教音乐、英语、数学，所以虞老师教科学、体育、思想品德中的两门；由条件（1）可知科学老师和体育老师不能是同一人，所以虞老师一定教思想品德。再由条件（3）可知，冯老师不教音乐和体育，所以冯老师教数学、英语、科学中的两门；由条件（5）可知英语老师和数学老师不能是同一人，所以冯老师一定教科学。故正确答案为 D。",
+          "analysis_source": "original",
+          "analysis_images": []
+        },
+        {
+          "seq": 13,
+          "no": 13,
+          "score": "0.5",
+          "stem": "考古人员在某地发掘出一些似鸟动物化石，同位素测年显示这些动物生存于中侏罗世晚期（距今1.72亿～1.64亿年）。经考古推算，这些似鸟动物体型与现代鸟类大致接近，尾巴很短，最重要的是它们都具有愈合的尾综骨。考古人员据此认为，这些动物一定属于鸟类。以下哪项最有可能是考古人员论证的前提？（     ）",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.这些似鸟动物长有与现代鸟类相似的脚骨，可以在陆地上行走",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.这些化石保存了诸如肩胛骨、乌喙骨、尾综骨等骨骼，形态清晰",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.鸟类与爬行动物最显著的区别就是鸟类最后几枚尾椎愈合成为尾综骨",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.尾综骨结构的出现对似鸟动物后肢和尾骨的独立运动及飞行能力的完善至关重要",
+              "images": []
+            }
+          ],
+          "correct_answer": "C",
+          "user_answer": "C",
+          "is_correct": true,
+          "analysis": "第一步：找出论点和论据。论点：这些动物一定属于鸟类。论据：这些似鸟动物体型与现代鸟类大致接近，尾巴很短，最重要的是它们都具有愈合的尾综骨。本题论点讨论的是这些似鸟动物属于鸟类，论据讨论的是这些似鸟动物有愈合的尾综骨，二者话题不一致，加强优先考虑搭桥，即在“鸟类”和“愈合的尾综骨”之间建立联系。第二步：逐一分析选项。A项：该项指出这些似鸟动物与现代鸟类具有相似的脚骨，但是不明确脚骨是否能够判断这些似鸟动物为鸟类，属于不明确选项，无法加强，排除；B项：该项强调这些化石保存的尾综骨等形态清晰，说明这些动物确实具有尾综骨，可以加强论据，但不是论证成立的前提，排除；C项：该项指出鸟类与爬行动物的显著区别是鸟类最后几枚尾椎愈合成为尾综骨，建立了“鸟类”和“愈合的尾综骨”之间的联系，为搭桥项，是论证成立的前提，当选； D项：该项强调尾综骨结构对似鸟动物独立运动以及飞行能力的重要性，但不能判断其是否属于鸟类，属于不明确选项，无法加强，排除。故正确答案为C。",
+          "analysis_source": "original",
+          "analysis_images": []
+        },
+        {
+          "seq": 14,
+          "no": 14,
+          "score": "0.5",
+          "stem": "波特五力模型是一种竞争分析工具，用于评估一个行业的竞争力和吸引力。该模型通过对同行业竞争对手的威胁，潜在进入者的威胁、替代品的威胁、上游供应商的议价能力和下游购买者的议价能力这五个方面的分析，帮助企业了解其所处行业的竞争环境，以制定相应的竞争策略。\n\n根据上述定义，关于康复机器人行业，对下列问题的分析不能归入波特五力模型的是：（     ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.康复机器人行业准入门槛高吗？需要强大的技术能力和创新能力吗？",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.医院和康复中心患者规模如何？对于康复机器人的需求有多大？",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.与传统物理治疗等康复治疗方法相比，康复机器人有竞争力吗？",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.康复机器人企业内部各部门之间的协同合作程度高吗？",
+              "images": []
+            }
+          ],
+          "correct_answer": "D",
+          "user_answer": "D",
+          "is_correct": true,
+          "analysis": "第一步：找出定义关键词。“同行业竞争对手的威胁”、“潜在进入者的威胁”、“替代品的威胁”、“上游供应商的议价能力”、“下游购买者的议价能力”、“帮助企业了解其所处行业的竞争环境，以制定相应的竞争策略”。第二步：逐一分析选项。A项：康复机器人行业准入门槛高吗？需要强大的技术能力和创新能力吗？问题中的“准入门槛”、“技术能力和创新能力”直接关系到潜在企业能否进入康复机器人行业，符合波特五力模型中的“潜在进入者的威胁”，符合定义，排除；B项：医院和康复中心患者规模如何？对于康复机器人的需求有多大？问题中的“医院”和“康复中心”是康复机器人的“下游购买者”，“患者规模”与“需求程度”会直接影响购买者采购时的“议价能力”，符合波特五力模型中的“下游购买者的议价能力”，符合定义，排除；C项：与传统物理治疗等康复治疗方法相比，康复机器人有竞争力吗？问题中的“传统物理治疗”是康复机器人的“替代方案”，是在分析“替代品”的竞争力对行业的威胁，符合波特五力模型中的“替代品的威胁”，符合定义，排除；D项：康复机器人企业内部各部门之间的协同合作程度高吗？问题中的“企业内部各部门之间的协同合作程度”属于企业“内部管理”的范畴，不符合波特五力模型中的任何一个，不符合定义，当选。本题为选非题，故正确答案为D。",
+          "analysis_source": "original",
+          "analysis_images": []
+        },
+        {
+          "seq": 15,
+          "no": 15,
+          "score": "0.5",
+          "stem": "与“经年：积岁”在逻辑关系上最相近的是：（     ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.善本：版本",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.秘方：偏方",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.仲夏：夏季",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.黎民：百姓",
+              "images": []
+            }
+          ],
+          "correct_answer": "D",
+          "user_answer": "D",
+          "is_correct": true,
+          "analysis": "第一步：判断题干词语间逻辑关系。“经年”指经过一年或若干年，“积岁”指累积多年，二者均可指经过多年，为近义关系。第二步：判断选项词语间逻辑关系。A项：“善本”指古代书籍中文字讹误较少、学术或艺术价值上比一般本子优异的刻本或写本，“版本”指同一部书因编辑、传抄、刻版、排版或装订形式等的不同而产生的不同的本子，“善本”是“版本”的一种类型，二者不是近义关系，与题干逻辑关系不一致，排除；B项：“秘方”指不公开的有显著医疗效果的药方，“偏方”指民间流传不见于古典医学著作的中药方，前者从是否公开角度划分，后者从是否正规角度划分，二者为交叉关系，与题干逻辑关系不一致，排除；C项：“仲夏”指夏季的第二个月，是“夏季”的一部分，二者为组成关系，与题干逻辑关系不一致，排除；D项：“黎民”指平民、民众，“百姓”指军人和官员以外的人，二者均可指普通民众，为近义关系，与题干逻辑关系一致，当选。故正确答案为D。",
+          "analysis_source": "original",
+          "analysis_images": []
+        },
+        {
+          "seq": 16,
+          "no": 16,
+          "score": "0.5",
+          "stem": "在太空实验室开展的脑电测试实验中，航天员戴的“小红帽”叫作脑电帽，里面嵌入了众多微小的触头，它们像一群______的小侦探，精准捕捉大脑每一个微妙的波动。这顶帽子赋予航天员神奇的能力——无须言语，无须动作，仅仅通过思维就能给电脑下指令，操控各种设备。\n\n填入画横线部分最恰当的一项是：（     ）",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.未卜先知",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.明察秋毫",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.洞若观火",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.随机应变",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "analysis": "横线处形容“小侦探”，且根据后文“精准捕捉大脑每一个微妙的波动”可知，横线处应体现脑电帽中的微小触头能够精准捕捉大脑中的细微信号之意。B项“明察秋毫”形容人很精明，对很小的事情也能察看得清清楚楚，符合文意，当选。A项“未卜先知”指没有占卜便能事先知道，强调“预见性”；C项“洞若观火”指观察事物如同看火一样清楚，形容对事情的本质和发展趋势看得非常透彻明了，强调“看透本质”；D项“随机应变”指跟着情况的变化，掌握时机，灵活应付，强调“灵活性”，三者均无法体现“精准捕捉大脑中的细微信号”之意，排除。故正确答案为B。",
+          "analysis_source": "original",
+          "analysis_images": []
+        },
+        {
+          "seq": 17,
+          "no": 17,
+          "score": "0.5",
+          "stem": "半规管原本是感知头部运动的器官，目前尚不清楚它是如何捕捉气压变化的。当半规管感知气压降低，会将信息传递给前庭神经，再传递给下丘脑。下丘脑负责调整自主神经。自主神经是维持体内状态不变、使身体适应外界变化的神经，分为交感神经和副交感神经，前者负责将身体切换到“战斗模式”，后者负责切换到“放松模式”。当下丘脑因气压变化受到刺激时，自主神经的功能就会紊乱，导致精神状态不佳。交感神经过度活跃时，身体会处于紧张状态，产生焦虑感；交感神经不能正常工作时，人就会无精打采。\n\n根据这段文字，下列说法正确的是：（     ）",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.交感神经负责使人进入放松状态",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.气压变化时人的前庭神经最先感知",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.副交感神经过度活跃使人产生焦虑感",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.气压变化通过下丘脑影响人的精神状态",
+              "images": []
+            }
+          ],
+          "correct_answer": "D",
+          "user_answer": "B",
+          "is_correct": false,
+          "analysis": "A项，根据文段“分为交感神经和副交感神经，前者负责将身体切换到‘战斗模式’，后者负责切换到‘放松模式’”可知，交感神经负责将身体切换到“战斗模式”而非放松状态，偷换概念，排除；B项，根据文段“半规管原本是感知头部运动的器官，目前尚不清楚它是如何捕捉气压变化的。当半规管感知气压降低，会将信息传递给前庭神经”可知，气压变化的信息是通过半规管传递给前庭神经的，故最先感知气压变化的并非前庭神经，表述错误，排除；C项，根据文段“交感神经过度活跃时，身体会处于紧张状态，产生焦虑感”可知，是“交感神经”过度活跃时，身体会产生焦虑感，而非“副交感神经”，偷换概念，排除；D项，根据文段“当下丘脑因气压变化受到刺激时，自主神经的功能就会紊乱，导致精神状态不佳”可知，气压变化通过影响下丘脑，进而影响人的精神状态，表述正确，当选。故正确答案为D。",
+          "analysis_source": "original",
+          "analysis_images": []
+        },
+        {
+          "seq": 18,
+          "no": 18,
+          "score": "0.5",
+          "stem": "1231，2311，3112，1123，（ ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.1132",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.1231",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.2113",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.3212",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "analysis": "方法一：数列各项均为四位数，优先考虑机械划分数列。观察发现，每项数字均由1、1、2、3组成，且后一项是将前一项的千位移动到个位上，其他数字按原顺序排列。故下一项为1231。方法二：数列各项均为四位数，考虑机械划分数列。将每项数字拆分成两部分，即12|31，23|11，31|12，11|23，（    ）。观察可得，|31-12|=19，|11-23|=12，|12-31|=19，|23-11|=12，即每项两部分差的绝对值组成以19、12为周期的周期数列，则所求项两部分差的绝对值应为19，结合选项，仅B项（|31-12|=19）符合。故正确答案为B。",
+          "analysis_source": "original",
+          "analysis_images": []
+        },
+        {
+          "seq": 19,
+          "no": 19,
+          "score": "0.5",
+          "stem": "某企业采购了A、B、C三个品牌的电脑共54台，其中采购A品牌电脑的台数比B品牌电脑少35%。问采购的C品牌电脑比B品牌电脑：（     ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.少1台",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.少2台",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.多1台",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.多2台",
+              "images": []
+            }
+          ],
+          "correct_answer": "C",
+          "user_answer": "C",
+          "is_correct": true,
+          "analysis": "根据题意可得，该企业采购A品牌电脑数量=采购B品牌电脑数量×（1-35%），化简可得采购A电脑/采购B电脑=13/20，设该企业采购A品牌电脑13x台，采购B品牌电脑20x台，由于电脑数量必为正整数，且采购A、B品牌电脑数量之和13x+20x=33x<54台，取x=1，则该企业采购A品牌电脑13×1=13台，采购B品牌电脑20×1=20台，采购C品牌电脑54-13-20=21台，故采购的C品牌电脑比B品牌电脑多21-20=1台。故正确答案为C。",
+          "analysis_source": "original",
+          "analysis_images": []
+        },
+        {
+          "seq": 20,
+          "no": 20,
+          "score": "0.5",
+          "stem": "有4批原材料存放在同一个仓库，工厂每次会从仓库中运出一整批原材料进行加工，加工完成后才能从仓库提取下一批原材料。已知一批原材料在仓库内每存放满1小时需要支付100元的费用，且工厂加工这4批原材料需要的时间分别为4、6、7、8小时，则工厂为这些原材料支付的仓库存放费用至少为（     ）元。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.2800",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.3100",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.3300",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.3500",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "analysis": "加工原材料的时间是固定的，要使费用最少，则原材料存放在仓库的时间要最短，则让加工时间最短的原材料最先加工。最先加工时间为4小时的原材料，则剩下3批原材料等待时间为4×3=12小时；第二批加工时间为6小时的原材料，则剩下2批原材料等待时间为2×6=12小时；第三批加工时间为7小时的原材料，则剩下1批原材料等待时间为7小时；最后加工时间为8小时的原材料，则等待总时间=12+12+7=31小时，每小时支付费用为100元，则工厂为这些原材料支付的仓库存放费用至少为31×100=3100元。故正确答案为B。",
+          "analysis_source": "original",
+          "analysis_images": []
+        }
+      ]
+    },
+    {
+      "title": "二、专业单选题1（每题0.5分，共60题，总计30分）",
+      "materials": [],
+      "items": [
+        {
+          "seq": 21,
+          "no": 21,
+          "score": "0.5",
+          "stem": "设某算法的递归式为 T(n) = 3T(n/2) + n²（n>1），T(1)=1，则该算法的时间复杂度为（      ）",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.O(n log n)",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.O(n^log₂3) ≈ O(n^1.58)",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.O(n²)",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.O(n² log n)",
+              "images": []
+            }
+          ],
+          "correct_answer": "C",
+          "user_answer": "C",
+          "is_correct": true,
+          "analysis": "用主定理求解。递归式 T(n)=3T(n/2)+n² 中 a=3、b=2、f(n)=n²，比较 f(n) 与 n^(log₂3)≈n^1.585：因为 n² 的增长阶高于 n^1.585，且满足正则条件，所以 T(n)=Θ(f(n))=Θ(n²)。直观理解是每层合并/分解的代价 n² 已经超过子问题数量增长带来的代价，故瓶颈在最顶层而非叶子层。B 项是“只用子问题项”的误判，D 项把 n² 与 log n 又多乘了一次，均无依据。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 22,
+          "no": 22,
+          "score": "0.5",
+          "stem": "在带头结点的双向循环链表中，若要在指针 p 所指结点之前插入指针 s 所指结点，则以下操作序列正确的是（      ）",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.s->prior=p->prior; s->next=p; p->prior->next=s; p->prior=s;",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.p->prior=s; s->next=p; s->prior=p->prior; p->prior->next=s;",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.s->next=p; p->prior=s; s->prior=p->prior; p->prior->next=s;",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.p->prior->next=s; s->prior=p->prior; s->next=p; p->next=s;",
+              "images": []
+            }
+          ],
+          "correct_answer": "A",
+          "user_answer": "A",
+          "is_correct": true,
+          "analysis": "在双向链表中插入结点，核心原则是“先接后断”：先让新结点 s 保存好前后指针，最后再修改 p 的 prior，避免丢失原前驱。A 的第一步 s->prior=p->prior 保存了 p 的原前驱 q；第二步 s->next=p；第三步 q->next=s（此时 p->prior 仍指向 q，未丢失）；第四步 p->prior=s。B、C 都在保存前驱之前就修改了 p->prior 或 p->prior->next，会丢失原前驱链；D 最后一步写成 p->next=s，方向错误。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 23,
+          "no": 23,
+          "score": "0.5",
+          "stem": "用大小为 MaxSize 的数组实现循环队列，队头指针 front 指向队头元素的前一个位置，队尾指针 rear 指向队尾元素，并另设变量 count 记录队列中元素个数，则队列为空和为满的条件分别为（      ）",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.front==rear；(rear+1)%MaxSize==front",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.count==0；count==MaxSize",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.front==rear；front==rear",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.count==0；(rear+1)%MaxSize==front",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "D",
+          "is_correct": false,
+          "analysis": "循环队列用 front==rear 判断空满会产生歧义（同一个条件既可能空也可能满），题目另设 count 记录元素个数后，空满判断就与指针无关：count==0 为空，count==MaxSize 为满。A、C 仍是“牺牲一个存储单元”方案的空满条件，且 C 的两式相同自身矛盾；D 把两种方案混用，自相矛盾。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 24,
+          "no": 24,
+          "score": "0.5",
+          "stem": "n 阶对称矩阵采用行优先顺序存储上三角元素（含主对角线），每个元素占4个存储单元，基地址为 LOC(1,1)，下标均从1开始，则元素 a_ij（i≤j）的存储地址为（      ）",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.LOC(1,1) + [(2n-i+2)(i-1)/2 + (j-i)] × 4",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.LOC(1,1) + [(i-1)i/2 + j-1] × 4",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.LOC(1,1) + [(2n-i)(i-1)/2 + j-i] × 4",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.LOC(1,1) + [(n+i)(i-1)/2 + j-1] × 4",
+              "images": []
+            }
+          ],
+          "correct_answer": "A",
+          "user_answer": "D",
+          "is_correct": false,
+          "analysis": "上三角按行优先存储，a_ij（i≤j）之前的元素个数 = 前 i-1 行元素总数 + 本行前 j-i 个。前 i-1 行总数为 Σ(k=1→i-1)(n-k+1) = (i-1)n - (i-1)i/2 + (i-1) = (i-1)(2n-i+2)/2，再加上行内偏移 j-i，最后乘每个元素 4 个存储单元，即 LOC(1,1)+[(2n-i+2)(i-1)/2+(j-i)]×4。B 是下三角（或对称压缩按“行数从1累加”）的公式，C、D 的系数与行首累计量不符。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 25,
+          "no": 25,
+          "score": "0.5",
+          "stem": "字符串模式串 T=\"ababaaab\"（下标从1开始），其 KMP 算法的 nextval 数组为（      ）",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.0,1,0,1,0,4,2,1",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.0,1,1,2,3,4,2,2",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.0,1,0,2,1,4,1,1",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.-1,0,1,0,1,0,4,2",
+              "images": []
+            }
+          ],
+          "correct_answer": "A",
+          "user_answer": "B",
+          "is_correct": false,
+          "analysis": "先求 next：next[1]=0，next[j]=相同前后缀长度+1，得 next=0,1,1,2,3,4,2,2。再求 nextval：nextval[1]=0；若 T[j]==T[next[j]] 则 nextval[j]=nextval[next[j]]，否则 nextval[j]=next[j]。逐位：j=2(b≠a)→1；j=3(a==a)→nextval[1]=0；j=4(b==b)→nextval[2]=1；j=5(a==a)→nextval[3]=0；j=6(a≠b)→4；j=7(a≠b)→2；j=8(b==b)→nextval[2]=1。结果为 0,1,0,1,0,4,2,1。B 是未优化的 next 数组，D 采用了 -1 起始的另一种约定，与本题“下标从1开始”不符。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 26,
+          "no": 26,
+          "score": "0.5",
+          "stem": "一棵完全二叉树有1000个结点，则该二叉树中度为1的结点个数和叶子结点个数分别为（      ）",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.0，500",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.1，500",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.1，501",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.0，501",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "analysis": "完全二叉树中度为1的结点最多一个：n 为偶数时恰有 1 个，n 为奇数时为 0 个。本题 n=1000 为偶数，故度为1的结点为 1 个；又由 n0=n2+1、n0+n1+n2=n，代入 n1=1 得 n0=500。所以是“1，500”。A、D 误认为偶数个结点没有度为1的结点；C 把叶子数算成501，与 n0=n/2 的结论矛盾。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 27,
+          "no": 27,
+          "score": "0.5",
+          "stem": "将含 m 个结点的森林转换为对应的二叉树，已知二叉树根结点的左子树有 a 个结点、右子树有 b 个结点，则森林中第一棵树的结点个数为（      ）",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.m-b-1",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.a+b",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.a+1",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.b+1",
+              "images": []
+            }
+          ],
+          "correct_answer": "C",
+          "user_answer": "C",
+          "is_correct": true,
+          "analysis": "森林转二叉树的规则是“左孩子右兄弟”：第一棵树的根成为二叉树的根，它的所有孩子成为根的左子树，森林中其余各树成为根的右子树。因此右子树 b 个结点与第一棵树无关，第一棵树的结点数 = 根的左子树结点数 + 根自己 = a+1。A 用 m-b-1 把“其余树的结点数”算成了第一棵树，B、D 把左右子树含义弄反。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 28,
+          "no": 28,
+          "score": "0.5",
+          "stem": "对于 n 个顶点、e 条边的有向图，其逆邻接表中（每个顶点的边表中存放以该顶点为终点的边），所有边表结点的总数为（      ）",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.n",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.e",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.2e",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.n+e",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "analysis": "邻接表中每个顶点挂一条边表，存放以该顶点为起点的边，有向图共 e 条边，故所有边表结点总数为 e。逆邻接表存放的是以该顶点为终点的边，每条有向边恰好只在一个终点的边表中出现一次，所以总数仍为 e。C 的 2e 是无向图邻接表（每条边存两次）的结论，D 把顶点表也算进去了。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 29,
+          "no": 29,
+          "score": "0.5",
+          "stem": "一个无向连通图共有 n=1000 个顶点、e=2000 条边，各边权值互不相同。若要以尽可能高的时间效率求解其最小生成树，最合适的算法及时间复杂度为（      ）",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.Prim 算法，O(n²)",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.Kruskal 算法，O(e log e)",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.Floyd 算法，O(n³)",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.Dijkstra 算法，O(n²)",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "analysis": "n=1000、e=2000 属于稀疏图（e 远小于 n²/2≈50万）。Kruskal 的复杂度 O(e log e)，此时约 2000×11，远小于 Prim 邻接矩阵实现的 O(n²)=10⁶。Floyd 求的是全源最短路径、Dijkstra 求单源最短路径，都不是最小生成树算法。选算法的判断依据是“稠密图用 Prim、稀疏图用 Kruskal”。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 30,
+          "no": 30,
+          "score": "0.5",
+          "stem": "对长度为12的有序顺序表进行折半查找（向下取整），在等概率情况下查找成功的平均查找长度 ASL 约为（      ）",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.3.00",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.3.08",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.3.17",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.3.5",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "analysis": "折半查找的判定树是一棵平衡的二叉排序树，ASL=(各结点深度之和)/n。n=12 时前 4 层分别有 1、2、4、5 个结点，深度和 = 1×1+2×2+3×4+4×5 = 1+4+12+20 = 37，ASL=37/12≈3.08。若误按完全二叉树把第 4 层算成 4 个，会得到 3.0；3.17 是把深度和算成 38，3.5 则是把层数理解错。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 31,
+          "no": 31,
+          "score": "0.5",
+          "stem": "设哈希表长 m=11（地址0~10），哈希函数为 H(key)=key%11，采用线性探测法处理冲突。依次插入关键字 22, 41, 53, 46, 30, 13, 1, 67 后，在等概率情况下查找成功的平均查找长度为（      ）",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.1.25",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.1.5",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.1.75",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.2.0",
+              "images": []
+            }
+          ],
+          "correct_answer": "C",
+          "user_answer": "D",
+          "is_correct": false,
+          "analysis": "按 H(key)=key%11 与线性探测依次插入：22→0（1次）；41→8（1次）；53→9（1次）；46→2（1次）；30→8 冲突→9 冲突→10，探测3次；13→2 冲突→3，探测2次；1→1（1次）；67→1、2、3 均冲突→4，探测4次。总探测次数 1+1+1+1+3+2+1+4=14，ASL=14/8=1.75。A、B 忽略了冲突探测，D 把探测次数高估。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 32,
+          "no": 32,
+          "score": "0.5",
+          "stem": "下列排序算法中，最坏情况下时间复杂度仍为 O(n log n)，且是不稳定排序的是（      ）",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.快速排序",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.堆排序",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.归并排序",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.希尔排序",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "analysis": "四个选项中，快速排序最坏 O(n²)；归并排序最坏 O(n log n) 但稳定；希尔排序不稳定，但其最坏时间复杂度取决于增量序列（最坏可达 O(n²)），不满足“仍为 O(n log n)”这一限定；只有堆排序同时满足“最坏 O(n log n)”和“不稳定”两个条件——建堆与反复调整筛选都是 O(n log n)，且堆调整过程中的长距离交换会破坏相等元素的相对次序。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 33,
+          "no": 33,
+          "score": "0.5",
+          "stem": "在数据库三级模式两级映像体系结构中，保证数据物理独立性的机制是（      ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.外模式/模式映像",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.模式/内模式映像",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.外模式",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.内模式",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "analysis": "三级模式为外模式、模式（逻辑模式）、内模式；两级映像中，模式/内模式映像定义了数据的逻辑结构与存储结构之间的对应关系，当内模式（存储方式、物理位置）改变时只需改这一层映像，从而保证数据的物理独立性。外模式/模式映像保证的是逻辑独立性（模式改变不影响应用程序）。C、D 是模式本身而非“映像”，不能直接实现独立性。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 34,
+          "no": 34,
+          "score": "0.5",
+          "stem": "关系模式 R(A,B,C,D,E)，函数依赖集 F={A→BC, CD→E, B→D, E→A}，则 R 的候选码共有（      ）个",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.1",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.2",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.3",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.4",
+              "images": []
+            }
+          ],
+          "correct_answer": "D",
+          "user_answer": "D",
+          "is_correct": true,
+          "analysis": "求各属性组合的闭包：A⁺=ABCDE（A→BC，B→D，CD→E）；E⁺=EABCD（E→A 后再用 A→BC、B→D）；CD⁺=CDEAB；BC⁺=BCDEA（B→D、CD→E、E→A）。四者都是候选码，且都不可再约简（A、E 是单属性显然最小；CD 中 C、D 各自不能推出对方，BC 同理），故候选码有 4 个。只考虑 A 或只考虑 A、E 会漏掉 CD 和 BC 这两个组合码。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 35,
+          "no": 35,
+          "score": "0.5",
+          "stem": "关系 R 和 S 作自然连接运算，下列说法正确的是（      ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.自然连接的结果一定比等值连接的结果元组少",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.自然连接要求在所有同名属性上作等值比较，并在结果中去掉重复的同名属性列",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.自然连接仅从行方向进行运算，不涉及列的筛选",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.当 R 和 S 没有公共属性时，自然连接结果为空集",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "analysis": "自然连接先找出两关系的所有同名属性，要求这些属性取值相等，然后在结果中只保留一份同名属性列，这就是 B 的描述。A 错：自然连接是等值连接的特殊情形，结果元组数一定不多于等值连接，但“一定更少”不成立（可能相等）；C 错：自然连接既筛选行也合并列；D 错：无公共属性时自然连接退化为笛卡尔积，结果非空。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 36,
+          "no": 36,
+          "score": "0.5",
+          "stem": "下列关于 SQL 语句逻辑执行顺序的说法，正确的是（      ）",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.SELECT 最先执行，最后执行 ORDER BY",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.正确顺序为：FROM → ON → JOIN → WHERE → GROUP BY → HAVING → SELECT → DISTINCT → ORDER BY → LIMIT",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.WHERE 子句中可以使用聚合函数对分组前的数据进行过滤",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.HAVING 子句只能配合 GROUP BY 使用，且不能单独出现",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "D",
+          "is_correct": false,
+          "analysis": "SQL 的逻辑执行顺序为 FROM→ON→JOIN→WHERE→GROUP BY→HAVING→SELECT→DISTINCT→ORDER BY→LIMIT，B 正确。A 错在 SELECT 逻辑上最后才算（这也是 WHERE 中不能用 SELECT 列别名的原因）；C 错在 WHERE 不能使用聚合函数，聚合值只能出现在 HAVING 中；D 错在 HAVING 可以脱离 GROUP BY 单独使用，此时把整张表视为一个组。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 37,
+          "no": 37,
+          "score": "0.5",
+          "stem": "下列关于数据库视图（View）的说法，错误的是（      ）",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.视图是虚表，数据库中只存储视图定义，不存储视图对应的数据",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.基于多表连接、含聚合函数或 GROUP BY 的视图一般不允许执行 INSERT/UPDATE/DELETE",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.视图可以基于其他视图定义，形成嵌套视图",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.视图一旦建立，其对应的基表结构就不能再修改",
+              "images": []
+            }
+          ],
+          "correct_answer": "D",
+          "user_answer": "D",
+          "is_correct": true,
+          "analysis": "视图是虚表，数据库只保存定义不存数据；含连接、聚合、GROUP BY 等的视图一般不可更新；视图可以嵌套定义；这些描述都正确。D 项错误：建立视图并不锁定基表结构，基表仍可修改表结构，只是修改后可能导致视图失效或需要重建。因此“错误的是 D”。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 38,
+          "no": 38,
+          "score": "0.5",
+          "stem": "按照 SQL 标准定义的四级事务隔离级别，能够彻底防止脏读、不可重复读和幻读三类问题的隔离级别是（      ）",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.Read Uncommitted（读未提交）",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.Read Committed（读已提交）",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.Repeatable Read（可重复读）",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.Serializable（可串行化）",
+              "images": []
+            }
+          ],
+          "correct_answer": "D",
+          "user_answer": "B",
+          "is_correct": false,
+          "analysis": "SQL 标准四级隔离级别中，读未提交会脏读；读已提交解决脏读但存在不可重复读；可重复读解决不可重复读，但在标准定义下仍可能出现幻读（MySQL 的 RR 通过间隙锁在实现上避免了幻读，但题目问的是标准定义）；只有可串行化能同时杜绝脏读、不可重复读和幻读，代价是并发度最低。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 39,
+          "no": 39,
+          "score": "0.5",
+          "stem": "数据库发生介质故障（磁盘损坏）后，正确的恢复步骤是（      ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.仅使用日志文件即可完成恢复",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.先装入最新的数据库后备副本，再利用日志文件重做（REDO）已提交事务、撤销（UNDO）未提交事务",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.仅需要重新执行最近一次备份后的所有应用程序",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.直接使用镜像磁盘继续工作，无需任何恢复操作",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "analysis": "介质故障（磁盘损坏）属于最严重的故障，恢复必须“副本 + 日志”配合：先装入最近一次转储的后备副本，把数据库恢复到备份时刻的一致状态，再利用日志重做（REDO）备份之后已提交的事务、撤销（UNDO）故障发生时尚未提交的事务。A、C 忽略后备副本，无法重建被损坏的数据；D 的镜像磁盘在双盘同时损坏时无效，且不能替代日志恢复。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 40,
+          "no": 40,
+          "score": "0.5",
+          "stem": "在数据库设计的各阶段中，E-R 图是哪个阶段的主要输出产物，将 E-R 图转换为关系模式又发生在哪个阶段（      ）",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.需求分析阶段；概念结构设计阶段",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.概念结构设计阶段；逻辑结构设计阶段",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.逻辑结构设计阶段；物理结构设计阶段",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.概念结构设计阶段；物理结构设计阶段",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "analysis": "数据库设计分阶段：需求分析→概念结构设计（输出 E-R 图）→逻辑结构设计（把 E-R 图转换为关系模式并规范化）→物理结构设计（存储结构与存取方法）→实施与运行维护。因此 E-R 图是概念结构设计的产物，转换成关系模式发生在逻辑结构设计阶段。A、C、D 均把两个阶段的对应关系错位。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 41,
+          "no": 41,
+          "score": "0.5",
+          "stem": "下列 SQL 语句中，能够实现“收回用户 user1 对学生表 student(sno,sname,sage) 的 sage 字段的修改权限”的是（      ）",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.REVOKE UPDATE(sage) ON student FROM user1;",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.REVOKE UPDATE ON student(sage) FROM user1;",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.DENY UPDATE(sage) ON student TO user1;",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.GRANT UPDATE ON student(sage) TO user1;",
+              "images": []
+            }
+          ],
+          "correct_answer": "A",
+          "user_answer": "A",
+          "is_correct": true,
+          "analysis": "标准 SQL 收回权限的语句是 REVOKE 权限 ON 对象 FROM 用户。本题权限是列级的 sage 字段修改权，列名要写在权限后的括号内，即 REVOKE UPDATE(sage) ON student FROM user1。B 把列名放在表名后（student(sage)）不符语法；C 的 DENY 是 SQL Server 的显式拒绝语法，不是标准 SQL 的“收回”；D 是授予而非收回，方向相反。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 42,
+          "no": 42,
+          "score": "0.5",
+          "stem": "下列关于“软件危机”的描述，错误的是（      ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.软件成本增长难以控制，开发进度一再拖延",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.软件质量难以保证，软件维护十分困难",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.软件开发与生产过程中缺乏有效的方法和工具支持",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.计算机硬件性能不足，无法支撑大型软件的运行",
+              "images": []
+            }
+          ],
+          "correct_answer": "D",
+          "user_answer": "C",
+          "is_correct": false,
+          "analysis": "软件危机是指在软件开发和维护过程中遇到的一系列严重问题：开发成本与进度难以控制、质量难以保证、维护困难、缺乏有效的方法和工具。D 项“硬件性能不足”属于早期的硬件瓶颈，恰恰不是软件危机的表现——软件危机的根源在于软件本身的复杂性和工程化管理缺失。因此错误的是 D。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 43,
+          "no": 43,
+          "score": "0.5",
+          "stem": "某软件项目需求明确且稳定，开发流程要求严格受控，每个阶段的交付物都必须经过评审确认后才能进入下一阶段。该项目最适宜采用的生存周期模型是（      ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.瀑布模型",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.原型模型",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.螺旋模型",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.喷泉模型",
+              "images": []
+            }
+          ],
+          "correct_answer": "A",
+          "user_answer": "C",
+          "is_correct": false,
+          "analysis": "需求明确且稳定、开发流程严格受控、每阶段交付物必须评审确认后才能进入下一阶段，这些正是瀑布模型（阶段化、文档驱动、顺序推进）的适用条件。原型模型适用于需求不明确、需要与用户反复确认的场景；螺旋模型强调风险分析与多轮迭代，适用于大型高风险项目；喷泉模型是面向对象的迭代模型，强调阶段间无缝重叠，与“严格受控、逐阶段评审”相反。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 44,
+          "no": 44,
+          "score": "0.5",
+          "stem": "需求分析阶段，用户提出“系统应在用户提交查询后 2 秒内返回结果”，该表述属于（     ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.功能需求",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.非功能需求",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.设计约束",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.数据需求",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "analysis": "“2 秒内返回结果”约束的是系统的性能（响应时间），而不是系统“做什么”，因此属于非功能需求。功能需求描述系统应提供的功能与服务；设计约束通常指技术、平台、标准、法规等对实现的限制（如“必须使用国产数据库”）；数据需求描述数据的组成与关系。性能、可靠性、安全性、易用性等质量属性都归入非功能需求。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 45,
+          "no": 45,
+          "score": "0.5",
+          "stem": "某模块内部把几个逻辑上相似的功能组合在一起，每次调用时根据传入的判定值只执行其中的一个功能。该模块的内聚类型是（      ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.偶然内聚",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.逻辑内聚",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.时间内聚",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.通信内聚",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "analysis": "按“逻辑功能相似”把若干功能组合在一个模块中，调用时根据传入的判定值（开关）只执行其中一个，这是典型的逻辑内聚。偶然内聚是模块内各部分之间毫无关系；时间内聚要求各功能必须在同一时间段内执行（如初始化模块）；通信内聚要求各部分操作同一数据结构或使用相同的输入/输出。题干的“按传入判定值选择执行”是识别逻辑内聚的关键特征。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 46,
+          "no": 46,
+          "score": "0.5",
+          "stem": "下列关于程序设计（编码）阶段的做法，正确的是（      ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.为追求运行效率，应优先使用各种巧妙技巧压缩代码",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.标识符只要能通过编译即可，无需考虑其含义",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.应当在保证程序正确性和可读性的前提下，再考虑提高效率",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.注释会降低程序执行效率，因此应尽量少写注释",
+              "images": []
+            }
+          ],
+          "correct_answer": "C",
+          "user_answer": "C",
+          "is_correct": true,
+          "analysis": "程序设计阶段的基本准则是先保证正确性，再保证可读性，最后才在必要时优化效率，故选 C。A 追求“巧妙技巧压缩代码”会牺牲可读性与可维护性，且现代编译器优化远胜手工技巧；B 标识符应见名知义，是编码规范的基本要求；D 注释编译后不进入目标代码，不影响执行效率，反而大大提高可维护性。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 47,
+          "no": 47,
+          "score": "0.5",
+          "stem": "采用自底向上策略进行集成测试时，需要为各模块编写的是（      ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.桩模块",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.驱动模块",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.测试计划",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.用户手册",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "C",
+          "is_correct": false,
+          "analysis": "自底向上集成从最底层模块开始逐层向上组装，被测模块的下层已经就绪，缺的是调用它的“上层”，因此需要编写驱动模块（driver）来模拟主程序调用被测模块并传递参数。桩模块（stub）是自顶向下集成时用来模拟被调用的下层模块。测试计划和用户手册不属于集成测试用的模拟模块。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 48,
+          "no": 48,
+          "score": "0.5",
+          "stem": "某计算机主频为 2GHz，某程序在该机器上共执行了 2×10⁹ 条指令，平均 CPI 为 1.25，则该程序的 MIPS 数和执行时间分别为（      ）",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.1600 MIPS，1.25 s",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.1600 MIPS，1.6 s",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.2500 MIPS，0.8 s",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.800 MIPS，2.5 s",
+              "images": []
+            }
+          ],
+          "correct_answer": "A",
+          "user_answer": "D",
+          "is_correct": false,
+          "analysis": "MIPS=主频/CPI（以百万条指令计）=2×10⁹/1.25=1600 MIPS。执行时间=指令总数×CPI/主频=2×10⁹×1.25/2×10⁹=1.25 s。也可用 CPU 周期数=2×10⁹×1.25=2.5×10⁹ 个周期，除以 2×10⁹ Hz 得 1.25 s。B 把执行时间算成 1.6 s（相当于用 CPI=1.6），C 把主频与 CPI 的关系用反，D 则是 CPI 取倒数导致的双重错误。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 49,
+          "no": 49,
+          "score": "0.5",
+          "stem": "若某机器数用 8 位补码表示为 10010101，则该数对应的十进制真值为（      ）",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.-21",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.-107",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.-149",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.21",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "analysis": "补码 10010101 的最高位为 1，说明是负数。按“取反加一”求绝对值：10010101 取反得 01101010，加一得 01101011=107，故真值为 -107。也可按权值展开：-1×2⁷+0×2⁶+0×2⁵+1×2⁴+0×2³+1×2²+0×2¹+1×2⁰=-128+16+4+1=-107。A 的 -21 是把低 5 位误当成数值；C 的 -149 超出 8 位补码表示范围（-128~127），不可能。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 50,
+          "no": 50,
+          "score": "0.5",
+          "stem": "某计算机 Cache 存取周期为 10ns，主存存取周期为 100ns，Cache 命中率为 95%。系统采用“Cache-主存层次同时访问”策略（命中时仅访问Cache，未命中时直接访问主存，二者并行启动），则平均访问时间为（      ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.10ns",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.14.5ns",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.15ns",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.55ns",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "C",
+          "is_correct": false,
+          "analysis": "“同时访问”（并行启动）策略下，命中时只花 Cache 的 10ns；未命中时主存与 Cache 同时启动，取回数据的时间是主存的 100ns（不是 10+100）。因此平均访问时间=0.95×10+0.05×100=9.5+5=14.5ns。C 的 15ns 是把未命中代价算成约 110ns；D 的 55ns 是按串行访问模型得到的值，与“并行启动”的前提不符。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 51,
+          "no": 51,
+          "score": "0.5",
+          "stem": "某页式虚拟存储器系统中，页面大小为 4KB，某进程页表如下（有效位为1表示在主存）：虚页号0→实页号3；虚页号1→实页号5；虚页号2→缺页；虚页号3→实页号1。则逻辑地址 0x00001A7C 对应的物理地址为（      ）",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.0x00005A7C",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.0x00003A7C",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.0x00001A7C",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.缺页中断",
+              "images": []
+            }
+          ],
+          "correct_answer": "A",
+          "user_answer": "A",
+          "is_correct": true,
+          "analysis": "页面大小 4KB=2¹²，故低 12 位为页内偏移，高位为虚页号。逻辑地址 0x00001A7C 的低 12 位是 0xA7C，虚页号=0x1。查页表：虚页号 1 对应实页号 5，有效位为 1（在主存），物理地址=实页号拼接页内偏移=0x5A7C。B 误把实页号 3 当答案（3 是虚页号 0 的映射值）；D 只有访问虚页号 2（缺页）时才成立。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 52,
+          "no": 52,
+          "score": "0.5",
+          "stem": "某转移指令采用相对寻址方式，指令长度为2字节，存放在主存地址为 2000（十进制）的单元中，取指后 PC 自动增量。若指令中给出的偏移量为 -10（8位补码），则转移成功后的目标地址为（      ）",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.1990",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.1992",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.2008",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.2010",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "analysis": "相对寻址的有效地址=转移指令更新后的 PC+偏移量。指令长 2 字节，取指后 PC 自动加 2 变为 2002；偏移量 -10 用 8 位补码 11110110 表示，符号扩展后为 -10，故目标地址=2002-10=1992。A 的 1990 是漏掉 PC 增量、直接拿 2000 相加的结果；C、D 把负偏移当正偏移处理。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 53,
+          "no": 53,
+          "score": "0.5",
+          "stem": "某指令流水线由取指(IF)、译码(ID)、执行(EX)、访存(MEM)、写回(WB)5个阶段组成，各段延迟均为 1ns，数据冒险通过转发（forwarding）解决、控制冒险通过静态预测“永不跳转”处理（分支损失1个周期）。现连续执行100条指令，其中第20、40、60、80条为条件分支指令且全部实际发生跳转，则流水线总执行时间约为（      ）",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.104 ns",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.108 ns",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.113 ns",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.130 ns",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "A",
+          "is_correct": false,
+          "analysis": "5 段流水线、各段 1ns，无冒险时执行 100 条指令的周期数为 5+(100-1)=104，即 104ns。数据冒险用转发解决，不产生额外停顿；控制冒险按“永不跳转”静态预测，每条实际跳转的分支损失 1 个周期，共 4 条（第20、40、60、80条），额外 4ns，合计 108ns。A 忽略了分支损失；C 多算了 5 个周期；D 把每条分支的损失放大成多个周期。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 54,
+          "no": 54,
+          "score": "0.5",
+          "stem": "下列关于硬布线控制器与微程序控制器的比较，正确的是（      ）",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.硬布线控制器通过执行存放在控制存储器中的微指令产生控制信号",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.微程序控制器指令系统的修改与扩展更为方便，适合 CISC 架构",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.微程序控制器的速度普遍快于硬布线控制器",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.硬布线控制器采用程序存储思想，设计规整便于调试",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "C",
+          "is_correct": false,
+          "analysis": "微程序控制器把控制信号编成微指令存放在控制存储器中，修改指令系统只需改写微程序，便于扩展、适合 CISC。硬布线控制器由组合逻辑直接产生控制信号，速度快但修改困难。据此：A 描述的是微程序控制器，张冠李戴；C 说反了（硬布线通常更快）；D 也说反了（采用“程序存储”思想的是微程序控制器）。只有 B 正确。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 55,
+          "no": 55,
+          "score": "0.5",
+          "stem": "在以下四种 I/O 控制方式中，CPU 与外设并行程度最高、CPU 干预次数最少的是（      ）",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.程序查询方式",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.程序中断方式",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.DMA 方式",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.通道方式",
+              "images": []
+            }
+          ],
+          "correct_answer": "D",
+          "user_answer": "C",
+          "is_correct": false,
+          "analysis": "四种 I/O 控制方式中，程序查询方式 CPU 全程等待、并行度最差；程序中断方式在传送每个数据时仍需 CPU 介入；DMA 以数据块为单位，块内不需 CPU 干预；通道方式由通道处理器执行通道程序，可同时管理多台设备、多组数据块传输，CPU 只在 I/O 开始和结束时参与，因此与外设并行程度最高、CPU 干预次数最少。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 56,
+          "no": 56,
+          "score": "0.5",
+          "stem": "按照 Flynn 分类法，单核 CPU 同时利用 SSE/AVX 向量指令对多个数据元素执行相同运算，以及多核 CPU 上多个线程分别执行不同指令处理不同数据，分别属于（      ）",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.SISD，MIMD",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.SIMD，MIMD",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.SIMD，SIMT",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.MISD，MIMD",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "analysis": "Flynn 分类按“指令流/数据流”是否单一划分。SSE/AVX 属于单指令多数据（SIMD）：一条向量指令同时作用于多个数据元素。多核 CPU 上多个线程各自执行不同指令、处理不同数据，属于多指令多数据（MIMD）。SISD 是传统单核顺序执行；MISD 实用系统中几乎不存在；SIMT 是 GPU 线程级并行的变体，而题干第二问明确“各自的指令处理各自的数据”，应归 MIMD。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 57,
+          "no": 57,
+          "score": "0.5",
+          "stem": "当前主流大语言模型（LLM，如 GPT-4、文心一言、Llama 等）所依赖的核心神经网络架构是（      ）",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.LeNet-5 等卷积神经网络（CNN）",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.Transformer（自注意力机制架构）",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.LSTM/GRU 等循环神经网络（RNN 变体）",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.生成对抗网络（GAN）",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "analysis": "以 GPT-4、文心一言、Llama 为代表的大语言模型，底层都是 Transformer 架构，依靠自注意力（Self-Attention）机制建模长距离依赖，并通过大规模预训练获得生成与理解能力。CNN 擅长图像等网格数据；RNN/LSTM 存在长程依赖衰减与串行计算瓶颈；GAN 用于生成式对抗训练。三者都不是当前大模型的主干架构。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 58,
+          "no": 58,
+          "score": "0.5",
+          "stem": "下列机器学习任务/算法中，属于无监督学习的是（      ）",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.基于标注样本训练决策树进行垃圾邮件识别",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.使用 K-Means 算法对用户进行聚类分群",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.使用卷积神经网络对 ImageNet 数据集进行图像分类",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.Q-Learning 等智能体在环境中通过试错学习最优策略",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "analysis": "无监督学习使用无标签数据发现内在结构。K-Means 只依据样本间距离把数据分成若干簇，不需要任何标注，属于典型无监督学习。A（有标注样本训练决策树）、C（ImageNet 图像分类，有标签）、D（Q-Learning 通过环境奖励信号学习策略）分别属于有监督学习和强化学习。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 59,
+          "no": 59,
+          "score": "0.5",
+          "stem": "物联网（IoT）经典三层架构中，负责信息采集和物体识别的是（       ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.感知层——传感器、RFID、二维码、嵌入式系统",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.网络层——5G、Wi-Fi、蓝牙、LoRa",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.应用层——智慧城市、智能家居、工业互联网",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.平台层——云计算、大数据存储",
+              "images": []
+            }
+          ],
+          "correct_answer": "A",
+          "user_answer": "A",
+          "is_correct": true,
+          "analysis": "物联网经典三层架构为感知层、网络层、应用层。感知层负责“识别物体、采集信息”，包括传感器、RFID、二维码、摄像头、嵌入式系统等。网络层负责把数据可靠传出去（5G、Wi-Fi、蓝牙、LoRa 等）；应用层面向具体业务（智慧城市、智能家居、工业互联网）；平台层是三层架构之外的扩展划分，负责数据汇聚与能力开放。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 60,
+          "no": 60,
+          "score": "0.5",
+          "stem": "下列物联网通信协议/技术中，属于低功耗广域网（LPWAN）、适合远距离低功耗场景的是（      ）",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.HTTP / TCP",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.LoRa 与 NB-IoT",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.蓝牙（Bluetooth）",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.ZigBee",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "A",
+          "is_correct": false,
+          "analysis": "低功耗广域网（LPWAN）的特征是远距离（数公里至十几公里）、低速率、低功耗、低成本，典型技术是 LoRa 与 NB-IoT。HTTP/TCP 是通用互联网协议，功耗与开销大；蓝牙传输距离通常十米级；ZigBee 属于短距离低速个域网，需组网多跳，均不符合“远距离低功耗”的限定。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 61,
+          "no": 61,
+          "score": "0.5",
+          "stem": "云计算三种服务模式 IaaS、PaaS、SaaS 按“用户管理职责由多到少”排列正确的是（      ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.SaaS > PaaS > IaaS",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.IaaS > PaaS > SaaS",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.PaaS > IaaS > SaaS",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.IaaS > SaaS > PaaS",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "analysis": "IaaS/PaaS/SaaS 的服务层次越高，云厂商承担的职责越多，用户自管的部分越少。IaaS 只提供计算、存储、网络等基础设施，用户要自己装系统、中间件、应用；PaaS 提供运行平台，用户只管应用；SaaS 直接提供可用软件，用户几乎不用管运维。因此“用户管理职责由多到少”为 IaaS＞PaaS＞SaaS，A、C、D 的顺序均与此规律不符。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 62,
+          "no": 62,
+          "score": "0.5",
+          "stem": "下列关于云边协同（Cloud-Edge Collaboration）的描述，错误的是（     ）",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.边缘端负责本地实时数据处理、低延迟响应与隐私数据就地处理",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.云端负责大数据分析、全局模型训练、非实时的复杂计算任务",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.云边协同通过合理任务分配，可降低带宽压力、减少响应时延",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.云边协同意味着边缘计算将完全取代云计算，所有计算任务都下沉到边缘",
+              "images": []
+            }
+          ],
+          "correct_answer": "D",
+          "user_answer": "D",
+          "is_correct": true,
+          "analysis": "云边协同的本质是“分工”而非“替代”：边缘端负责本地实时处理、低时延响应和隐私数据就地处理；云端负责全局大数据分析、模型训练与非实时复杂计算；二者按任务特性合理分配，从而降低带宽压力与时延。D 项说“边缘计算将完全取代云计算、所有任务都下沉到边缘”，既不符合技术逻辑（边缘算力有限、无法承担全局训练），也与产业实践相反。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 63,
+          "no": 63,
+          "score": "0.5",
+          "stem": "下列关于大数据 5V 特征的描述，正确的是（      ）",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.Volume（大量）、Velocity（高速）、Variety（多样）、Value（低价值密度）、Veracity（真实性）",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.Volume、Velocity、Variety、Visualization（可视化）、Value",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.Volume、Velocity、Variety、Validity、Virtual",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.Volume、Velocity、Variety、Vast、Variable",
+              "images": []
+            }
+          ],
+          "correct_answer": "A",
+          "user_answer": "A",
+          "is_correct": true,
+          "analysis": "大数据的 5V 特征是：Volume（数据量大）、Velocity（产生与处理速度快）、Variety（数据类型多样，结构化/半结构化/非结构化）、Value（价值密度低）、Veracity（真实性/准确性）。B 把 Value 换成 Visualization，D 的 Vast、Variable 是杜撰词，C 的 Validity、Virtual 也不是 5V 的标准表述。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 64,
+          "no": 64,
+          "score": "0.5",
+          "stem": "在DNS的资源记录中，记录类型“A”表示（      ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.邮件交换器记录",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.地址记录",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.域名服务器记录",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.别名记录",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "analysis": "DNS 资源记录类型：A（Address）为 IPv4 地址记录，把域名映射到 IP；MX 为邮件交换器记录；NS 为域名服务器记录；CNAME 为别名记录；AAAA 为 IPv6 地址记录。题干问“A”记录，即地址记录。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 65,
+          "no": 65,
+          "score": "0.5",
+          "stem": "在公钥基础设施PKI中，负责签发数字证书的实体是（      ）",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.CA",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.RSA",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.DA",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.SSL",
+              "images": []
+            }
+          ],
+          "correct_answer": "A",
+          "user_answer": "A",
+          "is_correct": true,
+          "analysis": "PKI（公钥基础设施）中，CA（Certificate Authority，认证中心）负责签发和管理数字证书，用自身私钥对证书签名，是信任链的锚点。RSA 是一种非对称加密算法，不是实体机构；DA（目录服务代理）负责证书查询发布，不签发；SSL/TLS 是安全传输协议，不签发证书。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 66,
+          "no": 66,
+          "score": "0.5",
+          "stem": "某主机地址为10.1.20.30/28 ，则该主机所在网络的IP地址是（       ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.10.0.0.0",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.10.1.20.0",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.10.1.20.16",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.10.1.20.32",
+              "images": []
+            }
+          ],
+          "correct_answer": "C",
+          "user_answer": "C",
+          "is_correct": true,
+          "analysis": "/28 的掩码是 255.255.255.240，即前 28 位为网络位。把 10.1.20.30 与掩码相“与”：第四段 30 的二进制为 00011110，与 11110000 相与得 00010000=16，故网络地址为 10.1.20.16。A、B 把掩码当成 /8、/24；D 的 10.1.20.32 是相邻子网的网络地址（本子网范围是 .16~.31，广播地址为 .31）。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 67,
+          "no": 67,
+          "score": "0.5",
+          "stem": "下列最能体现“最小权限原则”的是（      ）",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.所有员工使用同一管理员账号",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.用户仅被授予完成任务所必需的权限",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.分配权限时应该尽量细化",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.日志记录所有操作行为",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "analysis": "最小权限原则是指用户只被授予完成其工作所必需的最小权限集合，不多给。A 所有员工共用管理员账号，权限最大化，严重违反该原则；C“权限分配尽量细化”是落实最小权限的手段，但表述本身没有点明“仅授予必需权限”，属于偷换概念；D 日志审计是事后追责手段，不属于授权原则。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 68,
+          "no": 68,
+          "score": "0.5",
+          "stem": "IP数据报长度为5000B，IP首部中没有选项部分，如果通过最大帧长为1518B的以太网链路，分片后最后一个IP数据报分片的长度是（      ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.540B",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.560B",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.1480B",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.1500B",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "A",
+          "is_correct": false,
+          "analysis": "以太网最大帧长 1518B，去掉 14B 帧头和 4B FCS，链路层 MTU=1500B。IP 首部无选项为 20B，故每片数据部分最多 1480B（且须为 8 的倍数）。原数据报数据部分=5000-20=4980B；4980=1480×3+540，前 3 片各 1480B 数据（每片 1500B），最后一片 540B 数据 + 20B 首部=560B。A 的 540B 漏算 IP 首部；C 的 1480B 是中间分片的数据长度；D 的 1500B 是中间分片总长。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 69,
+          "no": 69,
+          "score": "0.5",
+          "stem": "以太帧中FCS使用的算法是（      ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.检验和",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.CRC",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.奇偶校验",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.RSA",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "analysis": "以太网帧尾的 FCS（帧检验序列）采用 CRC-32 循环冗余校验，生成多项式为 G(x)=x³²+x²⁶+x²³+x²²+x¹⁶+x¹²+x¹¹+x¹⁰+x⁸+x⁷+x⁵+x⁴+x²+x+1。检验和（Internet checksum）用于 IP/TCP/UDP 首部；奇偶校验能力弱，只用于简单场景；RSA 是加密算法，不用于帧校验。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 70,
+          "no": 70,
+          "score": "0.5",
+          "stem": "下列应用层协议中，传输层使用UDP的是（      ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.Telnet",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.SNMP",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.HTTP",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.IMAP",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "D",
+          "is_correct": false,
+          "analysis": "SNMP（简单网络管理协议）使用 UDP 161/162 端口，因为网络管理报文需要轻量、低开销，可容忍少量丢失。Telnet 使用 TCP 23，HTTP 使用 TCP 80，IMAP 使用 TCP 143。因此只有 SNMP 属于应用层中使用 UDP 的协议（同类还有 DNS、DHCP、TFTP、RIP、NTP）。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 71,
+          "no": 71,
+          "score": "0.5",
+          "stem": "在一个TCP连接中，MSS为1KB，当拥塞窗口为24KB时出现超时，如果在接下来的5个RTT内报文段均得到确认后，拥塞窗口的大小变为（      ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.32KB",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.24KB",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.13KB",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.12KB",
+              "images": []
+            }
+          ],
+          "correct_answer": "C",
+          "user_answer": "C",
+          "is_correct": true,
+          "analysis": "超时后进入慢开始：ssthresh 取当时拥塞窗口的一半，即 24/2=12KB；cwnd 重置为 1 个 MSS=1KB。之后每个 RTT 窗口加倍：RTT1 后 2KB，RTT2 后 4KB，RTT3 后 8KB，RTT4 后 12KB（此时达到 ssthresh，转入拥塞避免，每 RTT 加 1KB），RTT5 后 13KB。故 5 个 RTT 后为 13KB。B 忽略了超时后的窗口重置；D 少算了一个 RTT 的拥塞避免增量。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 72,
+          "no": 72,
+          "score": "0.5",
+          "stem": "下列关于进程三种基本状态转换的描述，正确的是（      ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.进程从运行态转变为阻塞态，是因为时间片用完",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.处于阻塞态的进程，等待的事件发生后，可以直接转换为运行态",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.一个正在CPU上运行的进程，如果启动了输入输出操作，该进程会主动进入阻塞态",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.若就绪队列中的高优先级进程抢占当前正在CPU运行的低优先级进程，则被抢占的低优先级进程会进入阻塞态。",
+              "images": []
+            }
+          ],
+          "correct_answer": "C",
+          "user_answer": "C",
+          "is_correct": true,
+          "analysis": "进程三态转换规则：运行→阻塞是进程自身执行 I/O 等操作主动让出 CPU（C 正确）；运行→就绪是时间片用完或被抢占（A 错，时间片用完应转就绪而非阻塞）；阻塞→就绪是等待的事件发生（B 错，不能直接转运行，必须先到就绪队列排队）；D 中被抢占的进程应转就绪态，不是阻塞态。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 73,
+          "no": 73,
+          "score": "0.5",
+          "stem": "关于进程调度与死锁，下列说法正确的是（      ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.银行家算法通过破坏“请求与保持”条件来预防死锁。",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.时间片轮转调度中，时间片越大，系统开销越大。",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.若系统处于安全状态，则一定不会死锁；反之，若处于不安全状态，则一定会发生死锁。",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.采用动态优先级调度可以解决低优先级进程的“饥饿”问题",
+              "images": []
+            }
+          ],
+          "correct_answer": "D",
+          "user_answer": "D",
+          "is_correct": true,
+          "analysis": "动态优先级可根据等待时间调整优先级（老化技术），使长期等待的低优先级进程逐步提高优先级，从而缓解饥饿，D 正确。A 错：银行家算法属于死锁避免（判断安全状态），不是通过破坏四个必要条件来预防；B 错：时间片越大，切换次数越少，系统开销越小；C 错：不安全状态只是“可能”死锁，不是“一定”死锁。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 74,
+          "no": 74,
+          "score": "0.5",
+          "stem": "页面置换算法使用不当可能会出现（      ）现象",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.死锁",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.饥饿",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.阻塞",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.抖动",
+              "images": []
+            }
+          ],
+          "correct_answer": "D",
+          "user_answer": "B",
+          "is_correct": false,
+          "analysis": "页面置换算法使用不当（如分配给进程的物理块数少于工作集需求、采用 FIFO 等）会导致刚换出的页面立即又被访问，缺页率急剧上升、CPU 利用率骤降，这种现象称为抖动（thrashing）。死锁是进程互相等待资源；饥饿是进程长期得不到调度；阻塞是进程等待事件。三者与页面置换无直接对应关系。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 75,
+          "no": 75,
+          "score": "0.5",
+          "stem": "关于SPOOLing技术，下列说法正确的是（      ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.是一种联机输入输出技术，用磁盘模拟独占设备",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.提高了独占设备的利用率，将共享设备改造为独占设备",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.不需要CPU参与",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.主要用于内存管理",
+              "images": []
+            }
+          ],
+          "correct_answer": "A",
+          "user_answer": "A",
+          "is_correct": true,
+          "analysis": "SPOOLing（假脱机）技术用磁盘上的输入井、输出井模拟独占设备，把一台独占设备改造为可被多个进程共享的逻辑设备，是典型的联机输入输出技术，A 正确。B 说反了（是把独占设备改造成共享设备）；C 错，SPOOLing 需要 CPU 参与管理输入井/输出井的调度；D 错，它属于设备管理而非内存管理。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 76,
+          "no": 76,
+          "score": "0.5",
+          "stem": "操作系统的四大基本特征不包括下列哪一项？（      ）",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.并发性",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.异步性",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.交互性",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.虚拟性",
+              "images": []
+            }
+          ],
+          "correct_answer": "C",
+          "user_answer": "C",
+          "is_correct": true,
+          "analysis": "操作系统的四大基本特征是并发、共享、虚拟、异步。交互性（人机交互）并不是所有操作系统都具备的基本特征（批处理系统就没有交互性），因此不属于四大特征。注意“并发”与“并行”的区别：并发指宏观上同时、微观上交替，是 OS 的基本特征。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 77,
+          "no": 77,
+          "score": "0.5",
+          "stem": "内存分配方式中，不会产生内部碎片的是（      ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.固定分区分配",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.动态分区分配",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.分页存储管理",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.段页式存储管理",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "A",
+          "is_correct": false,
+          "analysis": "动态分区分配按进程实际需求划分内存，分区大小恰好等于需求，因此不会产生内部碎片，但会在内存中留下大量不连续的小空闲区，产生外部碎片，需要靠紧凑（拼接）解决。固定分区、分页、段页式都按固定大小的块/页/段划分，最后一块往往装不满，会产生内部碎片。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 78,
+          "no": 78,
+          "score": "0.5",
+          "stem": "将一个文件加密主要是为了防止（      ）",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.文件被他人修改",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.文件被他人阅读",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.文件被他人执行",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.文件被他人复制",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "analysis": "文件加密把明文变换为密文，目的是防止未授权者读取文件内容（机密性）。防止修改靠的是完整性校验与访问控制；防止执行靠的是执行权限控制；防止复制靠的是访问控制与数字水印/DRM，均不是加密的主要目的。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 79,
+          "no": 79,
+          "score": "0.5",
+          "stem": "下列关于CPU双重工作模式的叙述，正确的是（      ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.用户程序执行访管指令后，CPU会保持在用户态继续运行",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.在核心态下可以执行全部指令，包括特权指令",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.当中断发生时，CPU仍然维持原来的用户态，中断处理程序依旧运行在用户态",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.进程从用户态切换到核心态属于进程状态转换，会改变PCB里进程的就绪/运行/阻塞标记",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "analysis": "CPU 双重工作模式指用户态与核心态。核心态可执行包括特权指令在内的全部指令，B 正确。A 错：执行访管（trap）指令会从用户态切换到核心态，不会停留用户态；C 错：中断发生后 CPU 进入核心态，中断处理程序运行在核心态；D 错：用户态/核心态的切换属于 CPU 运行模式切换，不是进程状态（就绪/运行/阻塞）转换，不修改 PCB 中的状态标记。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 80,
+          "no": 80,
+          "score": "0.5",
+          "stem": "下列关于中断的叙述，正确的是（      ）",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.一般所说的中断指外中断，如I/O中断，而陷入指内中断，如缺页中断",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.关中断指令属于非特权指令，用户态程序可以直接执行",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.中断处理完成后，被中断的进程一定继续从断点处恢复执行，不会发生进程调度切换",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.在一个中断处理的过程中不能响应其它中断",
+              "images": []
+            }
+          ],
+          "correct_answer": "A",
+          "user_answer": "D",
+          "is_correct": false,
+          "analysis": "A 正确：通常所说的“中断”指外中断（I/O 中断、时钟中断），而“陷入”（trap）指内中断，由 CPU 内部事件引起，如缺页、除零、系统调用。B 错：关中断/开中断指令是特权指令，用户态不能执行；C 错：中断处理结束后可能触发进程调度，被中断进程不一定立即恢复；D 错：中断可以嵌套，高优先级中断可打断低优先级中断处理。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        }
+      ]
+    },
+    {
+      "title": "三、专业单选题2（每题1分，共5题，总计5分）",
+      "materials": [],
+      "items": [
+        {
+          "seq": 81,
+          "no": 81,
+          "score": "1",
+          "stem": "下列关于分治法、动态规划、贪心算法的说法，正确的是（      ）",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.分治法通过自底向上求解，动态规划通过自顶向下求解",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.动态规划要求子问题具有重叠性与无后效性，分治法则要求子问题相互独立",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.贪心算法总能得到全局最优解，动态规划仅能得到局部最优",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.分治法必须使用备忘录方法避免重复计算",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "analysis": "A 错：分治通常是“自顶向下分解、自底向上合并求解”，动态规划既可自底向上递推也可自顶向下记忆化递归，题干把两者简单对立且说反；B 正确：动态规划的前提是子问题重叠与无后效性（最优子结构），而分治要求子问题相互独立、不重复；C 错：贪心只有在满足贪心选择性质与最优子结构时才能得到全局最优，并非总是；D 错：备忘录是动态规划的优化手段，分治不需要。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 82,
+          "no": 82,
+          "score": "1",
+          "stem": "某程序段的控制流图共有 12 条边、10 个节点（单入口、单出口）。按照 McCabe 度量法计算其环形复杂度 V(G)，则设计白盒测试用例时，该程序线性无关路径数的上限为（     ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.2",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.3",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.4",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.12",
+              "images": []
+            }
+          ],
+          "correct_answer": "C",
+          "user_answer": "A",
+          "is_correct": false,
+          "analysis": "McCabe 环形复杂度 V(G) 有三种等价算法：V(G)=E-N+2（单入口单出口）、V(G)=判定结点数+1、V(G)=平面区域数。本题 E=12、N=10，故 V(G)=12-10+2=4。环形复杂度等于线性无关路径的条数，也就是白盒测试中基本路径测试所需用例数的上限，因此为 4。A、B 是把判定结点数数少了；D 直接把边数当答案。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 83,
+          "no": 83,
+          "score": "1",
+          "stem": "数据挖掘的核心目标是（      ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.对业务数据进行常规统计汇总并生成报表",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.通过算法从海量数据中发现事先未知的、有潜在价值的模式、关联与知识",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.将分析结果通过可视化图表直观展示",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.对脏数据进行清洗、去重、补全、转换以提高数据质量",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "analysis": "数据挖掘的核心是从海量数据中自动发现事先未知、潜在有用的模式、关联、规律与知识（如关联规则、分类模型、聚类结构、异常模式）。A 的常规统计汇总与报表属于 BI/报表分析；C 的可视化是结果的呈现方式；D 的数据清洗属于数据预处理，是为挖掘做准备的前置步骤，三者都不是“核心目标”。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 84,
+          "no": 84,
+          "score": "1",
+          "stem": "站点A、B通过CDMA共享链路，A的码片序列是 (1，-1，1，-1) ，则B的码片序列可以是（      ）",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.(1，-1，-1，-1)",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.(1，1，-1，1)",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.(1，1，-1，-1)",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.(-1，1，-1，1)",
+              "images": []
+            }
+          ],
+          "correct_answer": "C",
+          "user_answer": "D",
+          "is_correct": false,
+          "analysis": "CDMA 要求各站点的码片序列两两正交，即内积为 0。A 的码片 (1,-1,1,-1) 与 (1,1,-1,-1) 逐位相乘：1×1=1，(-1)×1=-1，1×(-1)=-1，(-1)×(-1)=1，求和 1-1-1+1=0，正交。B 求和得 1-1-1-1=-2；C 得 1+1-1+1=2；D 得 -1-1-1-1=-4，均不正交。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 85,
+          "no": 85,
+          "score": "1",
+          "stem": "某系统采用分页存储管理，页面大小为4KB，页表项的映射关系为：（0,5），(1,8),(2,3),(3,12),逻辑地址2A5CH对应的物理地址是（      ）H。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.8A5C",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.3A5C",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.BA5C",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.CA5C",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "analysis": "页面大小 4KB=2¹²，逻辑地址 2A5C 的低 12 位 A5C 为页内偏移，高位 2 为页号。查页表：页号 2 → 物理块号 3，故物理地址=3A5C。A 的 8A5C 用了页号 1 的映射（8），C 的 BA5C 混淆了页号与块号，D 的 CA5C 无对应页表项。分页地址变换的关键是“页内偏移原样保留，只替换页号”。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        }
+      ]
+    },
+    {
+      "title": "四、综合多选题（每题0.5分，共10题，总计5分）",
+      "materials": [],
+      "items": [
+        {
+          "seq": 86,
+          "no": 86,
+          "score": "0.5",
+          "stem": "国家电网有限公司“具有中国特色国际领先的能源互联网企业”的战略目标中，“能源互联网”内涵包括（       ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.骨干网架系统",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.数智赋能系统",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.价值创造系统",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.能源网架系统",
+              "images": []
+            }
+          ],
+          "correct_answer": "BCD",
+          "user_answer": "ABCD",
+          "is_correct": false,
+          "analysis": "“能源互联网”的内涵由三个系统构成：能源网架系统（物理层面的电网与能源基础设施）、数智赋能系统（数字化、智能化对能源系统的赋能）、价值创造系统（通过平台与生态创造经济、社会价值），故选 BCD。A“骨干网架系统”只是能源网架系统中的一个子概念，不能与三大系统并列。这类题要区分“整体架构的三大部分”与“某一部分的细分内容”。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 87,
+          "no": 87,
+          "score": "0.5",
+          "stem": "建设新时代文明实践中心，是党中央对宣传思想文化和精神文明建设工作的一次重要部署。新时代文明实践中心建设的工作内容有（       ）、持续深入移风易俗。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.学习实践科学理论",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.宣传宣讲党的政策",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.培育践行主流价值",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.丰富活跃文化生活",
+              "images": []
+            }
+          ],
+          "correct_answer": "ABCD",
+          "user_answer": "ABC",
+          "is_correct": false,
+          "analysis": "新时代文明实践中心建设的工作内容为“五项任务”：学习实践科学理论、宣传宣讲党的政策、培育践行主流价值、丰富活跃文化生活、持续深入移风易俗。题干已给出最后一项“持续深入移风易俗”，其余四项 A、B、C、D 均正确，故选 ABCD。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 88,
+          "no": 88,
+          "score": "0.5",
+          "stem": "国家电网有限公司“具有中国特色国际领先的能源互联网企业”的战略目标，契合（       ），得到了广大职工强烈反响和一致认同。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.企情",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.网情",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.国情",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.人情",
+              "images": []
+            }
+          ],
+          "correct_answer": "ABC",
+          "user_answer": "ABC",
+          "is_correct": true,
+          "analysis": "该战略目标之所以得到广大职工认同，是因为它契合“国情、网情、企情”三个层面：国情——服务国家战略与能源安全；网情——符合电网与能源行业的发展规律；企情——立足公司自身定位与能力。D“人情”不属于规范表述，属于拼凑干扰项。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 89,
+          "no": 89,
+          "score": "0.5",
+          "stem": "《新时代公民道德建设实施纲要》提出，推动践行以文明礼貌、（       ）为主要内容的社会公德，鼓励人们在社会上做一个好公民。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.助人为乐",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.爱护公物",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.保护环境",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.遵纪守法",
+              "images": []
+            }
+          ],
+          "correct_answer": "ABCD",
+          "user_answer": "ABCD",
+          "is_correct": true,
+          "analysis": "《新时代公民道德建设实施纲要》把社会公德概括为“文明礼貌、助人为乐、爱护公物、保护环境、遵纪守法”五项，题干已给出第一项，其余四项均正确，故选 ABCD。注意与职业道德（爱岗敬业、诚实守信、办事公道、服务群众、奉献社会）、家庭美德、个人品德相区分。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 90,
+          "no": 90,
+          "score": "0.5",
+          "stem": "国家电网有限公司的法治精神是（       ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.法治立约",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.制度立本",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.契约立信",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.合规立身",
+              "images": []
+            }
+          ],
+          "correct_answer": "BCD",
+          "user_answer": "ABCD",
+          "is_correct": false,
+          "analysis": "国家电网有限公司的法治精神表述为“制度立本、契约立信、合规立身”，故选 BCD。A“法治立约”是把“法治”与“契约立信”拼接出的杜撰表述。这类企业文化题要按原文记忆，避免被“看起来也对”的拼接项干扰。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 91,
+          "no": 91,
+          "score": "0.5",
+          "stem": "国家电网有限公司的治企理念是（       ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.以人为本",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.守正创新",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.解放思想",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.实事求是",
+              "images": []
+            }
+          ],
+          "correct_answer": "AB",
+          "user_answer": "AB",
+          "is_correct": true,
+          "analysis": "国家电网有限公司的治企理念是“以人为本、守正创新”，故选 AB。C“解放思想”、D“实事求是”是党的思想路线的表述，不是该公司治企理念的原文。注意区分“治企理念”“法治精神”“安全理念”“企业文化核心特质”等不同维度，题目常在这些条目之间交叉设错。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 92,
+          "no": 92,
+          "score": "0.5",
+          "stem": "虚拟电厂是基于电力系统架构，运用现代信息通信、系统集成控制等技术，聚合（       ）等各类资源，作为新型经营主体协同参与电力系统优化和电力市场交易的电力运行组织模式。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.分布式电源",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.储能",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.抽水蓄能",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.可调节负荷",
+              "images": []
+            }
+          ],
+          "correct_answer": "ABD",
+          "user_answer": "ABCD",
+          "is_correct": false,
+          "analysis": "虚拟电厂聚合的是“分布式电源、储能、可调节负荷”三类资源，通过信息通信与集成控制技术统一调度，作为新型经营主体参与电力系统优化和电力市场交易，故选 ABD。C“抽水蓄能”属于电网侧的大型调节电源/独立储能电站，通常作为电网调度对象而非虚拟电厂聚合对象，故不在其列。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 93,
+          "no": 93,
+          "score": "0.5",
+          "stem": "要充分发挥算电协同规模效应，保障算力设施可靠绿色供电，挖掘算力设施灵活调节潜力，算电协同包括（       ）等方面。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.规划建设协同",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.调度运行协同",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.市场交易协同",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.服务治理协同",
+              "images": []
+            }
+          ],
+          "correct_answer": "ABCD",
+          "user_answer": "ABCD",
+          "is_correct": true,
+          "analysis": "算电协同（算力与电力协同）包括规划建设协同、调度运行协同、市场交易协同、服务治理协同四个方面：规划上让算力布局与电力供应相匹配；运行上让算力负荷参与电网调节；市场上通过绿电交易、需求响应实现；治理上打通数据与服务。四项均正确，故选 ABCD。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 94,
+          "no": 94,
+          "score": "0.5",
+          "stem": "国务院印发的《加快农业农村现代化“十五五”规划》内容包括（    ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.思路目标",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.重点任务",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.实施步骤",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.政策措施",
+              "images": []
+            }
+          ],
+          "correct_answer": "ABD",
+          "user_answer": "ABD",
+          "is_correct": true,
+          "analysis": "《加快农业农村现代化“十五五”规划》的框架包括思路目标（指导思想与目标指标）、重点任务、政策措施三大板块，故选 ABD。C“实施步骤”不是该类国家专项规划的常规框架要素（规划通常写任务与保障措施，而非“实施步骤”），属于拼凑项。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 95,
+          "no": 95,
+          "score": "0.5",
+          "stem": "以下哪些成果属于2025年度山东省发布的十大科技创新成果(        )  。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.“山东造”发动机驱动我国船舶动力低碳革新",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.华能山东半岛北海上风电项目创新实践",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.神舟二十号载人飞船发射任务圆满成功",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.高端海工装备关键核心技术取得重大突破",
+              "images": []
+            }
+          ],
+          "correct_answer": "ABD",
+          "user_answer": "ABD",
+          "is_correct": true,
+          "analysis": "本题考2025年度山东省十大科技创新成果。A“山东造”发动机驱动船舶动力低碳革新、B 华能山东半岛北海上风电项目创新实践、D 高端海工装备关键核心技术取得重大突破，均为山东省内单位牵头、体现山东产业特色的成果。C 神舟二十号载人飞船发射任务属于国家航天工程，由酒泉发射、全国协作完成，不是“山东省发布的十大科技创新成果”之一。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        }
+      ]
+    },
+    {
+      "title": "五、专业多选题（每题1分，共30题，总计30分）",
+      "materials": [],
+      "items": [
+        {
+          "seq": 96,
+          "no": 96,
+          "score": "1",
+          "stem": "下列关于顺序表与链表存储结构的比较，说法正确的有（      ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.顺序表支持 O(1) 随机存取，链表只能顺序存取",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.在已知结点指针的前提下，链表的插入、删除操作时间复杂度为 O(1)",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.顺序表的存储密度高于链表，内存空间利用率始终更高",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.链表适合数据规模变化较大、频繁插入删除的场景",
+              "images": []
+            }
+          ],
+          "correct_answer": "ABD",
+          "user_answer": "ABD",
+          "is_correct": true,
+          "analysis": "A 对：顺序表按公式可直接算出元素地址，随机存取 O(1)；链表必须从头逐个走，只能顺序存取。B 对：已知结点指针时，链表插入删除只需改几个指针，O(1)（这是相对“已知位置”而言，若需先查找则仍为 O(n)）。C 错：顺序表存储密度高（无需指针域），但“空间利用率始终更高”不成立——顺序表要预分配连续空间，可能大量闲置或不足，链表可按需分配。D 对：链表适合规模变化大、频繁插删的场景。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 97,
+          "no": 97,
+          "score": "1",
+          "stem": "下列应用场景中，必须使用栈（或其思想）实现的有（      ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.表达式中缀转后缀及后缀表达式求值",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.括号匹配与 HTML/XML 标签嵌套校验",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.操作系统进程调度与打印任务缓冲",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.函数调用与递归实现中的现场保护",
+              "images": []
+            }
+          ],
+          "correct_answer": "ABD",
+          "user_answer": "ABD",
+          "is_correct": true,
+          "analysis": "A 对：中缀转后缀与后缀表达式求值依赖后进先出的运算次序，必须用栈。B 对：括号/标签匹配是典型的栈应用。C 错：进程调度用的是就绪队列（队列思想），打印任务缓冲用 SPOOLing 的输出井，本质也是队列，不是栈。D 对：函数调用与递归需要栈保存返回地址、参数和局部变量（现场保护）。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 98,
+          "no": 98,
+          "score": "1",
+          "stem": "下列哪些遍历序列组合，可以唯一确定一棵二叉树（      ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.前序遍历序列 + 中序遍历序列",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.后序遍历序列 + 中序遍历序列",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.前序遍历序列 + 后序遍历序列",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.层序遍历序列 + 中序遍历序列",
+              "images": []
+            }
+          ],
+          "correct_answer": "ABD",
+          "user_answer": "ABD",
+          "is_correct": true,
+          "analysis": "A 对：前序+中序可唯一确定（前序定根，中序分左右）。B 对：后序+中序同理。C 错：前序+后序无法区分只有一个孩子时该孩子在左还是右，不能唯一确定。D 对：层序+中序可以——层序的第一个结点是根，在中序中分出左右子树后，再按层序顺序确定各子树根，逐层递推即可唯一确定。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 99,
+          "no": 99,
+          "score": "1",
+          "stem": "下列关于 AOV 网与拓扑排序的说法，正确的有（       ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.有向无环图（DAG）一定存在拓扑序列，且拓扑序列可能不唯一",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.拓扑排序过程中某一时刻入度为0的顶点有多个，则拓扑序列必然不唯一",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.拓扑排序可通过 Kahn 算法（入度表法）或 DFS 算法实现",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.若有向图中存在环，则不存在拓扑序列，且 Kahn 算法结束时输出顶点数小于总顶点数",
+              "images": []
+            }
+          ],
+          "correct_answer": "ABCD",
+          "user_answer": "ABCD",
+          "is_correct": true,
+          "analysis": "A 对：DAG 一定存在拓扑序列，且当同时有多个入度为 0 的顶点时序列不唯一。B 对：同一时刻存在多个入度为 0 的顶点时，选择顺序不同即得不同序列。C 对：Kahn 算法用入度表和队列，DFS 算法用完成时间逆序输出。D 对：有环时不存在拓扑序列，Kahn 算法最终输出的顶点数小于总顶点数，这正是判断有环的依据。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 100,
+          "no": 100,
+          "score": "1",
+          "stem": "下列排序算法中，属于不稳定排序，且最坏时间复杂度为 O(n²) 的有（      ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.快速排序",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.简单选择排序",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.堆排序",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.直接插入排序",
+              "images": []
+            }
+          ],
+          "correct_answer": "AB",
+          "user_answer": "AB",
+          "is_correct": true,
+          "analysis": "A 对：快速排序不稳定，最坏（基本有序或每次划分极不均衡）退化为 O(n²)。B 对：简单选择排序不稳定（交换会打乱相等元素次序），最坏 O(n²)。C 错：堆排序虽不稳定，但最坏为 O(n log n)。D 错：直接插入排序是稳定排序（最坏虽为 O(n²)，但不满足“不稳定”）。故选 AB。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 101,
+          "no": 101,
+          "score": "1",
+          "stem": "下列关于算法策略适用条件及典型问题的对应，正确的有（     ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.分治法要求子问题相互独立，典型问题：归并排序、快速排序、二分查找",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.动态规划要求最优子结构 + 子问题重叠 + 无后效性，典型问题：0-1背包、LCS、Floyd",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.贪心算法要求最优子结构 + 贪心选择性质，典型问题：活动选择、哈夫曼编码、Dijkstra",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.回溯法与分支限界法均用于求解组合最优问题，其中分支限界法采用深度优先搜索",
+              "images": []
+            }
+          ],
+          "correct_answer": "ABC",
+          "user_answer": "AC",
+          "is_correct": false,
+          "analysis": "A 对：分治要求子问题独立，归并、快排、二分查找都是典型。B 对：动态规划要求最优子结构、子问题重叠、无后效性，0-1 背包、LCS、Floyd 都是典型。C 对：贪心要求最优子结构与贪心选择性质，活动选择、哈夫曼编码、Dijkstra 都是典型。D 错：分支限界法采用广度优先（或最小耗费优先）搜索，深度优先搜索的是回溯法。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 102,
+          "no": 102,
+          "score": "1",
+          "stem": "关系模型的三类完整性约束包括（      ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.实体完整性",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.参照完整性",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.用户定义完整性",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.结构完整性",
+              "images": []
+            }
+          ],
+          "correct_answer": "ABC",
+          "user_answer": "ABC",
+          "is_correct": true,
+          "analysis": "关系模型的三类完整性约束是实体完整性（主码非空且唯一）、参照完整性（外码取值必须等于被参照关系的主码值或为空）、用户定义完整性（针对具体应用的语义约束，如年龄范围、性别取值），故选 ABC。D“结构完整性”不是关系模型的标准分类，属于拼凑项。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 103,
+          "no": 103,
+          "score": "1",
+          "stem": "下列哪些情况会导致 B+ 树索引在查询时失效（或无法有效利用索引）（     ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.在索引列上使用函数或表达式运算，如 WHERE YEAR(birthday)=2000",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.对字符串索引列使用前导通配符模糊查询，如 WHERE name LIKE '%张%'",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.对联合索引 (a,b,c) 的查询条件为 WHERE b=1 AND c=2（未使用最左前缀 a）",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.对索引列使用等值查询且查询条件选择性很高，如 WHERE id=1001",
+              "images": []
+            }
+          ],
+          "correct_answer": "ABC",
+          "user_answer": "ABC",
+          "is_correct": true,
+          "analysis": "A 对：索引列上做函数/表达式运算（YEAR(birthday)=2000、WHERE id+1=5）会导致索引失效。B 对：LIKE '%张%' 前导通配符无法利用 B+ 树的有序性。C 对：联合索引 (a,b,c) 遵循最左前缀原则，跳过 a 直接查 b、c 无法使用该索引。D 错：对索引列做高选择性的等值查询正是索引最理想的使用场景。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 104,
+          "no": 104,
+          "score": "1",
+          "stem": "下列关于数据库三级封锁协议的描述，正确的有（      ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.一级封锁协议：事务T修改数据R前必须加X锁，直到事务结束释放，可防止丢失修改",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.二级封锁协议：在一级基础上，读数据R前必须加S锁，读完即释放S锁，可防止丢失修改和读“脏”数据",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.三级封锁协议：在一级基础上，读数据R前加S锁，直到事务结束才释放S锁，可防止丢失修改、脏读和不可重复读",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.三级封锁协议可以彻底解决幻读问题",
+              "images": []
+            }
+          ],
+          "correct_answer": "ABC",
+          "user_answer": "ABC",
+          "is_correct": true,
+          "analysis": "A 对：一级封锁协议（修改前加 X 锁、事务结束释放）可防丢失修改。B 对：二级在一级基础上读前加 S 锁、读完即释放，可防丢失修改和脏读，但不能防不可重复读。C 对：三级要求 S 锁持有到事务结束，可防丢失修改、脏读和不可重复读。D 错：三级封锁协议仍不能解决幻读（幻读需要范围锁/间隙锁或可串行化调度）。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 105,
+          "no": 105,
+          "score": "1",
+          "stem": "下列属于数据库安全性控制措施的有（      ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.用户身份鉴别与认证",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.自主存取控制（DAC）与强制存取控制（MAC）",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.视图机制与数据加密",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.审计日志与备份恢复",
+              "images": []
+            }
+          ],
+          "correct_answer": "ABCD",
+          "user_answer": "ABC",
+          "is_correct": false,
+          "analysis": "数据库安全性控制措施包括：用户身份鉴别（口令、生物特征等）、存取控制（DAC 自主存取控制与 MAC 强制存取控制）、视图机制（隐藏敏感列/行）、数据加密（存储与传输加密）、审计日志（事后追查）。四项均正确，故选 ABCD。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 106,
+          "no": 106,
+          "score": "1",
+          "stem": "下列关于敏捷开发的说法，正确的有（      ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.强调个体和交互胜过过程和工具",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.强调可工作的软件胜过详尽的文档",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.敏捷开发完全禁止开发过程中的需求变更",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.通过短周期的迭代持续交付可运行的软件",
+              "images": []
+            },
+            {
+              "key": "E",
+              "text": "E.敏捷方法比较适合需求频繁变化、规模适中的项目",
+              "images": []
+            }
+          ],
+          "correct_answer": "ABDE",
+          "user_answer": "ADE",
+          "is_correct": false,
+          "analysis": "敏捷宣言的四条价值观：个体和交互胜过过程和工具（A）、可工作的软件胜过详尽的文档（B）、客户合作胜过合同谈判、响应变化胜过遵循计划。D 对：敏捷通过短周期迭代持续交付可运行软件。E 对：适合需求频繁变化、规模适中的项目。C 错：敏捷不是禁止变更，而是拥抱变更、通过迭代响应变更。故选 ABDE。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 107,
+          "no": 107,
+          "score": "1",
+          "stem": "关于模块设计中的耦合与内聚，下列说法正确的有（      ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.模块设计的目标是高内聚、低耦合",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.内容耦合是程度最高的耦合，设计中应当避免",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.数据耦合的耦合程度低于控制耦合",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.模块之间联系越紧密，模块独立性越好",
+              "images": []
+            },
+            {
+              "key": "E",
+              "text": "E.功能内聚是内聚程度最高的内聚方式",
+              "images": []
+            }
+          ],
+          "correct_answer": "ABCE",
+          "user_answer": "ABE",
+          "is_correct": false,
+          "analysis": "A 对：模块设计目标是高内聚、低耦合。B 对：内容耦合（一个模块直接访问另一模块内部数据/代码）耦合度最高，应避免。C 对：数据耦合只传数据参数，控制耦合传控制信息（开关量），数据耦合程度更低。D 错：模块间联系越紧密，耦合度越高、独立性越差。E 对：功能内聚（各部分共同完成单一功能）内聚度最高。故选 ABCE。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 108,
+          "no": 108,
+          "score": "1",
+          "stem": "下列关于软件测试的观点，正确的有（    ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.测试只能证明程序中有错误，不能证明程序中没有错误",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.单元测试通常由开发人员完成，多采用白盒技术",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.测试应当尽早介入，贯穿软件生命周期",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.只要测试用例足够多，就可以穷举所有输入，从而证明程序完全正确",
+              "images": []
+            },
+            {
+              "key": "E",
+              "text": "E.测试的目的是发现错误，调试的目的是定位并改正错误",
+              "images": []
+            }
+          ],
+          "correct_answer": "ABCE",
+          "user_answer": "ACE",
+          "is_correct": false,
+          "analysis": "A 对：测试只能证明错误存在，不能证明错误不存在（Dijkstra 语）。B 对：单元测试由开发人员完成，多采用白盒技术。C 对：测试应尽早介入并贯穿整个生命周期（V 模型、测试左移）。D 错：输入空间通常无限，穷举不可能，即使枚举也受路径组合爆炸限制。E 对：测试发现错误，调试定位并改正错误。故选 ABCE。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 109,
+          "no": 109,
+          "score": "1",
+          "stem": "下列关于补码表示法的说法，正确的有（      ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.n 位补码中数值0的表示是唯一的",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.补码表示下，减法运算可以转换为加法运算（连同符号位一起运算），简化了硬件设计",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.n 位补码能表示的负数范围比原码、反码多一个数 -2^(n-1)",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.补码的符号位必须单独处理，不能与数值位一起参与运算",
+              "images": []
+            }
+          ],
+          "correct_answer": "ABC",
+          "user_answer": "ABCD",
+          "is_correct": false,
+          "analysis": "A 对：n 位补码中 0 的表示唯一（000…0），原码和反码有 +0、-0 两种。B 对：补码把减法转换为加法（连同符号位一起参与运算），简化了运算器设计。C 对：n 位补码表示范围是 -2^(n-1) ~ 2^(n-1)-1，负数端比原码/反码多一个 -2^(n-1)。D 错：补码的符号位可直接参与运算，不需要单独处理。故选 ABC。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 110,
+          "no": 110,
+          "score": "1",
+          "stem": "下列关于 Cache 与主存地址映射方式的描述，正确的有（      ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.直接映射方式每个主存块只能映射到唯一固定的 Cache 行，实现简单但冲突率最高",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.全相联映射允许主存块映射到任意 Cache 行，冲突率最低但比较电路复杂、成本高",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.组相联映射是前两者的折中：主存块先定位到固定组，再在组内全相联放置",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.组相联映射中，组的大小（路数）越大，冲突率越低，但实现复杂度越高",
+              "images": []
+            }
+          ],
+          "correct_answer": "ABCD",
+          "user_answer": "BCD",
+          "is_correct": false,
+          "analysis": "A 对：直接映射中每个主存块只能映射到唯一的 Cache 行（块号 mod 行数），实现简单、命中时间短，但冲突率最高。B 对：全相联可映射到任意行，冲突率最低，但需要与所有标记并行比较，成本高。C 对：组相联先按组号定位到唯一组，组内全相联，是折中方案。D 对：组内路数越大，冲突率越低，比较电路与成本越高。四项均正确。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 111,
+          "no": 111,
+          "score": "1",
+          "stem": "下列关于 RISC（精简指令集计算机）与 CISC（复杂指令集计算机）的比较，正确的有（     ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.RISC 指令长度固定、指令格式规整、寻址方式少；CISC 指令长度可变、格式复杂、寻址方式丰富",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.RISC 普遍采用硬布线控制器，通用寄存器数量多，通过编译优化提高效率",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.CCISC 指令系统庞大，一条指令可完成复杂功能，便于汇编编程但硬件实现复杂",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.RISC 不能使用流水线技术，CISC 才支持指令流水线",
+              "images": []
+            }
+          ],
+          "correct_answer": "ABC",
+          "user_answer": "AC",
+          "is_correct": false,
+          "analysis": "A 对：RISC 定长指令、格式规整、寻址方式少；CISC 变长指令、格式复杂、寻址方式多。B 对：RISC 普遍用硬布线控制器、寄存器多，靠编译器优化提升性能。C 对（选项原文“CCISC”应为 CISC 的笔误）：CISC 指令系统庞大，单条指令功能复杂，便于汇编编程但硬件复杂。D 错：RISC 恰恰最适合流水线（定长、规整），CISC 因变长指令反而不便流水。故选 ABC。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 112,
+          "no": 112,
+          "score": "1",
+          "stem": "指令流水线中可能出现的冒险（Hazard）类型包括（      ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.结构冒险（资源冲突）",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.数据冒险（RAW/WAR/WAW 依赖）",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.控制冒险（分支/跳转改变 PC）",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.电源冒险（电压波动导致流水线停顿）",
+              "images": []
+            }
+          ],
+          "correct_answer": "ABC",
+          "user_answer": "ABC",
+          "is_correct": true,
+          "analysis": "流水线冒险分三类：结构冒险（多条指令竞争同一硬件资源，如存储器、寄存器端口）、数据冒险（后续指令需要前面指令尚未写回的结果，含 RAW/WAR/WAW）、控制冒险（分支/跳转改变 PC 导致取错指令）。D“电源冒险”是杜撰概念，不存在。故选 ABC。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 113,
+          "no": 113,
+          "score": "1",
+          "stem": "与程序中断方式相比，DMA 方式具有以下哪些优势（      ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.数据传输过程直接在主存与外设之间进行，不需要经过 CPU 寄存器中转",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.适合高速外设（如磁盘、SSD、网卡）的大批量数据传输",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.仅在数据块传输开始前和结束后需要 CPU 干预，传输过程中 CPU 可执行其他任务",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.DMA 能够处理复杂的异常事件与多样化的外设请求，完全取代中断",
+              "images": []
+            }
+          ],
+          "correct_answer": "ABC",
+          "user_answer": "ABC",
+          "is_correct": true,
+          "analysis": "A 对：DMA 传输直接在主存与外设间进行，不经过 CPU 寄存器中转。B 对：DMA 适合磁盘、SSD、网卡等高速大批量数据传输。C 对：CPU 只在传输开始前初始化、结束后处理中断，传输期间可执行其他任务。D 错：DMA 不能处理异常事件（缺页、设备故障、复杂协议），也不能取代中断——二者是互补关系。故选 ABC。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 114,
+          "no": 114,
+          "score": "1",
+          "stem": "下列机器学习算法中，属于监督学习算法的有（      ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.决策树与随机森林",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.K-Means 聚类",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.逻辑回归与支持向量机（SVM）",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.朴素贝叶斯分类器",
+              "images": []
+            }
+          ],
+          "correct_answer": "ACD",
+          "user_answer": "ACD",
+          "is_correct": true,
+          "analysis": "监督学习需要带标签的训练数据，学习输入到输出的映射。A 决策树/随机森林（有标签分类回归）、C 逻辑回归与 SVM、D 朴素贝叶斯都是典型监督学习。B K-Means 聚类无标签，属于无监督学习。故选 ACD。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 115,
+          "no": 115,
+          "score": "1",
+          "stem": "下列属于物联网感知层关键技术的有（      ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.传感器与 MEMS 技术",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.RFID 射频识别与二维码技术",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.G/4G 蜂窝通信技术",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.嵌入式系统与智能终端技术",
+              "images": []
+            }
+          ],
+          "correct_answer": "ABD",
+          "user_answer": "ABD",
+          "is_correct": true,
+          "analysis": "感知层负责数据采集与物体识别，关键技术包括传感器与 MEMS（A）、RFID 与二维码（B）、嵌入式系统与智能终端（D）。C 的 3G/4G 蜂窝通信属于网络层的传输技术，不属于感知层。故选 ABD。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 116,
+          "no": 116,
+          "score": "1",
+          "stem": "下列属于大数据预处理阶段主要工作的有（      ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.数据清洗（去噪、去重、缺失值处理、异常值处理）",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.数据集成（多源数据合并、实体对齐、模式匹配）",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.数据归约与变换（特征选择、降维、归一化、离散化）",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.数据可视化与报表生成",
+              "images": []
+            }
+          ],
+          "correct_answer": "ABC",
+          "user_answer": "AB",
+          "is_correct": false,
+          "analysis": "大数据预处理主要包括数据清洗（去噪、去重、缺失值与异常值处理）、数据集成（多源合并、实体对齐、模式匹配）、数据变换与归约（特征选择、降维、归一化、离散化），故选 ABC。D 数据可视化与报表生成属于分析结果展示阶段，不在预处理环节。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 117,
+          "no": 117,
+          "score": "1",
+          "stem": "MIME用于编码非ASCII字符的方法有（       ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.SMTP",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.Base64",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.Quoted-printable",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.归零码",
+              "images": []
+            }
+          ],
+          "correct_answer": "BC",
+          "user_answer": "ABC",
+          "is_correct": false,
+          "analysis": "MIME 为在邮件等只支持 ASCII 的传输环境中传送非 ASCII 内容，定义了两种编码方法：Base64（把二进制按 6 位分组映射为可打印字符）和 Quoted-printable（可打印字符原样保留，仅对特殊字符编码），故选 BC。A SMTP 是邮件传输协议，D 归零码是基带编码方式，都不是 MIME 的编码方法。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 118,
+          "no": 118,
+          "score": "1",
+          "stem": "在CSMA／CD的以太网中，影响最小帧长的因素有（      ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.发送速率",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.线路利用率",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.传播时延",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.总线长度",
+              "images": []
+            }
+          ],
+          "correct_answer": "ACD",
+          "user_answer": "BD",
+          "is_correct": false,
+          "analysis": "CSMA/CD 要求“发送时延 ≥ 2×传播时延”，才能保证发送方在发完之前检测到冲突，即最小帧长 Lmin = 2τ×R（R 为发送速率，2τ 为往返传播时延）。因此影响最小帧长的因素有发送速率（A）、传播时延（C）、总线长度（D，长度决定传播时延）。B 线路利用率不直接决定最小帧长。故选 ACD。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 119,
+          "no": 119,
+          "score": "1",
+          "stem": "使用RIP协议的路由器中，路由表包含的主要信息有（      ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.目的网络",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.距离",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.链路开销",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.下一跳地址",
+              "images": []
+            }
+          ],
+          "correct_answer": "ABD",
+          "user_answer": "ACD",
+          "is_correct": false,
+          "analysis": "RIP 是基于距离向量的路由协议，路由表主要包含目的网络、距离（跳数）和下一跳地址，故选 ABD。C“链路开销”是 OSPF（链路状态协议）的度量方式，RIP 用跳数而非带宽/开销作为度量，故不属于 RIP 路由表信息。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 120,
+          "no": 120,
+          "score": "1",
+          "stem": "网络的时延定义了网络把数据从一个网络节点传送到另一个网络节点所需要的时间，其中包括\n\n（     ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.传播时延",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.传输时延",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.处理时延",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.接收时延",
+              "images": []
+            }
+          ],
+          "correct_answer": "ABC",
+          "user_answer": "BC",
+          "is_correct": false,
+          "analysis": "网络时延由发送（传输）时延、传播时延、处理时延和排队时延组成，题目选项含传播时延（A）、传输时延（B）、处理时延（C），均正确。D“接收时延”不是标准分类，接收过程的开销已包含在处理时延中。故选 ABC。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 121,
+          "no": 121,
+          "score": "1",
+          "stem": "提高域名解析效率的方法可以是（    ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.减小资源记录的TTL时间值",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.从本地域名服务器开始解析",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.在域名服务器中使用高速缓存技术",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.在客户机中使用高速缓存技术",
+              "images": []
+            }
+          ],
+          "correct_answer": "BCD",
+          "user_answer": "ABC",
+          "is_correct": false,
+          "analysis": "A 错：减小 TTL 会让缓存条目更快失效，反而降低解析效率，增大 TTL 才有利于缓存。B 对：从本地域名服务器开始逐级解析可减少跨网络查询。C、D 对：域名服务器和客户机上的高速缓存都能直接命中已有记录，显著减少解析时延与网络流量。故选 BCD。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 122,
+          "no": 122,
+          "score": "1",
+          "stem": "关于虚拟内存与页面置换，下列说法正确的是（      ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.Belady异常指采用FIFO置换算法时，增加物理块数反而使缺页率上升的现象。",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.局部性原理是虚拟内存能够有效工作的理论基础之一。",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.LRU算法考虑了程序执行时的局部性原理，但需要硬件的支持。",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.虚拟存储器的实现可以建立在分区分配的基础上。",
+              "images": []
+            }
+          ],
+          "correct_answer": "ABC",
+          "user_answer": "AB",
+          "is_correct": false,
+          "analysis": "A 对：Belady 异常指 FIFO 置换算法下增加物理块数反而缺页率上升的反常现象。B 对：局部性原理（时间局部性与空间局部性）是虚拟内存有效工作的理论基础。C 对：LRU 利用时间局部性，但需要硬件支持（计数器或栈）记录访问历史。D 错：虚拟存储器建立在离散分配的页式/段式/段页式管理基础上，分区分配要求连续空间，无法实现虚拟内存。故选 ABC。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 123,
+          "no": 123,
+          "score": "1",
+          "stem": "关于文件系统与I/O管理，下列说法正确的是（      ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.采用索引分配方式时，为了提高文件的访问速度，索引表要常驻内存。",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.SPOOLing技术是一种用空间换时间的虚拟设备技术。",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.磁盘调度中，SCAN可能产生饥饿现象，所以提出了CSCAN。",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.位示图既可用来管理磁盘空闲空间，也可用来管理内存空闲空间。",
+              "images": []
+            }
+          ],
+          "correct_answer": "BD",
+          "user_answer": "BC",
+          "is_correct": false,
+          "analysis": "A 错：索引分配中索引表是每个文件自己的，通常存放在磁盘上并按需调入内存，不可能“常驻内存”（常驻内存的是 FCB/索引结点等元数据）。B 对：SPOOLing 用磁盘空间换取外设的并行使用，是典型的虚拟设备技术。C 错：SCAN（电梯算法）不会产生饥饿，CSCAN 是为减少平均寻道时间而改进，饥饿是 SSTF 的缺点。D 对：位示图既可用于磁盘空闲块管理，也可用于内存空闲分区/页框管理。故选 BD。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 124,
+          "no": 124,
+          "score": "1",
+          "stem": "关于进程与线程，下列说法正确的是（      ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.线程是CPU调度的基本单位，进程是资源分配的基本单位",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.同一进程内的线程共享进程的地址空间",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.线程切换开销通常小于进程切换",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.用户级线程的阻塞会导致整个进程阻塞",
+              "images": []
+            }
+          ],
+          "correct_answer": "ABCD",
+          "user_answer": "ABCD",
+          "is_correct": true,
+          "analysis": "A 对：进程是资源分配的基本单位，线程是 CPU 调度的基本单位。B 对：同一进程内各线程共享进程的地址空间和资源。C 对：线程切换只需保存少量寄存器现场，不需切换地址空间，开销小于进程切换。D 对：用户级线程由用户库管理，内核看不到线程，一个线程阻塞（如系统调用）会导致整个进程阻塞。四项均正确。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 125,
+          "no": 125,
+          "score": "1",
+          "stem": "下列措施中，能够加快文件访问速度的有（      ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.采用磁盘高速缓存把最近访问的磁盘块缓存在内存中",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.对文件采用连续分配方式，减少寻道时间",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.采用当前目录和绝对路径，减少启动磁盘的次数",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.采用索引节点，加快文件目录检索速度",
+              "images": []
+            }
+          ],
+          "correct_answer": "ABD",
+          "user_answer": "ABD",
+          "is_correct": true,
+          "analysis": "A 对：磁盘高速缓存（页缓存）把近期访问的盘块留在内存，命中时无需访盘。B 对：连续分配使文件块在磁盘上物理相邻，减少寻道与旋转延迟。C 错：“当前目录”能减少路径解析和启动磁盘的次数，但“绝对路径”反而更长、需要更多目录检索，二者不能并列。D 对：索引结点把文件名与文件物理信息分离，目录项只需存文件名和 inode 号，加快目录检索。故选 ABD。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        }
+      ]
+    },
+    {
+      "title": "六、判断题（每题0.5分，共30题，总计15分）",
+      "materials": [],
+      "items": [
+        {
+          "seq": 126,
+          "no": 126,
+          "score": "0.5",
+          "stem": "数据的逻辑结构独立于存储结构，同一种逻辑结构可以采用多种不同的存储结构实现。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.正确",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.错误",
+              "images": []
+            }
+          ],
+          "correct_answer": "A",
+          "user_answer": "A",
+          "is_correct": true,
+          "analysis": "正确。数据的逻辑结构描述数据元素之间的逻辑关系（集合、线性、树、图），与它在计算机中的存储方式无关；同一种逻辑结构可以用顺序存储、链式存储、索引存储、散列存储等多种方式实现。例如“线性表”这一逻辑结构既可以顺序表实现，也可以链表实现。这正是数据结构课程中“逻辑结构”与“存储结构”两个层次的核心区分。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 127,
+          "no": 127,
+          "score": "0.5",
+          "stem": "在长度为 n 的顺序表中插入、删除一个元素，平均需要移动约 n/2 个元素，时间复杂度为 O(n)。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.正确",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.错误",
+              "images": []
+            }
+          ],
+          "correct_answer": "A",
+          "user_answer": "A",
+          "is_correct": true,
+          "analysis": "正确。在长度为 n 的顺序表中，插入元素时平均需要移动 n/2 个元素（等概率下 (1+2+…+n)/(n+1) ≈ n/2），删除时平均移动 (n-1)/2 个元素，二者量级都是 O(n)。移动元素是顺序表插删的主要代价，这也是它与链表（已知位置时 O(1)）的根本差异。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 128,
+          "no": 128,
+          "score": "0.5",
+          "stem": "循环队列通过取模运算解决了顺序队列的“假溢出”问题，因此循环队列不存在队满的情况，可以无限制插入元素。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.正确",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.错误",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "analysis": "错误。取模运算只是让 rear 指针循环回绕，解决了顺序队列的“假溢出”（rear 到队尾但前面有空位却无法入队），并不意味着队列可以无限插入。循环队列仍有容量上限，队满条件是 count==MaxSize，或采用“牺牲一个单元”方案时 (rear+1)%MaxSize==front。因此“不存在队满、可无限制插入”的说法错误。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 129,
+          "no": 129,
+          "score": "0.5",
+          "stem": "哈夫曼树中不存在度为1的结点，且含有 n 个叶子结点的哈夫曼树总结点数为 2n-1。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.正确",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.错误",
+              "images": []
+            }
+          ],
+          "correct_answer": "A",
+          "user_answer": "A",
+          "is_correct": true,
+          "analysis": "正确。哈夫曼树由不断合并权值最小的两棵树构造而成，每次合并都产生一个度为 2 的新结点，所以树中不存在度为 1 的结点。设叶子数为 n，则 n0=n、n2=n-1，由 n0=n2+1 得总结点数 = n+(n-1) = 2n-1。这是哈夫曼树的基本性质，也是计算带权路径长度的基础。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 130,
+          "no": 130,
+          "score": "0.5",
+          "stem": "无向图的邻接矩阵一定是对称矩阵，有向图的邻接矩阵一定不是对称矩阵。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.正确",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.错误",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "A",
+          "is_correct": false,
+          "analysis": "错误。前半句正确：无向图的邻接矩阵一定是对称矩阵（边 (i,j) 与 (j,i) 同时存在）。但后半句错误：有向图的邻接矩阵不一定不对称——当任意两个顶点之间都存在方向相反的两条弧时（如完全有向图、双向边的有向图），矩阵仍然可以是对称的。“一定不是对称矩阵”属于绝对化表述。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 131,
+          "no": 131,
+          "score": "0.5",
+          "stem": "快速排序在每趟排序结束后都能确定一个元素的最终位置，且该元素是当前子序列的枢轴（基准）元素。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.正确",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.错误",
+              "images": []
+            }
+          ],
+          "correct_answer": "A",
+          "user_answer": "A",
+          "is_correct": true,
+          "analysis": "正确。快速排序每趟划分把枢轴放到它最终应在的位置上，左侧都不大于它、右侧都不小于它，之后枢轴不再移动。这正是“每趟至少确定一个元素最终位置”的性质，也是快排递归的基础。需要注意每趟确定的是枢轴那一元素，而不是所有元素。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 132,
+          "no": 132,
+          "score": "0.5",
+          "stem": "一个数据库系统可以有多个外模式，但只能有一个模式（逻辑模式）和一个内模式。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.正确",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.错误",
+              "images": []
+            }
+          ],
+          "correct_answer": "A",
+          "user_answer": "A",
+          "is_correct": true,
+          "analysis": "正确。数据库三级模式中，模式（逻辑模式）只有一个，描述全体数据的逻辑结构；内模式也只有一个，描述数据的物理存储方式；而外模式（用户视图）可以有多个，不同用户/应用看到不同的数据子集。相反，“多个模式、一个外模式”是错误的说法。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 133,
+          "no": 133,
+          "score": "0.5",
+          "stem": "一个关系模式只能有一个候选码，被选定的那个候选码称为主码。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.正确",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.错误",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "analysis": "错误。一个关系模式可以有多个候选码（如本卷第 34 题中 R 就有 4 个候选码），从候选码中人为选定一个作为主码（Primary Key）用于唯一标识元组。题干把“候选码唯一”与“主码唯一”混为一谈——唯一的是主码，候选码可以有多个。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 134,
+          "no": 134,
+          "score": "0.5",
+          "stem": "事务的原子性是指事务一旦提交，其对数据库的修改就是永久性的，即使系统发生故障也不会丢失。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.正确",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.错误",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "analysis": "错误。题干描述的是持久性（Durability）：事务一旦提交，其对数据库的修改就是永久的。原子性（Atomicity）是指事务中的操作要么全部执行、要么全部不执行，不能只做一部分。ACID 中，原子性关注“全或无”，一致性关注约束不被破坏，隔离性关注并发事务互不干扰，持久性关注提交后的结果不丢失。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 135,
+          "no": 135,
+          "score": "0.5",
+          "stem": "在并发调度中，若多个事务的并发执行结果与这些事务按某一串行顺序执行的结果相同，则称该调度为可串行化调度，它是并发事务正确性的判定准则。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.正确",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.错误",
+              "images": []
+            }
+          ],
+          "correct_answer": "A",
+          "user_answer": "A",
+          "is_correct": true,
+          "analysis": "正确。可串行化调度的定义是：多个事务的并发执行结果与这些事务按某一串行顺序执行的结果相同。它是并发事务正确性的判定准则。冲突可串行化是可串行化的充分条件（用优先图无环判定）。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 136,
+          "no": 136,
+          "score": "0.5",
+          "stem": "需求规格说明书评审通过后，项目后续阶段如需变更需求，必须通过需求变更控制过程进行管理。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.正确",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.错误",
+              "images": []
+            }
+          ],
+          "correct_answer": "A",
+          "user_answer": "A",
+          "is_correct": true,
+          "analysis": "正确。需求规格说明书评审通过即形成需求基线（Baseline），之后任何需求变更都必须走变更控制过程：提出变更申请→影响分析→变更评审→批准或拒绝→实施与验证→更新基线。这是配置管理与需求管理的基本要求，目的是防止需求无序蔓延导致范围失控。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 137,
+          "no": 137,
+          "score": "0.5",
+          "stem": "黑盒测试又称为结构测试，它依据程序的内部逻辑结构来设计测试用例。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.正确",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.错误",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "analysis": "错误。黑盒测试又称功能测试或数据驱动测试，不关心程序内部逻辑结构，只依据需求规格说明书从外部输入/输出角度设计用例；依据程序内部逻辑结构设计用例的是白盒测试（结构测试）。题干把两者定义颠倒了。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 138,
+          "no": 138,
+          "score": "0.5",
+          "stem": "软件交付使用后，为适应运行环境的变化（如操作系统升级）而修改软件的活动，属于适应性维护。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.正确",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.错误",
+              "images": []
+            }
+          ],
+          "correct_answer": "A",
+          "user_answer": "A",
+          "is_correct": true,
+          "analysis": "正确。软件维护分四类：改正性维护（修复运行中发现的缺陷）、适应性维护（适应运行环境变化，如操作系统升级、硬件更换、数据格式变化）、完善性维护（增加新功能、提升性能）、预防性维护（为提高未来可维护性而重构）。题干描述的正是适应性维护。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 139,
+          "no": 139,
+          "score": "0.5",
+          "stem": "面向对象方法中，类是一组具有相同属性和相同操作的对象的抽象，对象是类的实例。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.正确",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.错误",
+              "images": []
+            }
+          ],
+          "correct_answer": "A",
+          "user_answer": "A",
+          "is_correct": true,
+          "analysis": "正确。面向对象中，类是对一组具有相同属性（数据成员）和相同操作（方法）的对象的抽象描述；对象是类的实例，是运行时真正存在的实体。类与对象是“抽象与具体”“模板与实例”的关系，一个类可以创建多个对象。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 140,
+          "no": 140,
+          "score": "0.5",
+          "stem": "主频越高的计算机，其实际程序执行性能就一定越强。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.正确",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.错误",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "analysis": "错误。主频只是影响性能的因素之一，实际性能还取决于 CPI、指令条数、Cache 与存储层次、并行度、编译器优化等。性能公式为：执行时间 = 指令数×CPI×时钟周期，只提高主频而指令数增加同样可能使性能下降，因此高主频不等于高性能。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 141,
+          "no": 141,
+          "score": "0.5",
+          "stem": "EEE 754 标准浮点数中，阶码（指数）采用移码表示，尾数采用原码表示且隐藏最高位1；阶码位数越多可表示的数值范围越大，尾数位数越多数值精度越高。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.正确",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.错误",
+              "images": []
+            }
+          ],
+          "correct_answer": "A",
+          "user_answer": "A",
+          "is_correct": true,
+          "analysis": "正确（选项中的“EEE 754”是 IEEE 754 的笔误）。IEEE 754 浮点数中，阶码用移码（偏置码）表示，便于比较大小；尾数用原码表示并隐藏最高位的 1（规格化数），从而多出一位有效精度。阶码位数决定数值范围，尾数位数决定精度，这一对应关系正确。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 142,
+          "no": 142,
+          "score": "0.5",
+          "stem": "虚拟存储器的主要目的是提高主存的访问速度，Cache 的主要目的是扩大主存的逻辑容量。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.正确",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.错误",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "analysis": "错误。题干把两者目的说反了：虚拟存储器的主要目的是从逻辑上扩充主存容量（让程序可使用大于物理内存的地址空间），代价是可能增加访问时间；Cache 的主要目的是提高访存速度（缓解 CPU 与主存的速度差距），不改变逻辑容量。正确表述是“Cache 提高速度、虚拟存储器扩充容量”。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 143,
+          "no": 143,
+          "score": "0.5",
+          "stem": "定长指令字结构计算机的取指周期长度固定（通常一次访存即可取出一条指令），而变长指令字结构计算机的取指时间可能因指令长度不同而变化。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.正确",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.错误",
+              "images": []
+            }
+          ],
+          "correct_answer": "A",
+          "user_answer": "A",
+          "is_correct": true,
+          "analysis": "正确。定长指令字结构中每条指令长度相同，取指周期固定（通常一次访存即可取出整条指令），控制器时序规整，便于流水线设计；变长指令字结构（如 x86）指令长度不等，取指时可能需多次访存并判断指令边界，取指时间随指令长度变化。这是 RISC 与 CISC 在指令格式上的典型差别。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 144,
+          "no": 144,
+          "score": "0.5",
+          "stem": "异步总线不依赖统一时钟信号，而是通过“请求-应答”握手信号实现通信，适合设备速度差异大、传输距离较远的系统。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.正确",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.错误",
+              "images": []
+            }
+          ],
+          "correct_answer": "A",
+          "user_answer": "A",
+          "is_correct": true,
+          "analysis": "正确。异步总线不使用统一时钟同步，而采用“请求—应答”（握手）方式：主设备发出请求信号，从设备准备好后返回应答信号，双方按握手协议推进。这种方式可兼容速度差异很大的设备，也适合传输距离较远、时钟难以同步的系统；代价是控制复杂、效率略低于同步总线。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 145,
+          "no": 145,
+          "score": "0.5",
+          "stem": "当前基于 Transformer 的大语言模型（如 GPT-4、文心一言等）属于通用强人工智能（AGI），已经具备与人脑相当的自主意识、常识推理和跨领域通用能力。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.正确",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.错误",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "analysis": "错误。当前基于 Transformer 的大语言模型本质上是统计学习模型，通过海量语料学习词序列的概率分布，不具备自主意识、真正的常识推理和跨领域通用能力，仍属于“狭义/专用人工智能”，距离通用强人工智能（AGI）尚有本质差距。题干“已经具备与人脑相当的自主意识”属于明显夸大。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 146,
+          "no": 146,
+          "score": "0.5",
+          "stem": "分布式计算是云计算的核心支撑技术之一，但分布式计算并不等同于云计算，云计算还包含虚拟化、服务化计量、按需自助服务、资源池化等关键特征。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.正确",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.错误",
+              "images": []
+            }
+          ],
+          "correct_answer": "A",
+          "user_answer": "A",
+          "is_correct": true,
+          "analysis": "正确。分布式计算强调把任务拆分到多台机器上并行处理，是云计算的核心支撑技术之一；但云计算不等同于分布式计算，它还包括虚拟化（资源池化）、按需自助服务、服务化计量（按使用付费）、弹性伸缩等关键特征，是一种服务交付模式。二者的关系是“技术基础”与“服务形态”。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 147,
+          "no": 147,
+          "score": "0.5",
+          "stem": "数据量越大，大数据分析得到的结论准确性和价值就一定越高。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.正确",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.错误",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "analysis": "错误。大数据的 5V 特征之一 Value 指的是“价值密度低”——数据量越大，其中有价值的信息占比往往越低，噪声、缺失、偏差也随之增加；若数据质量差、样本有偏，数据量再大也只会得到更“精确的错误”结论（如幸存者偏差、辛普森悖论）。数据价值取决于质量、相关性与分析方法，而非单纯的数量。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 148,
+          "no": 148,
+          "score": "0.5",
+          "stem": "如果ICMP差错报告报文出错，则不再发送ICMP差错报告报文。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.正确",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.错误",
+              "images": []
+            }
+          ],
+          "correct_answer": "A",
+          "user_answer": "B",
+          "is_correct": false,
+          "analysis": "正确。这是 ICMP 协议的规定：当 ICMP 差错报告报文本身出错时，不再为其发送新的 ICMP 差错报告报文，以避免差错报文无限循环。同类规定还包括：对分片的非首片不发送 ICMP 差错报文、对多播地址不发送 ICMP 差错报文等。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 149,
+          "no": 149,
+          "score": "0.5",
+          "stem": "802.11n可以工作在2.4G和5G频段。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.正确",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.错误",
+              "images": []
+            }
+          ],
+          "correct_answer": "A",
+          "user_answer": "A",
+          "is_correct": true,
+          "analysis": "正确。IEEE 802.11n（Wi-Fi 4）支持 2.4GHz 和 5GHz 双频段工作，并引入 MIMO 多天线技术，理论速率可达 600Mbps。此前的 802.11b/g 只支持 2.4GHz，802.11a 只支持 5GHz，802.11n 是首个同时支持双频段的主流标准。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 150,
+          "no": 150,
+          "score": "0.5",
+          "stem": "DHCP中继代理收到主机广播发送的DHCP Discover报文后，以广播方式向DHCP服务器转发此报文，并等待其回答。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.正确",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.错误",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "A",
+          "is_correct": false,
+          "analysis": "错误。DHCP 中继代理收到客户端以广播方式发送的 DHCP Discover 后，是以单播方式把报文转发给 DHCP 服务器（中继代理配置了服务器 IP 地址），而不是广播；服务器的应答也由中继代理转发回客户端。题干“以广播方式向 DHCP 服务器转发”错误，后半句“等待其回答”正确。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 151,
+          "no": 151,
+          "score": "0.5",
+          "stem": "一个使用GBN协议的数据链路层协议，如果采用了n位的帧序列号，可以选用的最大发送窗口是2^(n-1)。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.正确",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.错误",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "A",
+          "is_correct": false,
+          "analysis": "错误。GBN（后退 N 帧）协议中，若帧序号用 n 位表示，发送窗口最大为 2^n − 1（必须小于序号空间大小减一，否则接收方无法区分新帧与重传帧）；2^(n−1) 是选择重传（SR）协议的最大发送窗口。题干把 SR 的结论套用到 GBN 上，故错误。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 152,
+          "no": 152,
+          "score": "0.5",
+          "stem": "协议HTTP/1.1使用持续连接的流水线方式时，客户在收到前一个响应之后才能发出下一个请求。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.正确",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.错误",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "analysis": "错误。HTTP/1.1 的持续连接分为非流水线和流水线两种方式。非流水线方式下，客户端收到前一个响应后才能发下一个请求；流水线方式下，客户端在收到响应之前就可以连续发出多个请求，服务器按序返回响应，从而减少等待时间、提高效率。题干描述的是非流水线方式。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 153,
+          "no": 153,
+          "score": "0.5",
+          "stem": "作业的运行状态，等价于进程处于CPU上执行的运行态。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.正确",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.错误",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "analysis": "错误。“作业”是批处理系统中的宏观概念，作业状态包括提交、后备、运行、完成等，描述的是作业在整个处理过程中的阶段；而“运行态”是进程微观三态（就绪、运行、阻塞）之一，指进程正占用 CPU 执行。作业的“运行状态”涵盖其一个或多个进程的执行过程，二者不等价。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 154,
+          "no": 154,
+          "score": "0.5",
+          "stem": "DMA方式中，数据传送过程是由CPU执行指令来控制，每传送一个数据都需要CPU中断一次。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.正确",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.错误",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "analysis": "错误。DMA 方式下，数据传送由 DMA 控制器（硬件）直接控制，在主存与外设之间成块传送，传送过程中不需要 CPU 执行指令，也不需要每传送一个数据就中断一次；CPU 仅在数据块传送开始前初始化、结束后处理一次中断。题干描述的是程序中断方式的特征。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        },
+        {
+          "seq": 155,
+          "no": 155,
+          "score": "0.5",
+          "stem": "对互斥信号量执行V操作后，若信号量的值小于等于0，则会唤醒等待队列中的一个阻塞进程，被唤醒的进程会立刻获得CPU执行。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.正确",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.错误",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "analysis": "错误。对互斥信号量执行 V 操作后，若信号量值 ≤0，说明有进程在等待，V 操作会唤醒等待队列中的一个进程，但被唤醒的进程只是从阻塞态转为就绪态、进入就绪队列，能否立刻获得 CPU 取决于调度策略。因此“立刻获得 CPU 执行”的说法错误。",
+          "analysis_source": "supplemented",
+          "analysis_images": []
+        }
+      ]
+    },
+    {
+      "title": "七、资料分析题（每题0.5分，共10题，总计5分）",
+      "materials": [
+        {
+          "text": "材料一、\n\n（一）\n\n科幻产业包括科幻阅读、科幻影视、科幻游戏、科幻衍生品、科幻文旅五大领域。2024年，我国科幻产业\n\n总营收1089.6亿元。",
+          "images": [
+            "images/img_002.png",
+            "images/img_003.png"
+          ]
+        },
+        {
+          "text": "材料二、\n\n（二）\n\n标准物质与尺子、砝码一样，是测量中必不可少的参照工具。它是已提前获得准确测量结果、均匀稳定的样品，待测样品以其为标准，确保不同时间、人员、实验室的测量结果可比。标准物质研制生产机构在开展具体品种标准物质的生产供应前，须通过技术审评并取得定级证书，这些取得定级证书的标准物质，统称为“国家标准物质”。根据计量溯源性、准确度和用途等，国家标准物质目前分为两类，即一级标准物质和二级标准物质。\n\n国家标准物质数量快速增长的原因有四个方面：一是用途广泛、涉及经济、社会发展的各个领域；二是需求大幅增加，检测部门和行业主管部门日益重视测量结果的准确性；三是产业发展迅速，除了中国计量科学研究院等机构之外，越来越多的企业积极申报国家标准物质；四是政策支持，国家市场监管总局出台了一系列措施，比如将国家标准物质纳入国务院计量发展规划、发布建设和管理指导意见，并优化审评制度，提高审批效率。\n\n截至2025年上半年，市场监管总局累计批准建立国家标准物质18982项。2025年上半年，我国新批准建立国家标准物质524项，同比增长78.8%，涉及研制单位51家。从研制单位类型看，企业申报标准物质379项，同比增长86.7%；科研事业单位申报145项，同比增长61.1%。从地域分布看，华北地区新建标准物质234项，华东地区新建标准物质124项，东北地区新建标准物质62项，西北地区新建标准物质48项，华南地区新建标准物质32项，西南地区新建标准物质24项，华中地区未新建标准物质。",
+          "images": []
+        }
+      ],
+      "items": [
+        {
+          "seq": 156,
+          "no": 1,
+          "score": "0.5",
+          "stem": "2021~2024年，我国科幻产业累计营收额约是2017~2020年的多少倍？（     ）",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.2.5",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.2.2",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.1.9",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.1.6",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "analysis": "根据题干“2021~2024年······约是2017~2020年的多少倍”，结合材料已给出2017~2024年的相关数据，可判定本题为现期倍数问题。定位统计图1可得2017~2024年我国科幻产业营收额，则所求倍数=829.6+877.5+1132.9+1089.6/140.0+456.4+658.7+551.1=3929.6/1806.2≈2.2。故正确答案为B。",
+          "analysis_source": "original",
+          "analysis_images": []
+        },
+        {
+          "seq": 157,
+          "no": 2,
+          "score": "0.5",
+          "stem": "如保持2024年同比增量不变，则2026-2030年，我国科幻游戏产业累计营收将在以下哪个范围内？（     ）",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.不到4500亿元",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.4500亿～4750亿元之间",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.超过5000亿元",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.4750亿～5000亿元之间",
+              "images": []
+            }
+          ],
+          "correct_answer": "D",
+          "user_answer": "B",
+          "is_correct": false,
+          "analysis": "根据题干“如保持2024年同比增量不变，则2026-2030年······将在以下哪个范围内”，结合材料时间为2022-2024年，可判定本题为现期计算问题。定位统计图2可得：2023年、2024年我国科幻游戏产业营收分别为：651.9亿元、718.1亿元。根据公式：增长量=现期量-基期量，则2024年我国科幻游戏产业营收同比增量=718.1-651.9=66.2亿元。根据公式：现期量=基期量+n×增长量（n为年份差），则2026年营收=718.1+66.2×2=850.5亿元。可知2026-2030年累计营收构成首项为850.5、公差为66.2、项数为5的等差数列，则2026-2030年，我国科幻游戏产业累计营收=5×850.5+5×4×66.2÷2=4914.5。故正确答案为D。",
+          "analysis_source": "original",
+          "analysis_images": []
+        },
+        {
+          "seq": 158,
+          "no": 3,
+          "score": "0.5",
+          "stem": "我国科幻产业五大领域中，2024年营收额同比增速快于2023年水平的有几个？（     ）",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.4",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.3",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.2",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.1",
+              "images": []
+            }
+          ],
+          "correct_answer": "C",
+          "user_answer": "C",
+          "is_correct": true,
+          "analysis": "根据题干“······2024年······同比增速快于2023年水平······”，可判定本题为一般增长率比较问题。定位统计图2可得：2024年我国科幻产业五大领域营收额分别为：35.1亿元、67.1亿元、718.1亿元、25.3亿元、244.0亿元；2023年我国科幻产业五大领域营收额分别为：31.7亿元、115.9亿元、651.9亿元、22.8亿元、310.6亿元；2022年我国科幻产业五大领域营收额分别为：30.4亿元、83.5亿元、565.0亿元、48.3亿元、150.3亿元，根据公式：增长率=-1可得：2024年我国科幻产业五大领域营收额的同比增速分别是：科幻阅读：r=-1≈11%；科幻影视：r=-1≈-42%；科幻游戏：r=-1≈10%；科幻衍生品：r=-1≈11%；科幻文旅：r=-1≈-21%。2023年我国科幻产业五大领域营收额的同比增速分别是：科幻阅读：r=-1≈4%；科幻影视：r=-1≈39%；科幻游戏：r=-1≈15%；科幻衍生品：r=-1≈-53%；科幻文旅：r=-1≈107%。综上可知，我国科幻产业五大领域中，2024年营收额同比增速快于2023年水平的有科幻阅读、科幻衍生品两个领域。故正确答案为C。",
+          "analysis_source": "original",
+          "analysis_images": [
+            "images/img_004.png",
+            "images/img_005.png",
+            "images/img_006.png",
+            "images/img_007.png",
+            "images/img_008.png",
+            "images/img_009.png",
+            "images/img_010.png",
+            "images/img_011.png",
+            "images/img_012.png",
+            "images/img_013.png",
+            "images/img_014.png"
+          ]
+        },
+        {
+          "seq": 159,
+          "no": 4,
+          "score": "0.5",
+          "stem": "2022~2024年，科幻文旅营收额占科幻产业营收额的比重超过20%的年份仅包括：（     ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.2023和2024年",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.2023年",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.2022和2024年",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.2022年",
+              "images": []
+            }
+          ],
+          "correct_answer": "A",
+          "user_answer": "A",
+          "is_correct": true,
+          "analysis": "根据题干“2022~2024年······占······的比重超过20%的年份仅包括”，结合材料时间为2022~2024年，可判定本题为现期比重问题。定位图1可得：2022~2024年我国科幻产业营收额分别为877.5亿元、1132.9亿元、1089.6亿元；定位图2可得：2022~2024年我国科幻文旅营收额分别为150.3亿元、310.6亿元、244.0亿元。根据公式：比重=部分值/整体值，则2022~2024年，科幻文旅营收额占科幻产业营收额的比重分别为：2022年：150.3/877.5≈15%2023年：310.6/1132.9≈28%2024年：244.0/1089.6≈22%综上所述，2022~2024年，科幻文旅营收额占科幻产业营收额的比重超过20%的年份仅包括2023和2024年。故正确答案为A。",
+          "analysis_source": "original",
+          "analysis_images": []
+        },
+        {
+          "seq": 160,
+          "no": 5,
+          "score": "0.5",
+          "stem": "以下柱状图反映了哪一时间段内，我国科幻产业营收额同比增量的变化情况（横轴位置表示增量为0）？（     ）",
+          "stem_images": [
+            "images/img_015.png"
+          ],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.2021~2024年",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.2020~2023年",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.2019~2022年",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.2018~2021年",
+              "images": []
+            }
+          ],
+          "correct_answer": "D",
+          "user_answer": "D",
+          "is_correct": true,
+          "analysis": "根据题干“······我国科幻产业营收额同比增量的变化情况······”，可判定本题为增长量比较问题。定位图1可知2017~2024年我国科幻产业各年度营收额，根据公式：增长量=现期量-基期量，则选项中各年份增长量分别为：A项：2021年，829.6-551.1=278.5亿元；2022年，877.5-829.6=47.9亿元；2023年，1132.9-877.5=255.4亿元，题干图中第三年增长量为负，排除。B项：2020年，551.1-658.7=-107.6亿元，题干图中第一年增长量为正，排除。C项：2019年，658.6-456.4=202.2亿元；2020年，551.1-658.7=-107.6亿元，题干图中第二年增长量为正，排除。D项：2018年，456.4-140.0=316.4亿元；2019年，658.6-456.4=202.2亿元；2020年，551.1-658.7=-107.6亿元；2021年，829.6-551.1=278.5亿元，符合题干图形的变化情况，当选。故正确答案为D。",
+          "analysis_source": "original",
+          "analysis_images": []
+        },
+        {
+          "seq": 161,
+          "no": 1,
+          "score": "0.5",
+          "stem": "根据计量溯源性、准确度和用途等，国家标准物质目前分为（     ）类。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.两",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.三",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.四",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.五",
+              "images": []
+            }
+          ],
+          "correct_answer": "A",
+          "user_answer": "A",
+          "is_correct": true,
+          "analysis": "定位文字材料第一段可知，根据计量溯源性、准确度和用途等，国家标准物质目前分为两类，即一级标准物质和二级标准物质。故正确答案为A。",
+          "analysis_source": "original",
+          "analysis_images": []
+        },
+        {
+          "seq": 162,
+          "no": 2,
+          "score": "0.5",
+          "stem": "根据资料，国家标准物质数量快速增长的原因不包括（     ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.用途广泛",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.需求大幅增加",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.产业链完整",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.政策支持",
+              "images": []
+            }
+          ],
+          "correct_answer": "C",
+          "user_answer": "C",
+          "is_correct": true,
+          "analysis": "定位文字材料第二段可得：国家标准物质数量快速增长的原因有四个方面：一是用途广泛······二是需求大幅增加······三是产业发展迅速······四是政策支持······。则国家标准物质数量快速增长的原因不包括产业链完整。本题为选非题，故正确答案为C。",
+          "analysis_source": "original",
+          "analysis_images": []
+        },
+        {
+          "seq": 163,
+          "no": 3,
+          "score": "0.5",
+          "stem": "截至2024年末，市场监管总局累计批准建立国家标准物质（     ）项。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.17934",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.18458",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.18982",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.19506",
+              "images": []
+            }
+          ],
+          "correct_answer": "B",
+          "user_answer": "B",
+          "is_correct": true,
+          "analysis": "定位文字材料第三段可得：截至2025年上半年，市场监管总局累计批准建立国家标准物质18982项。2025年上半年，我国新批准建立国家标准物质524项。根据2024年末累计批准数据+2025年上半年新批准数据=2025年上半年累计批准数据，则题干所求为18982-524=18458项。故正确答案为B。",
+          "analysis_source": "original",
+          "analysis_images": []
+        },
+        {
+          "seq": 164,
+          "no": 4,
+          "score": "0.5",
+          "stem": "2024年上半年，我国新批准建立的国家标准物质中，企业申报的标准物质项目数约占（     ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.40%",
+              "images": []
+            },
+            {
+              "key": "B",
+              "text": "B.50%",
+              "images": []
+            },
+            {
+              "key": "C",
+              "text": "C.60%",
+              "images": []
+            },
+            {
+              "key": "D",
+              "text": "D.70%",
+              "images": []
+            }
+          ],
+          "correct_answer": "D",
+          "user_answer": "D",
+          "is_correct": true,
+          "analysis": "根据题干“2024年上半年······约占”，结合材料时间为2025年上半年，可判定本题为基期比重问题。定位文字材料第三段可得：2025年上半年我国新批准建立国家标准物质524项，同比增长78.8%；企业申报标准物质379项，同比增长86.7%。根据公式：基期比重=，则所求比重为故正确答案为D。",
+          "analysis_source": "original",
+          "analysis_images": [
+            "images/img_016.png",
+            "images/img_017.png"
+          ]
+        },
+        {
+          "seq": 165,
+          "no": 5,
+          "score": "0.5",
+          "stem": "下列选项中，最有可能准确反映2025年上半年我国新建标准物质地域分布情况的是（     ）。",
+          "stem_images": [],
+          "options": [
+            {
+              "key": "A",
+              "text": "A.",
+              "images": [
+                "images/img_018.png"
+              ]
+            },
+            {
+              "key": "B",
+              "text": "B.",
+              "images": [
+                "images/img_019.png"
+              ]
+            },
+            {
+              "key": "C",
+              "text": "C.",
+              "images": [
+                "images/img_020.png"
+              ]
+            },
+            {
+              "key": "D",
+              "text": "D.",
+              "images": [
+                "images/img_021.png"
+              ]
+            }
+          ],
+          "correct_answer": "A",
+          "user_answer": "A",
+          "is_correct": true,
+          "analysis": "定位文字材料第三段可得：2025年上半年，我国新批准建立国家标准物质524项。从地域分布看，华北地区新建标准物质234项，华东地区新建标准物质124项，东北地区新建标准物质62项，西北地区新建标准物质48项，华南地区新建标准物质32项，西南地区新建标准物质24项，华中地区未新建标准物质。饼形图未给出图例时，应按材料数据顺序（从前往后或从上往下），从12点钟方向开始顺时针排布。因华中地区未新建标准物质，可知饼状图只包括6个地区，排除C、D两项。对比A、B两项，最明显的区别为华南地区和西南地区的大小关系（即最后两部分），华南地区32项明显大于西南地区24项，排除B项。故正确答案为A。",
+          "analysis_source": "original",
+          "analysis_images": []
+        }
+      ]
+    }
+  ]
+}
