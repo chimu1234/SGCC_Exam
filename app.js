@@ -133,6 +133,7 @@
 
   function save() {
     try { localStorage.setItem(LS_KEY, JSON.stringify(state)); } catch (e) { /* ignore */ }
+    if (!applyingRemote && typeof schedulePush === 'function') schedulePush();
   }
   function toast(msg) {
     const el = document.getElementById('toast');
@@ -891,6 +892,13 @@
           '<button class="btn sm" data-action="import">导入</button>' +
           '<button class="btn sm danger" data-action="reset">重置</button>' +
         '</div></div>' +
+      '<div class="settings-row"><div class="grow"><div>跨设备同步</div><div class="desc" id="syncStatus" data-kind="wait">检测中…　手机和电脑打开同一个服务器地址即可共享错题本与统计</div></div>' +
+        '<div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center">' +
+          '<button class="btn sm" data-action="sync-now">立即同步</button>' +
+          '<label class="switch"><input type="checkbox" data-setting="syncEnabled" ' + (syncState.enabled ? 'checked' : '') + '><span></span></label>' +
+        '</div></div>' +
+      '<div class="settings-row"><div class="grow"><div>同步服务器地址</div><div class="desc">公网隧道如 https://xxxx.trycloudflare.com；同一 WiFi 可用 http://电脑IP:8849。留空表示用当前站点同源服务。</div></div>' +
+        '<input class="sync-url" id="syncUrl" placeholder="留空 = 同源自动" value="' + (syncState.url || '') + '"></div>' +
       '<input type="file" id="importFile" accept="application/json,.json" hidden>' +
     '</div>';
   }
@@ -999,6 +1007,7 @@
       case 'export': exportData(); break;
       case 'import': { const f = document.getElementById('importFile'); if (f) f.click(); break; }
       case 'reset': askConfirm('重置数据', '将清除所有进度、错题、收藏与设置，确定吗？', resetAll, '重置'); break;
+      case 'sync-now': pushState(); toast('正在同步…'); break;
     }
   });
 
@@ -1027,6 +1036,11 @@
   }
 
   document.addEventListener('input', function (e) {
+    if (e.target.id === 'syncUrl') {
+      syncState.url = e.target.value.trim();
+      persistSync();
+      return;
+    }
     if (e.target.id === 'searchInput') {
       state.searchQuery = e.target.value;
       const box = document.getElementById('searchResults');
@@ -1048,8 +1062,22 @@
       if (e.target.files && e.target.files[0]) importFile(e.target.files[0]);
       return;
     }
+    if (e.target.id === 'syncUrl') {
+      syncState.url = e.target.value.trim();
+      persistSync();
+      setSyncStatus('wait', '重新连接中…');
+      pullState(true);
+      return;
+    }
     const k = e.target.dataset.setting;
     if (!k) return;
+    if (k === 'syncEnabled') {
+      syncState.enabled = e.target.checked;
+      persistSync();
+      if (e.target.checked) { setSyncStatus('wait', '连接中…'); pullState(true); }
+      else { setSyncStatus('off', '同步已关闭'); }
+      return;
+    }
     if (k === 'theme') state.settings.theme = e.target.value;
     if (k === 'shuffleOptions' || k === 'autoNext') state.settings[k] = e.target.checked;
     if (k === 'fontSize') state.settings.fontSize = Number(e.target.value);
@@ -1096,6 +1124,98 @@
     if (key === 'M' && s.mode === 'exam') markCurrent();
   });
 
+  // ---------------- 双端同步 ----------------
+  var applyingRemote = false;
+  var SYNC_KEY = 'sgcc.sync';
+  var syncState = { url: '', rev: 0, enabled: true };
+  try { Object.assign(syncState, JSON.parse(localStorage.getItem(SYNC_KEY) || '{}')); } catch (e) { }
+  var syncOnline = false, syncBusy = false, syncPending = false, syncTimer = null;
+
+  function persistSync() { try { localStorage.setItem(SYNC_KEY, JSON.stringify(syncState)); } catch (e) { } }
+  function syncEndpoint() {
+    var u = (syncState.url || '').trim();
+    if (u) return u.replace(/\/+$/, '') + '/api/state';
+    return 'api/state';
+  }
+  function setSyncStatus(kind, text) {
+    var el = document.getElementById('syncStatus');
+    if (el) { el.dataset.kind = kind; el.textContent = text; }
+    var pill = document.getElementById('syncPill');
+    if (pill) { pill.dataset.kind = kind; pill.textContent = text; }
+  }
+  function syncPayload() {
+    return { progress: state.progress, wrong: state.wrong, fav: state.fav, baseRev: syncState.rev };
+  }
+  function schedulePush() {
+    if (!syncState.enabled) return;
+    if (syncTimer) clearTimeout(syncTimer);
+    syncTimer = setTimeout(pushState, 400);
+  }
+  function adoptRemote(s) {
+    if (!s) return;
+    applyingRemote = true;
+    try {
+      if (s.progress && typeof s.progress === 'object') state.progress = s.progress;
+      if (s.wrong && typeof s.wrong === 'object') state.wrong = s.wrong;
+      if (s.fav && typeof s.fav === 'object') state.fav = s.fav;
+      try { localStorage.setItem(LS_KEY, JSON.stringify(state)); } catch (e) { }
+    } finally { applyingRemote = false; }
+    try { if (document.getElementById('app')) render(); } catch (e) { }
+  }
+  function pushState() {
+    if (!syncState.enabled) return;
+    if (syncBusy) { syncPending = true; return; }
+    syncBusy = true;
+    fetch(syncEndpoint(), {
+      method: 'POST', headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(syncPayload()), cache: 'no-store'
+    }).then(function (r) { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+      .then(function (s) {
+        syncOnline = true;
+        if (s && typeof s.rev === 'number') {
+          syncState.rev = s.rev; persistSync();
+          if (s.conflict) adoptRemote(s);
+          setSyncStatus('on', '已同步');
+        }
+      })
+      .catch(function () { syncOnline = false; setSyncStatus('off', '离线·仅本机'); })
+      .then(function () { syncBusy = false; if (syncPending) { syncPending = false; pushState(); } });
+  }
+  function pullState(initial) {
+    if (!syncState.enabled) return;
+    fetch(syncEndpoint(), { cache: 'no-store' })
+      .then(function (r) { if (!r.ok) throw new Error(); return r.json(); })
+      .then(function (s) {
+        if (!s) { pushState(); return; }
+        syncOnline = true;
+        if (typeof s.rev === 'number' && s.rev !== syncState.rev) {
+          syncState.rev = s.rev; persistSync(); adoptRemote(s); setSyncStatus('on', '已同步');
+        } else if (initial && s.rev === 0) {
+          pushState();
+        } else {
+          setSyncStatus('on', '已同步');
+        }
+      })
+      .catch(function () { syncOnline = false; setSyncStatus('off', '离线·仅本机'); });
+  }
+  function syncInit() {
+    var header = document.querySelector('.topbar');
+    if (header && !document.getElementById('syncPill')) {
+      var pill = document.createElement('button');
+      pill.id = 'syncPill'; pill.className = 'sync-pill'; pill.type = 'button';
+      pill.title = '双端同步状态（点此进入设置）'; pill.dataset.kind = 'wait'; pill.textContent = '同步…';
+      pill.addEventListener('click', function () { setView('settings'); });
+      var themeBtn = document.getElementById('themeBtn');
+      if (themeBtn && themeBtn.parentNode) themeBtn.parentNode.insertBefore(pill, themeBtn);
+      else header.appendChild(pill);
+    }
+    if (!syncState.enabled) { setSyncStatus('off', '同步已关闭'); return; }
+    pullState(true);
+    setInterval(function () { if (document.visibilityState === 'visible') pullState(false); }, 5000);
+    document.addEventListener('visibilitychange', function () { if (document.visibilityState === 'hidden') pushState(); });
+    window.addEventListener('pagehide', pushState);
+  }
+
   // ---------------- boot ----------------
 
   (async function boot() {
@@ -1109,5 +1229,6 @@
       if (state.view === 'quiz') state.view = 'home';
     }
     render();
+    syncInit();
   })();
 })();

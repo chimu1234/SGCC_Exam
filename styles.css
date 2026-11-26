@@ -324,3 +324,24 @@ details.review > summary { cursor: pointer; color: var(--brand); font-weight: 60
   .row { flex-direction: column; }
   .row .row-actions { align-self: flex-end; }
 }
+
+/* ---- 双端同步 ---- */
+.sync-pill {
+  margin-left: 6px; padding: 5px 10px; border-radius: 999px; cursor: pointer;
+  font-size: 12px; line-height: 1.2; border: 1px solid var(--line);
+  background: var(--bg-2); color: var(--muted); white-space: nowrap;
+  display: inline-flex; align-items: center; gap: 6px; transition: all .15s;
+}
+.sync-pill::before { content: ""; width: 7px; height: 7px; border-radius: 50%; background: currentColor; opacity: .7; }
+.sync-pill[data-kind="on"] { color: var(--ok); background: var(--ok-soft); border-color: transparent; }
+.sync-pill[data-kind="off"] { color: var(--bad); background: var(--bad-soft); border-color: transparent; }
+.sync-pill[data-kind="wait"] { color: var(--warn); background: var(--warn-soft); border-color: transparent; }
+.sync-pill:hover { filter: brightness(.97); }
+#syncStatus[data-kind="on"] { color: var(--ok); }
+#syncStatus[data-kind="off"] { color: var(--bad); }
+#syncStatus[data-kind="wait"] { color: var(--warn); }
+.sync-url {
+  width: 260px; max-width: 100%; padding: 7px 10px; border-radius: 9px;
+  border: 1px solid var(--line); background: var(--card); color: var(--text); font-size: 13px;
+}
+@media (max-width: 760px) { .sync-pill { order: 2; } .sync-url { width: 100%; } }
