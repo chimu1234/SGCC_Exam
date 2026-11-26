@@ -25,6 +25,18 @@
         "imageDir": "sources/mock-145390/images",
         "durationMin": 120
       }
+    },
+    {
+      "id": "newtech-2027",
+      "name": "信息新技术专项（2027大纲·45–48）",
+      "shortName": "信息新技术专项",
+      "description": "按 2027 计算机类大纲第 45–48 知识点（人工智能/物联网/云计算/大数据）自建，共 275 题，全部含解析。",
+      "adapter": "structured_json_bank",
+      "source": "sources/newtech/questions.json",
+      "tags": ["专项", "信息新技术", "2027大纲"],
+      "options": {
+        "durationMin": 150
+      }
     }
   ]
 }
