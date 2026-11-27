@@ -52,7 +52,7 @@
    "id": "xingce-public",
    "name": "公共·一般能力强化（言语/数量/判断）",
    "shortName": "一般能力强化",
-   "description": "由 12 套「公共与行业知识·预测模拟」＋5 套「决胜模拟」行测卷提炼，共 589 题（均含解析），覆盖言语理解、数量关系、判断推理、常识判断等一般能力题型，对应大纲公共部分「一般能力」。",
+   "description": "由 12 套「公共与行业知识·预测模拟」＋5 套「决胜模拟」行测卷提炼，剔除依赖图表无法作答的资料分析/图形推理后共 527 题（均含解析），覆盖言语理解、数量关系、判断推理、常识判断等一般能力题型，对应大纲公共部分「一般能力」。",
    "adapter": "structured_json_bank",
    "source": "sources/xingce/questions.json",
    "tags": [
@@ -69,7 +69,7 @@
    "id": "jsjj-base",
    "name": "计算机类·基础模拟题库",
    "shortName": "计算机基础模拟",
-   "description": "由 2 套国网计算机类模拟/试题（国家电网模拟题-计算机类 173 题、考试计算机类试题 70 题）整理，共 242 题（均含解析），按大纲 7 方向分类：数据结构与算法／计算机组成／计算机网络／操作系统／数据库系统／软件工程／计算机基础。",
+   "description": "由 2 套国网计算机类模拟/试题（国家电网模拟题-计算机类 173 题、考试计算机类试题 70 题）整理，共 223 题（均含解析），按大纲 7 方向分类：数据结构与算法／计算机组成／计算机网络／操作系统／数据库系统／软件工程／计算机基础。",
    "adapter": "structured_json_bank",
    "source": "sources/jsjj/questions.json",
    "tags": [
@@ -79,6 +79,51 @@
    ],
    "options": {
     "durationMin": 60
+   }
+  },
+  {
+   "id": "zhenti-2014",
+   "name": "国网计算机类·2014年真题",
+   "shortName": "2014真题",
+   "description": "2014 年国家电网（计算机类）笔试真题，从 PDF 文本层整理，单选/多选/判断三部分，含答案。",
+   "adapter": "structured_json_bank",
+   "source": "sources/zhenti/zhenti-2014.json",
+   "tags": [
+    "真题",
+    "计算机类"
+   ],
+   "options": {
+    "durationMin": 180
+   }
+  },
+  {
+   "id": "zhenti-2015",
+   "name": "国网计算机类·2015年真题",
+   "shortName": "2015真题",
+   "description": "2015 年国家电网（计算机类）笔试真题，从 PDF 文本层整理，单选/多选/判断三部分，含答案。",
+   "adapter": "structured_json_bank",
+   "source": "sources/zhenti/zhenti-2015.json",
+   "tags": [
+    "真题",
+    "计算机类"
+   ],
+   "options": {
+    "durationMin": 180
+   }
+  },
+  {
+   "id": "zhenti-2016",
+   "name": "国网计算机类·2016年真题",
+   "shortName": "2016真题",
+   "description": "2016 年国家电网（计算机类）笔试真题，从 PDF 文本层整理，单选/多选/判断三部分，含答案。",
+   "adapter": "structured_json_bank",
+   "source": "sources/zhenti/zhenti-2016.json",
+   "tags": [
+    "真题",
+    "计算机类"
+   ],
+   "options": {
+    "durationMin": 180
    }
   }
  ]
