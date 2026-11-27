@@ -50443,7 +50443,7 @@
    ],
    "exam": {
     "durationMin": 90,
-    "totalScore": 525.0
+    "totalScore": 523.0
    },
    "sections": [
     {
@@ -50461,7 +50461,7 @@
      "order": 2,
      "type": "single",
      "scorePer": 1.0,
-     "count": 75,
+     "count": 73,
      "materials": []
     },
     {
@@ -59860,47 +59860,6 @@
      "warnings": []
     },
     {
-     "uid": "xingce-public:229",
-     "bankId": "xingce-public",
-     "localId": 229,
-     "seq": 229,
-     "no": null,
-     "type": "single",
-     "sectionId": "s2",
-     "sectionName": "数量关系",
-     "stem": "23345893152（）",
-     "stemImages": [],
-     "options": [
-      {
-       "key": "A",
-       "text": "176",
-       "images": []
-      },
-      {
-       "key": "B",
-       "text": "206",
-       "images": []
-      },
-      {
-       "key": "C",
-       "text": "246",
-       "images": []
-      },
-      {
-       "key": "D",
-       "text": "296",
-       "images": []
-      }
-     ],
-     "answer": [
-      "C"
-     ],
-     "score": 1.0,
-     "analysis": "解法一：第一步，本题考查递推数列。 第二步，观察数列递增趋势平缓，考虑递推和数列。规律为每两项之和加1 为下一项，即23+34+1=58， 34+58+1=93，58+93+1=152，那么所求项=93+152+1=246。 因此，选择C 选项。 解法二：第一步，本题考查多级数列。 第二步，观察数列递增趋势平缓，考虑做差。两两做差得11、24、35、59……差数列每两项之和为下一项， 即11+24=35，24+35=59，下一项为35+59=94，那么所求项=152+94=246。 因此，选择C 选项。",
-     "analysisImages": [],
-     "warnings": []
-    },
-    {
      "uid": "xingce-public:230",
      "bankId": "xingce-public",
      "localId": 230,
@@ -60553,47 +60512,6 @@
      ],
      "score": 1.0,
      "analysis": "第一步，本题考查基础应用题。 第二步，设一等品、二等品、三等品的数量分别为x、3x、6x 千克。药材成本为8×5000＝40000（元）， 总成本为40000＋20000＝60000（元）。可列方程：80×x＋50×3x＋20×6x－60000＝108000，解得x＝ 480，那么废品为5000－480－3×480－6×480＝200（千克），则废品率为200÷5000＝4%。 因此，选择B 选项。",
-     "analysisImages": [],
-     "warnings": []
-    },
-    {
-     "uid": "xingce-public:246",
-     "bankId": "xingce-public",
-     "localId": 246,
-     "seq": 246,
-     "no": null,
-     "type": "single",
-     "sectionId": "s2",
-     "sectionName": "数量关系",
-     "stem": "9.194.275.352.43（）",
-     "stemImages": [],
-     "options": [
-      {
-       "key": "A",
-       "text": "3.51",
-       "images": []
-      },
-      {
-       "key": "B",
-       "text": "5.51",
-       "images": []
-      },
-      {
-       "key": "C",
-       "text": "5.60",
-       "images": []
-      },
-      {
-       "key": "D",
-       "text": "8.60",
-       "images": []
-      }
-     ],
-     "answer": [
-      "B"
-     ],
-     "score": 1.0,
-     "analysis": "第一步，本题考查非整数数列。 第二步，数列各项均为小数，考虑小数部分和整数部分分开看，小数部分为19、27、35、43，规律为公差 为8 的等差数列，则所求项的小数部分为43＋8＝51。考虑整数部分，发现各项整数部分是小数部分两个 数字乘积的尾数，即9 是1×9=9 的尾数，4 是2×7=14 的尾数，5 是3×5=15 的尾数，2 是4×3=12 的尾 数。故所求项整数部分为5×1=5。因此，所求项为5.51。 因此，选择B 选项。",
      "analysisImages": [],
      "warnings": []
     },
@@ -72038,13 +71956,13 @@
     }
    ],
    "stats": {
-    "total": 525,
+    "total": 523,
     "byType": {
-     "single": 525
+     "single": 523
     },
     "bySection": {
      "s1": 213,
-     "s2": 75,
+     "s2": 73,
      "s3": 47,
      "s4": 50,
      "s5": 6,
@@ -72071,7 +71989,7 @@
    ],
    "exam": {
     "durationMin": 60,
-    "totalScore": 188.0
+    "totalScore": 179.0
    },
    "sections": [
     {
@@ -72080,7 +71998,7 @@
      "order": 1,
      "type": "single",
      "scorePer": 1.0,
-     "count": 14,
+     "count": 11,
      "materials": []
     },
     {
@@ -72170,7 +72088,7 @@
      "order": 11,
      "type": "single",
      "scorePer": 1.0,
-     "count": 56,
+     "count": 50,
      "materials": []
     },
     {
@@ -72263,129 +72181,6 @@
      ],
      "score": 1.0,
      "analysis": "本题属于削弱型试题，有相当的难度，要求透过表面的内容，找 出能够削弱核心观点的选项。材料中试图被削弱的核心观点是，电影中的吸烟镜头不会影响 其历史真实性。A 是一个支持型的选项，因为如果A 成立，则正好说明错误不会影响历史 真实性，不能选。C 项也是一个支持型的选项，说明电影制作者这样做是无奈的，情有可原， 当然不会影响其在观众中的良好效果，不能选。D 项是有相当的迷惑性，它是用举例的办法 来间接说明类似的错误会影响历史的真实性，显然是一个削弱型的论断，容易误导很多考生 选择此项，事实上这也是一个“优化”的问题，要看清问题的要求，是“最能”削弱，不是一般 意义的能够削弱，比较选项B，“至关重要”“第二次放映”，容易知道答案是B，因为D 是讲 别的例子，都不是本部电影的事实，而B 项所说的正好是本部电影的关键缺陷，因此正确答 案是B。",
-     "analysisImages": [],
-     "warnings": []
-    },
-    {
-     "uid": "jsjj-base:3",
-     "bankId": "jsjj-base",
-     "localId": 3,
-     "seq": 3,
-     "no": null,
-     "type": "single",
-     "sectionId": "s1",
-     "sectionName": "数据结构与算法",
-     "stem": "表中Y 的数值是（ ）。",
-     "stemImages": [],
-     "options": [
-      {
-       "key": "A",
-       "text": "15.7",
-       "images": []
-      },
-      {
-       "key": "B",
-       "text": "13.7",
-       "images": []
-      },
-      {
-       "key": "C",
-       "text": "34.5",
-       "images": []
-      },
-      {
-       "key": "D",
-       "text": "19.5",
-       "images": []
-      }
-     ],
-     "answer": [
-      "C"
-     ],
-     "score": 1.0,
-     "analysis": "此题的算法与上题相同。东部地区的企业总和为100%，则国有 企业、集体企业、外商投资企业加上其他类型的总和应该是100%。所以图中的Y＝100－ 40.2－17.3－8.0＝34.5，即集体企业占东部工业产值的比重为34.5%。",
-     "analysisImages": [],
-     "warnings": []
-    },
-    {
-     "uid": "jsjj-base:4",
-     "bankId": "jsjj-base",
-     "localId": 4,
-     "seq": 4,
-     "no": null,
-     "type": "single",
-     "sectionId": "s1",
-     "sectionName": "数据结构与算法",
-     "stem": "表中Z 的数值是（ ）。",
-     "stemImages": [],
-     "options": [
-      {
-       "key": "A",
-       "text": "1.9",
-       "images": []
-      },
-      {
-       "key": "B",
-       "text": "25",
-       "images": []
-      },
-      {
-       "key": "C",
-       "text": "2.0",
-       "images": []
-      },
-      {
-       "key": "D",
-       "text": "69.1",
-       "images": []
-      }
-     ],
-     "answer": [
-      "D"
-     ],
-     "score": 1.0,
-     "analysis": "此题的算法与上面两道题相同。西部地区的工业产值总和为100%， 则国有企业、集体企业、外商投资企业加上其他类型的总和应该是100%。所以图中的Z＝ 100－23.0－2.2－5.7＝69.1，即国有企业占西部工业产值的比重为69.1%。",
-     "analysisImages": [],
-     "warnings": []
-    },
-    {
-     "uid": "jsjj-base:5",
-     "bankId": "jsjj-base",
-     "localId": 5,
-     "seq": 5,
-     "no": null,
-     "type": "single",
-     "sectionId": "s1",
-     "sectionName": "数据结构与算法",
-     "stem": "上表说明了（ ）。",
-     "stemImages": [],
-     "options": [
-      {
-       "key": "A",
-       "text": "东部地区与中、西部地区的差距越来越大",
-       "images": []
-      },
-      {
-       "key": "B",
-       "text": "中、西部地区的工业发展速度落后于东部地区主要是由于对工业发展的贡献最大的乡镇企业和外商投资企业在经济中的比例明显比东部低",
-       "images": []
-      },
-      {
-       "key": "C",
-       "text": "各地区非国有经济发展速度不同，东西差距很大",
-       "images": []
-      },
-      {
-       "key": "D",
-       "text": "今后的投资重点应该放在中、西部",
-       "images": []
-      }
-     ],
-     "answer": [
-      "B"
-     ],
-     "score": 1.0,
-     "analysis": "此题需要根据图中的数值来进行推理。图表中并没有反映出东部 地区与中、西部地区的差距，故选项A 不正确；选项C 同样认为由于各地区非国有经济发 展速度不同，所以东西差距大，这也是不正确的；图表只是反映了一种现实状况，并不能说 明今后的投资重点应该放在中、西部。选项B 是正确的，从图表可以看出，中、西部地区的 集体企业和外商投资企业在经济中所占的比例明显低于东部地区。",
      "analysisImages": [],
      "warnings": []
     },
@@ -77769,129 +77564,6 @@
      "warnings": []
     },
     {
-     "uid": "jsjj-base:136",
-     "bankId": "jsjj-base",
-     "localId": 136,
-     "seq": 136,
-     "no": null,
-     "type": "single",
-     "sectionId": "s11",
-     "sectionName": "计算机基础",
-     "stem": "30，60，91，123，156，（ ）",
-     "stemImages": [],
-     "options": [
-      {
-       "key": "A",
-       "text": "180",
-       "images": []
-      },
-      {
-       "key": "B",
-       "text": "185",
-       "images": []
-      },
-      {
-       "key": "C",
-       "text": "188",
-       "images": []
-      },
-      {
-       "key": "D",
-       "text": "190",
-       "images": []
-      }
-     ],
-     "answer": [
-      "D"
-     ],
-     "score": 1.0,
-     "analysis": "此数列为二级等差数列，差值为30、31、32、33、34。",
-     "analysisImages": [],
-     "warnings": []
-    },
-    {
-     "uid": "jsjj-base:137",
-     "bankId": "jsjj-base",
-     "localId": 137,
-     "seq": 137,
-     "no": null,
-     "type": "single",
-     "sectionId": "s11",
-     "sectionName": "计算机基础",
-     "stem": "12，17，22，（ ），32",
-     "stemImages": [],
-     "options": [
-      {
-       "key": "A",
-       "text": "14",
-       "images": []
-      },
-      {
-       "key": "B",
-       "text": "21",
-       "images": []
-      },
-      {
-       "key": "C",
-       "text": "27",
-       "images": []
-      },
-      {
-       "key": "D",
-       "text": "35",
-       "images": []
-      }
-     ],
-     "answer": [
-      "C"
-     ],
-     "score": 1.0,
-     "analysis": "后一项与前一项的差为5，括号内应填27。",
-     "analysisImages": [],
-     "warnings": []
-    },
-    {
-     "uid": "jsjj-base:138",
-     "bankId": "jsjj-base",
-     "localId": 138,
-     "seq": 138,
-     "no": null,
-     "type": "single",
-     "sectionId": "s11",
-     "sectionName": "计算机基础",
-     "stem": "29，21，15，（ ），9",
-     "stemImages": [],
-     "options": [
-      {
-       "key": "A",
-       "text": "17",
-       "images": []
-      },
-      {
-       "key": "B",
-       "text": "11",
-       "images": []
-      },
-      {
-       "key": "C",
-       "text": "25",
-       "images": []
-      },
-      {
-       "key": "D",
-       "text": "7",
-       "images": []
-      }
-     ],
-     "answer": [
-      "B"
-     ],
-     "score": 1.0,
-     "analysis": "前一项减后一项分别得到8，6，4，2，括号内应填11。",
-     "analysisImages": [],
-     "warnings": []
-    },
-    {
      "uid": "jsjj-base:139",
      "bankId": "jsjj-base",
      "localId": 139,
@@ -77974,47 +77646,6 @@
      "warnings": []
     },
     {
-     "uid": "jsjj-base:141",
-     "bankId": "jsjj-base",
-     "localId": 141,
-     "seq": 141,
-     "no": null,
-     "type": "single",
-     "sectionId": "s11",
-     "sectionName": "计算机基础",
-     "stem": "20 19 1 14 13 1 13 12 1        的值是（ ）。",
-     "stemImages": [],
-     "options": [
-      {
-       "key": "A",
-       "text": "12 1",
-       "images": []
-      },
-      {
-       "key": "B",
-       "text": "20 1",
-       "images": []
-      },
-      {
-       "key": "C",
-       "text": "30 1",
-       "images": []
-      },
-      {
-       "key": "D",
-       "text": "40 1",
-       "images": []
-      }
-     ],
-     "answer": [
-      "C"
-     ],
-     "score": 1.0,
-     "analysis": "在和式中加上20 1 ，则原式 版权所有 翻印必究 第2 页 中公金融人：www.jinrongren.net =                  14 13 1 13 12 1 20 1 20 1 20 19 1 14 13 1 13 12 1  30 1 20 1 12 1 20 1 19 1 19 18 1           。",
-     "analysisImages": [],
-     "warnings": []
-    },
-    {
      "uid": "jsjj-base:142",
      "bankId": "jsjj-base",
      "localId": 142,
@@ -78052,47 +77683,6 @@
      ],
      "score": 1.0,
      "analysis": "假设母亲现在的年龄为x，则儿子现在的年龄为x/4，列方程式： x+x/4-2×3=49，解得x=44。",
-     "analysisImages": [],
-     "warnings": []
-    },
-    {
-     "uid": "jsjj-base:143",
-     "bankId": "jsjj-base",
-     "localId": 143,
-     "seq": 143,
-     "no": null,
-     "type": "single",
-     "sectionId": "s11",
-     "sectionName": "计算机基础",
-     "stem": "42 1 30 1 20 1 12 1 6 1 2 1      的值是（ ）。",
-     "stemImages": [],
-     "options": [
-      {
-       "key": "A",
-       "text": "- 2 1",
-       "images": []
-      },
-      {
-       "key": "B",
-       "text": "42 1",
-       "images": []
-      },
-      {
-       "key": "C",
-       "text": "7 1",
-       "images": []
-      },
-      {
-       "key": "D",
-       "text": "7 6",
-       "images": []
-      }
-     ],
-     "answer": [
-      "D"
-     ],
-     "score": 1.0,
-     "analysis": "7 6 1 6 6 ) 6 ( 1 42 1 30 1 20 1 12 1 6 1 2 1            n n n 。",
      "analysisImages": [],
      "warnings": []
     },
@@ -78585,47 +78175,6 @@
      ],
      "score": 1.0,
      "analysis": "文章资料中并没有给出西藏自治区的相关人口数目，文章中人口 稀少的地区包含了西藏，但同时也包含了新疆、青海、宁夏、内蒙古等地区。所以无论是1982 年还是1964 年的西藏自治区人口都无法知道，其增加的幅度也不能统计。故选D。",
-     "analysisImages": [],
-     "warnings": []
-    },
-    {
-     "uid": "jsjj-base:156",
-     "bankId": "jsjj-base",
-     "localId": 156,
-     "seq": 156,
-     "no": null,
-     "type": "single",
-     "sectionId": "s11",
-     "sectionName": "计算机基础",
-     "stem": "表中X 的数值是（ ）。",
-     "stemImages": [],
-     "options": [
-      {
-       "key": "A",
-       "text": "12.5",
-       "images": []
-      },
-      {
-       "key": "B",
-       "text": "6.5",
-       "images": []
-      },
-      {
-       "key": "C",
-       "text": "7.2",
-       "images": []
-      },
-      {
-       "key": "D",
-       "text": "8.7",
-       "images": []
-      }
-     ],
-     "answer": [
-      "A"
-     ],
-     "score": 1.0,
-     "analysis": "全国企业的总和应该是100%，即国有企业、集体企业、外商投 资企业加上其他类型的总和应该是100%。所以表中的X＝100－49.1－31.4－7.0＝12.5，即 外商投资企业占全国工业产值的比重为12.5%。",
      "analysisImages": [],
      "warnings": []
     },
@@ -79953,13 +79502,13 @@
     }
    ],
    "stats": {
-    "total": 188,
+    "total": 179,
     "byType": {
-     "single": 156,
+     "single": 147,
      "multiple": 32
     },
     "bySection": {
-     "s1": 14,
+     "s1": 11,
      "s2": 4,
      "s3": 36,
      "s4": 4,
@@ -79969,7 +79518,7 @@
      "s8": 4,
      "s9": 7,
      "s10": 4,
-     "s11": 56,
+     "s11": 50,
      "s12": 5
     },
     "hasAnalysis": true,
