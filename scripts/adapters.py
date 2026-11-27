@@ -242,6 +242,8 @@ def build_structured_json_bank(cfg, project_root, copier):
         title_rest = m.group(1) if m else raw_title
         name = re.split(r"[（(]", title_rest, 1)[0].strip()
         stype = _section_type(raw_title)
+        if sec.get("type") in ("single", "multiple", "judge"):
+            stype = sec["type"]
         sm = SCORE_PER_RE.search(raw_title)
         score_per = float(sm.group(1)) if sm else 1.0
         section_id = "s%d" % si
