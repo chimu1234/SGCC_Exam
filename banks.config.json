@@ -224,6 +224,22 @@
       "options": {
         "durationMin": 180
       }
+    },
+    {
+      "id": "zhenti-2023",
+      "name": "2023年国网真题·计算机类",
+      "shortName": "2023真题",
+      "description": "2022 年国家电网（计算机类）笔试真题，由 PDF 扫描件逐页 OCR 完整整理，单选/多选/判断三部分，含答案。",
+      "adapter": "structured_json_bank",
+      "source": "sources/zhenti/zhenti-2023.json",
+      "tags": [
+        "真题",
+        "计算机类",
+        "OCR"
+      ],
+      "options": {
+        "durationMin": 180
+      }
     }
   ]
 }

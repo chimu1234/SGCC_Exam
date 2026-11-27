@@ -136175,6 +136175,6340 @@
     "hasAnalysis": false,
     "hasImages": false
    }
+  },
+  {
+   "id": "zhenti-2023",
+   "name": "2023年国网真题·计算机类",
+   "shortName": "2023真题",
+   "description": "2022 年国家电网（计算机类）笔试真题，由 PDF 扫描件逐页 OCR 完整整理，单选/多选/判断三部分，含答案。",
+   "source": {
+    "type": "structured-json",
+    "file": "sources/zhenti/zhenti-2023.json"
+   },
+   "tags": [
+    "真题",
+    "计算机类",
+    "OCR"
+   ],
+   "exam": {
+    "durationMin": 180,
+    "totalScore": 184.0
+   },
+   "sections": [
+    {
+     "id": "s1",
+     "name": "单项选择题",
+     "order": 1,
+     "type": "single",
+     "scorePer": 1.0,
+     "count": 104,
+     "materials": []
+    },
+    {
+     "id": "s2",
+     "name": "多项选择题",
+     "order": 2,
+     "type": "multiple",
+     "scorePer": 2.0,
+     "count": 25,
+     "materials": []
+    },
+    {
+     "id": "s3",
+     "name": "判断题",
+     "order": 3,
+     "type": "judge",
+     "scorePer": 1.0,
+     "count": 30,
+     "materials": []
+    }
+   ],
+   "questions": [
+    {
+     "uid": "zhenti-2023:1",
+     "bankId": "zhenti-2023",
+     "localId": 1,
+     "seq": 1,
+     "no": 1,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "习近平总书记以统揽全局的战略思维和宽广的世界眼光深刻把握国家安全问题，提出了总体国家安全观。下列相关表述正确的有几项：（ ）①总体国家安全观是我党历史上第一个被确立为国家安全工作指导思想的重大战略思想 ②《中华人民共和国国家安全法》规定，每年5月15日为全民国家安全教育日 ③总体国家安全观主要聚焦于如何解决好大国发展进程中面临的共性安全问题 ④国家安全机关举报受理电话为12339",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "1项",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "2项",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "3项",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "4项",
+       "images": []
+      }
+     ],
+     "answer": [
+      "B"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:2",
+     "bankId": "zhenti-2023",
+     "localId": 2,
+     "seq": 2,
+     "no": 2,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "下列选项中最符合所给图形规律的是：（ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "如上图所示",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "如上图所示",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "如上图所示",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "如上图所示",
+       "images": []
+      }
+     ],
+     "answer": [
+      "D"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:3",
+     "bankId": "zhenti-2023",
+     "localId": 3,
+     "seq": 3,
+     "no": 3,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "青年：村官：基层锻炼（ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "党史：国史：史海耕耘",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "工人：农民：财富创造",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "学者：儒商：市场打拼",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "巾帼：须眉：同台竞技",
+       "images": []
+      }
+     ],
+     "answer": [
+      "C"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:4",
+     "bankId": "zhenti-2023",
+     "localId": 4,
+     "seq": 4,
+     "no": 4,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "策略：销售：销量（ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "表演：技巧：效果",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "兵器：战斗：伤亡",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "思路：答题：得分",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "方法：测量：误差",
+       "images": []
+      }
+     ],
+     "answer": [
+      "C"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:5",
+     "bankId": "zhenti-2023",
+     "localId": 5,
+     "seq": 5,
+     "no": 5,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "1, 5, 2, 8, 4, 11, 8, 14, 16, （ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "19.52",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "19.24",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "17.82",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "17.32",
+       "images": []
+      }
+     ],
+     "answer": [
+      "D"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:6",
+     "bankId": "zhenti-2023",
+     "localId": 6,
+     "seq": 6,
+     "no": 6,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "-1.6, -4, -6, -3, 1.5, （ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "-2.25",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "-1.5",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "1.5",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "3.75",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:7",
+     "bankId": "zhenti-2023",
+     "localId": 7,
+     "seq": 7,
+     "no": 7,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "小王开车以80千米/小时的速度向北行驶，发现一辆在直线轨道上匀速行驶的火车车头始终位于自己的正西方，且逐渐变远。已知该火车的速度为160千米/小时，问小王行驶1分钟后，火车车头与自己的距离将增加多少千米？（ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "√2",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "√3",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "4√3/3",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "2(√2-1)",
+       "images": []
+      }
+     ],
+     "answer": [
+      "C"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:8",
+     "bankId": "zhenti-2023",
+     "localId": 8,
+     "seq": 8,
+     "no": 8,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "科学家网上科普，“高大上”的国家科研机构与轻松娱乐的网络文化场域相遇，不仅没有出现文化上的巨大冲突、碰撞，反倒形成了一种____、寓教于乐的可爱画风，受到很多年轻人的喜爱。这种意外，看似有很大的____，实则是一种科普方式的积极探索创新，预示了打通两个文化场域的可能性。依次填入画横线部分最恰当的一项是：（ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "亦庄亦谐偶然性",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "妙趣横生随机性",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "别出心裁随意性",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "相映成趣特殊性",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:9",
+     "bankId": "zhenti-2023",
+     "localId": 9,
+     "seq": 9,
+     "no": 9,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "技术的进步，带来了一种逼真的假象：躲在屏幕后的我们，并不需要为自己的行为负责。隐匿在网名背后的网友，就可以____地暴露平日里不敢见光的恶。我们都知道，互联网不是法外之地，但要____这一假象带来的诱惑，并不容易。依次填入划横线部分最恰当的词语是：（ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "肆无忌惮抵御",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "堂而皇之抵制",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "无所顾忌抗衡",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "专横跋扈抵抗",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:10",
+     "bankId": "zhenti-2023",
+     "localId": 10,
+     "seq": 10,
+     "no": 10,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "罐子里有水果糖和奶糖两种，幼儿园老师把双手伸进罐子里，然后双手握拳各拿出一块糖。然后老师说了四句话：①右手肯定不是水果糖；②或者左手是水果糖，或者右手是水果糖；③如果左手是水果糖，则右手就不是水果糖；④左手、右手都是水果糖。假设老师说的四句话中有三句是真的，一句是假的，则下列选项正确的是：（ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "左手是水果糖，右手是奶糖",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "左手水果糖，右手水果糖",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "左手奶糖，右手奶糖",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "左手奶糖，右手水果糖",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:11",
+     "bankId": "zhenti-2023",
+     "localId": 11,
+     "seq": 11,
+     "no": 11,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "圈椅是明代家具中最为经典的制作。明代圈椅，造型古朴典雅，线条简洁流畅，制作技艺达到了____的境地，“天圆地方”是中国人文化中的宇宙观，不但建筑受其影响，也____到了家具的设计之中。依次填入划横线部分最恰当的一项是：（ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "别有匠心普遍融合",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "巧夺天工特殊融会",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "炉火纯青典型融入",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "入室升堂独特融化",
+       "images": []
+      }
+     ],
+     "answer": [
+      "C"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:12",
+     "bankId": "zhenti-2023",
+     "localId": 12,
+     "seq": 12,
+     "no": 12,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "人们曾经____的奇妙技术实际上已经在无声无息中应用到日常生活的方方面面。对于很多都市人来说，比朋友更重要的智能手机中的每一个应用，都是人工智能程序为用户____的生活规划。填入画横线部分最恰当的一项是：（ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "渴求量身打造",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "希望量身打造",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "渴求量体裁衣",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "希望量体裁衣",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:13",
+     "bankId": "zhenti-2023",
+     "localId": 13,
+     "seq": 13,
+     "no": 13,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "国家电网有限公司明确提出，要以品牌形象展示内在品质，以责任表率展现道德力量，让新闻更有____，让传播更有广度，让责任更有高度，让品牌更有____。（ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "深度；知名度",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "热度；公信力",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "温度；美誉度",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "力度；影响力",
+       "images": []
+      }
+     ],
+     "answer": [
+      "C"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:14",
+     "bankId": "zhenti-2023",
+     "localId": 14,
+     "seq": 14,
+     "no": 14,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "展形象，就是要推进国际传播能力建设，讲好____、传播好____，向世界展现真实、立体、全面的中国，提高国家文化软实力和中华文化影响力。（ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "中国特色；中国主张",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "中国故事；中国声音",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "中国故事；中国主张",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "中国经验；中国故事",
+       "images": []
+      }
+     ],
+     "answer": [
+      "B"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:15",
+     "bankId": "zhenti-2023",
+     "localId": 15,
+     "seq": 15,
+     "no": 15,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "国网标识中的标准色为（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "国网绿",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "国网红",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "国网蓝",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "国网黄",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:16",
+     "bankId": "zhenti-2023",
+     "localId": 16,
+     "seq": 16,
+     "no": 16,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "中国政府为了强化能源节约，遏制不合理的能源需求，加大了对以（ ）为主能源消费结构的调整力度。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "清洁能源",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "石油",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "天然气",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "煤",
+       "images": []
+      }
+     ],
+     "answer": [
+      "D"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:17",
+     "bankId": "zhenti-2023",
+     "localId": 17,
+     "seq": 17,
+     "no": 17,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "对于交通工具来说，燃油转换为动力效率约为20%，电能转换为动力效率约为80%，石油转换为电能效率为50%，可以看出电动汽车的能源利用效率约为燃油汽车的（ ）倍。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "2",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "3",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "4",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "5",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:18",
+     "bankId": "zhenti-2023",
+     "localId": 18,
+     "seq": 18,
+     "no": 18,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "当清洁能源发电技术自身成本（ ）传统化石能源发电成本时，就意味着清洁能源可以实现平价上网，具有了市场竞争力。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "远大于",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "相当于",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "远小于",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "不确定",
+       "images": []
+      }
+     ],
+     "answer": [
+      "B"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:19",
+     "bankId": "zhenti-2023",
+     "localId": 19,
+     "seq": 19,
+     "no": 19,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "（ ）是一种新型的为满足终端客户多元化能源生产与消费的能源服务方式，涵盖能源规划设计、工程投资建设，多能源运营服务以及投融资服务等方面。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "多元化能源服务",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "综合能源服务",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "合同能源服务",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "新业态能源服务",
+       "images": []
+      }
+     ],
+     "answer": [
+      "B"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:20",
+     "bankId": "zhenti-2023",
+     "localId": 20,
+     "seq": 20,
+     "no": 20,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "（ ）是指在电力供应不足、突发事件等情况下，通过行政措施、经济手段、技术方法，依法控制部分用电需求，维护供用电秩序平稳的管理工作。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "有序用电",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "有序停电",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "有序供电",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "有序保电",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:21",
+     "bankId": "zhenti-2023",
+     "localId": 21,
+     "seq": 21,
+     "no": 21,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "电能替代是指通过以清洁电能为主的能源消费新模式，不断提高电能占终端能源消费比重从而达到节能减排的目的。下来不属于电能替代的是（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "实现空调、冰箱、洗衣机、干衣机、洗碗机、消毒柜、热水器等家电的远程控制",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "在铁路、城市轨道交通、汽车运输领域以电代油，提高交通电气化水平可减少石油消费",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "开展城区及郊县煤改电采暖项目",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "推广港口岸电技术",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:22",
+     "bankId": "zhenti-2023",
+     "localId": 22,
+     "seq": 22,
+     "no": 22,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "国家电网有限公司“国民经济保障者”的定位，体现的是（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "作为国有重点骨干企业的属性",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "作为能源电力企业的属性",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "作为公用事业企业的属性",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "引领全球能源革命先锋的属性",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:23",
+     "bankId": "zhenti-2023",
+     "localId": 23,
+     "seq": 23,
+     "no": 23,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "国家电网有限公司积极履行公司使命，具体体现在（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "积极履行政治责任、经济责任、社会责任",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "在服务党和国家工作大局中当排头、做表率",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "在保障国家能源安全、推动能源转型中发挥骨干作用",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "以更可靠的电力、更优质的服务，助力经济社会发展和人民美好生活",
+       "images": []
+      }
+     ],
+     "answer": [
+      "D"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:24",
+     "bankId": "zhenti-2023",
+     "localId": 24,
+     "seq": 24,
+     "no": 24,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "国家电网有限公司的使命是（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "服务经济社会发展，提供可靠电力供应",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "为美好生活充电，为美丽中国赋能",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "人民电业为人民",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "向更高质量发展、向更高目标迈进",
+       "images": []
+      }
+     ],
+     "answer": [
+      "B"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:25",
+     "bankId": "zhenti-2023",
+     "localId": 25,
+     "seq": 25,
+     "no": 25,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "习近平新时代中国特色社会主义思想，是（ ）的最新成果，是党和人民实践经验和集体智慧的结晶，是中国特色社会主义理论体系的重要组成部分，是全党全国人民为实现中华民族伟大复兴而奋斗的行动指南，必须长期坚持并不断发展。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "马列主义中国化",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "马克思主义中国化",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "科学社会主义中国化",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "共产主义中国化",
+       "images": []
+      }
+     ],
+     "answer": [
+      "B"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:26",
+     "bankId": "zhenti-2023",
+     "localId": 26,
+     "seq": 26,
+     "no": 26,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "国家电网有限公司“能源革命践行者”的定位，体现的是（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "作为国有重点骨干企业的属性",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "作为能源电力企业的属性",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "作为公用事业企业的属性",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "引领全球能源革命先锋的属性",
+       "images": []
+      }
+     ],
+     "answer": [
+      "B"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:27",
+     "bankId": "zhenti-2023",
+     "localId": 27,
+     "seq": 27,
+     "no": 27,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "电网将不仅作为能源传输、转换的枢纽，更是承载各种服务，连接各方利益，实现（ ），支撑各种交易的平台。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "信息交互、分享",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "信息交互、共建",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "信息流通、共享",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "信息交互、共享",
+       "images": []
+      }
+     ],
+     "answer": [
+      "D"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:28",
+     "bankId": "zhenti-2023",
+     "localId": 28,
+     "seq": 28,
+     "no": 28,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "国家电网有限公司承担的政治责任主要包括有（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "贯彻中央决策、服务国家大局、落实国家战略",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "贯彻中央决策、服务国家大局、支持公益事业",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "服务国家大局、落实国家战略、促进经济发展",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "贯彻中央决策、落实国家战略、支持公益事业",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:29",
+     "bankId": "zhenti-2023",
+     "localId": 29,
+     "seq": 29,
+     "no": 29,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "中国共产党从成立之日起，既是中国先进文化的积极（ ）和（ ），又是中华优秀传统文化的忠实传承者和弘扬者。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "引领者；践行者",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "倡导者；践行者",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "引领者；实践者",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "倡导者；实践者",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:30",
+     "bankId": "zhenti-2023",
+     "localId": 30,
+     "seq": 30,
+     "no": 30,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "特高压交流输电是指标称电压为（ ）的交流输电，具有输电容量大、距离远、损耗低、占地少等突出优势。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "1100kV及以上",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "1000kV及以上",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "800kV及以上",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "765kV及以上",
+       "images": []
+      }
+     ],
+     "answer": [
+      "B"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:31",
+     "bankId": "zhenti-2023",
+     "localId": 31,
+     "seq": 31,
+     "no": 31,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "网络管理员通过命令行方式对路由器进行管理，要确保ID、口令和会话内存的保密性，应采取的访问方式是（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "控制台",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "AUX",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "TELNET",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "SSH",
+       "images": []
+      }
+     ],
+     "answer": [
+      "D"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:32",
+     "bankId": "zhenti-2023",
+     "localId": 32,
+     "seq": 32,
+     "no": 32,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "将用高级程序语言编写的源程序翻译成目标程序的程序称（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "连接程序",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "编辑程序",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "编译程序",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "诊断维护程序",
+       "images": []
+      }
+     ],
+     "answer": [
+      "C"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:33",
+     "bankId": "zhenti-2023",
+     "localId": 33,
+     "seq": 33,
+     "no": 33,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "相比于TCP，UDP的优势为（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "可靠传输",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "开销较小",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "拥塞控制",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "流量控制",
+       "images": []
+      }
+     ],
+     "answer": [
+      "B"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:34",
+     "bankId": "zhenti-2023",
+     "localId": 34,
+     "seq": 34,
+     "no": 34,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "计算机的软件系统可分为（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "程序和数据",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "操作系统和语言处理系统",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "程序、数据和文档",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "系统软件和应用软件",
+       "images": []
+      }
+     ],
+     "answer": [
+      "D"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:35",
+     "bankId": "zhenti-2023",
+     "localId": 35,
+     "seq": 35,
+     "no": 35,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "在浏览器地址栏输入一个正确的网址后，本地主机将首先在（ ）查询该网址对应的IP地址。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "本地DNS缓存",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "本机hosts文件",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "本地DNS服务器",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "根域名服务器",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:36",
+     "bankId": "zhenti-2023",
+     "localId": 36,
+     "seq": 36,
+     "no": 36,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "计算机网络的主要目标是实现（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "数据处理",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "文献检索",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "快速通信和资源共享",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "共享文件",
+       "images": []
+      }
+     ],
+     "answer": [
+      "C"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:37",
+     "bankId": "zhenti-2023",
+     "localId": 37,
+     "seq": 37,
+     "no": 37,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "对于一个长度大于1且不存在重复元素的序列，令其所有元素依次通过一个初始为空的队列后，再通过一个初始为空的栈。设队列和栈的容量都足够大，一个序列通过队列（栈）的含义是序列的每个元素都入队列（栈）且出队列（栈）一次且仅一次。对于该序列在上述队列和栈上的操作，正确的叙述是（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "出队序列和出栈序列一定相同",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "出队序列和出栈序列一定互为逆序",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "入队序列与出队序列一定相同，入栈序列与出栈序列不一定相同",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "入栈序列与出栈序列一定互为逆序，入队序列与出队序列不一定互为逆序",
+       "images": []
+      }
+     ],
+     "answer": [
+      "C"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:38",
+     "bankId": "zhenti-2023",
+     "localId": 38,
+     "seq": 38,
+     "no": 38,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "以下关于汇编语言的描述中，错误的是（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "汇编语言诞生于20世纪50年代初期",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "汇编语言不再使用难以记忆的二进制代码",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "汇编语言使用的是助记符号",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "汇编程序是一种不再依赖于机器的语言",
+       "images": []
+      }
+     ],
+     "answer": [
+      "D"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:39",
+     "bankId": "zhenti-2023",
+     "localId": 39,
+     "seq": 39,
+     "no": 39,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "某系统中仅有5个并发进程竞争某类资源，且都需要3个该类资源，那么至少有（ ）个该类资源，才能保证系统不会发生死锁。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "9",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "10",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "11",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "12",
+       "images": []
+      }
+     ],
+     "answer": [
+      "C"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:40",
+     "bankId": "zhenti-2023",
+     "localId": 40,
+     "seq": 40,
+     "no": 40,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "用高级程序设计语言编写的程序称为（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "源程序",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "应用程序",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "用户程序",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "实用程序",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:41",
+     "bankId": "zhenti-2023",
+     "localId": 41,
+     "seq": 41,
+     "no": 41,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "在（ ）设计阶段选择适当的解决方案，将系统分解为若干个子系统，建立整个系统的体系结构。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "概要",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "详细",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "结构化",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "面向对象",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:42",
+     "bankId": "zhenti-2023",
+     "localId": 42,
+     "seq": 42,
+     "no": 42,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "下列叙述中，正确的是（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "C++是高级程序设计语言的一种",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "用C++程序设计语言编写的程序可以直接在机器上运行",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "当代最先进的计算机可以直接识别、执行任何语言编写的程序",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "机器语言和汇编语言是同一种语言的不同名称",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:43",
+     "bankId": "zhenti-2023",
+     "localId": 43,
+     "seq": 43,
+     "no": 43,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "软件工程的基本要素包括方法、工具和（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "软件系统",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "硬件系统",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "过程",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "人员",
+       "images": []
+      }
+     ],
+     "answer": [
+      "C"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:44",
+     "bankId": "zhenti-2023",
+     "localId": 44,
+     "seq": 44,
+     "no": 44,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "关于网络安全的描述，不正确的是（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "网络安全工具的每一个单独组件只能完成其中部分功能，而不能完成全部功能",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "信息安全的基本要素有机密性、完整性、可用性",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "典型的网络攻击步骤为：信息收集，试探寻找突破口、实施攻击，清除记录保留访问权限",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "只有得到允许的人才能修改数据，并且能够判别出数据是否已被篡改，描述的是信息安全的可用性",
+       "images": []
+      }
+     ],
+     "answer": [
+      "D"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:45",
+     "bankId": "zhenti-2023",
+     "localId": 45,
+     "seq": 45,
+     "no": 45,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "在支持多线程的操作系统中，假设进程P创建了若干个线程，那么( )是不能被这些线程共享的。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "该进程的代码段",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "该进程中打开的文件",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "该进程的全局变量",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "该进程中某线程的栈指针",
+       "images": []
+      }
+     ],
+     "answer": [
+      "D"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:46",
+     "bankId": "zhenti-2023",
+     "localId": 46,
+     "seq": 46,
+     "no": 46,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "Internet中，主机的域名和主机的IP地址两者之间的关系是( )。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "完全相同，毫无区别",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "一一对应",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "一个IP地址对应多个域名",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "一个域名对应多个IP地址",
+       "images": []
+      }
+     ],
+     "answer": [
+      "B"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:47",
+     "bankId": "zhenti-2023",
+     "localId": 47,
+     "seq": 47,
+     "no": 47,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "如果路由器收到了多个路由协议转发的关于某个目标的多条路由，那么决定采用哪条路由的策略是( )。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "选择与自己路由协议相同的",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "选择路由费用最小的",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "比较各个路由的管理距离",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "比较各个路由协议的版本",
+       "images": []
+      }
+     ],
+     "answer": [
+      "C"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:48",
+     "bankId": "zhenti-2023",
+     "localId": 48,
+     "seq": 48,
+     "no": 48,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "HTTPS使用( )协议对报文进行封装。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "SSH",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "SSL",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "SHA-1",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "SET",
+       "images": []
+      }
+     ],
+     "answer": [
+      "B"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:49",
+     "bankId": "zhenti-2023",
+     "localId": 49,
+     "seq": 49,
+     "no": 49,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "某公司内部使用WB.xyz.com.cn作为访问某服务器的地址，其中WB是( )。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "主机名",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "协议名",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "目录名",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "文件名",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:50",
+     "bankId": "zhenti-2023",
+     "localId": 50,
+     "seq": 50,
+     "no": 50,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "( )不属于入侵检测技术。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "专家系统",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "模型检测",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "简单匹配",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "漏洞扫描",
+       "images": []
+      }
+     ],
+     "answer": [
+      "D"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:51",
+     "bankId": "zhenti-2023",
+     "localId": 51,
+     "seq": 51,
+     "no": 51,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "与地址220.112.179.92匹配的路由表的表项是( )。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "220.112.145.32/22",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "220.112.145.64/22",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "220.112.147.64/22",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "220.112.177.64/22",
+       "images": []
+      }
+     ],
+     "answer": [
+      "D"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:52",
+     "bankId": "zhenti-2023",
+     "localId": 52,
+     "seq": 52,
+     "no": 52,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "在字符串的模式匹配过程中，如果模式串的每个字符依次和主串中一个连续的字符序列相等，则称为匹配成功。如果不能在主串中找到与模式串相同的子串，则称为匹配失败。在布鲁特——福斯模式匹配算法(朴素的或基本的模式匹配)中，若主串和模式串的长度分别为n和m(且n远大于m)，且恰好在主串末尾的n个字符处匹配成功，则在上述的模式匹配过程中，字符的比较次数最多为( )。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "n*m",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "(n-m+1)*m",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "(n-m-1)*m",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "(n-m)*n",
+       "images": []
+      }
+     ],
+     "answer": [
+      "B"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:53",
+     "bankId": "zhenti-2023",
+     "localId": 53,
+     "seq": 53,
+     "no": 53,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "在网络设计和实施过程中要采取多种安全措施，其中( )是针对系统安全需求的措施。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "设备防雷击",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "入侵检测",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "漏洞发现与补丁管理",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "流量控制",
+       "images": []
+      }
+     ],
+     "answer": [
+      "C"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:55",
+     "bankId": "zhenti-2023",
+     "localId": 55,
+     "seq": 55,
+     "no": 55,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "对于二维数组a[1..N, 1..N]中的一个元素a[i, j]（1<=i, j<=N），存储在a[i, j]之前的元素个数（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "与按行存储或按列存储方式无关",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "在i=j时与按行存储或按列存储方式无关",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "在按行存储方式下比按列存储方式下要多",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "在按行存储方式下比按列存储方式下要少",
+       "images": []
+      }
+     ],
+     "answer": [
+      "B"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:56",
+     "bankId": "zhenti-2023",
+     "localId": 56,
+     "seq": 56,
+     "no": 56,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "（ ）不是数字签名的作用。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "接收者可验证消息来源的真实性",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "发送者无法否认发送过该消息",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "接收者无法伪造或篡改消息",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "可验证接收者合法性",
+       "images": []
+      }
+     ],
+     "answer": [
+      "D"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:57",
+     "bankId": "zhenti-2023",
+     "localId": 57,
+     "seq": 57,
+     "no": 57,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "若用户需求不清晰且经常发生变化，但系统规模不太大且不太复杂，则最适宜采用（ ）开发方法。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "结构化",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "Jackson",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "原型化",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "面向对象",
+       "images": []
+      }
+     ],
+     "answer": [
+      "C"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:58",
+     "bankId": "zhenti-2023",
+     "localId": 58,
+     "seq": 58,
+     "no": 58,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "若一台服务器只开放了25和110两个端口，那么这台服务器可以提供（ ）服务。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "E-Mail",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "WEB",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "DNS",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "FTP",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:59",
+     "bankId": "zhenti-2023",
+     "localId": 59,
+     "seq": 59,
+     "no": 59,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "下面关于Linux目录的描述中，正确的是（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "Linux只有一个根目录，用\"/root\"表示",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "Linux中有多个根目录，用\"/\"加相应目录名称表示",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "Linux中只有一个根目录，用\"/\"表示",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "Linux中有多个根目录，用相应目录名称表示",
+       "images": []
+      }
+     ],
+     "answer": [
+      "C"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:60",
+     "bankId": "zhenti-2023",
+     "localId": 60,
+     "seq": 60,
+     "no": 60,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "假定用户A、B分别在I1和I2两个CA处取得了各自的证书，下面（ ）是A、B互信的必要条件。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "B互换私钥",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "A、B互换公钥",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "I1、I2互换私钥",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "I1、I2互换公钥",
+       "images": []
+      }
+     ],
+     "answer": [
+      "D"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:61",
+     "bankId": "zhenti-2023",
+     "localId": 61,
+     "seq": 61,
+     "no": 61,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "某开发小组欲开发一个超大规模软件：使用通信卫星，在订阅者中提供、监视和控制移动电话通信，则最不适宜采用（ ）过程模型。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "瀑布",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "原型",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "螺旋",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "喷泉",
+       "images": []
+      }
+     ],
+     "answer": [
+      "B"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:62",
+     "bankId": "zhenti-2023",
+     "localId": 62,
+     "seq": 62,
+     "no": 62,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "测试网络连通性通常采用的命令是（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "Netstat",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "Ping",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "Msconfig",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "Cmd",
+       "images": []
+      }
+     ],
+     "answer": [
+      "B"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:63",
+     "bankId": "zhenti-2023",
+     "localId": 63,
+     "seq": 63,
+     "no": 63,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "设计操作系统时不需要考虑的问题是（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "计算机系统中硬件资源的管理",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "计算机系统中软件资源的管理",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "用户与计算机之间的接口",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "语言编译器的设计实现",
+       "images": []
+      }
+     ],
+     "answer": [
+      "D"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:64",
+     "bankId": "zhenti-2023",
+     "localId": 64,
+     "seq": 64,
+     "no": 64,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "在一台安装好TCP/IP协议的计算机上，当网络连接不可用时，为了测试编写好的网络程序，通常使用的目的主机IP地址为（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "0.0.0.0",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "127.0.0.1",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "10.0.0.1",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "210.225.21.255/24",
+       "images": []
+      }
+     ],
+     "answer": [
+      "B"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:65",
+     "bankId": "zhenti-2023",
+     "localId": 65,
+     "seq": 65,
+     "no": 66,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "以下加密算法中适合对大量的明文消息进行加密传输的是（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "RSA",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "SHA-1",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "MD5",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "RC5",
+       "images": []
+      }
+     ],
+     "answer": [
+      "D"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:66",
+     "bankId": "zhenti-2023",
+     "localId": 66,
+     "seq": 66,
+     "no": 67,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "假设系统采用PV操作实现进程同步与互斥。若n个进程共享两台打印机，那么信号量S的取值范围为（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "-2～n",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "-(n-1)～1",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "-(n-1)～2",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "-(n-2)～2",
+       "images": []
+      }
+     ],
+     "answer": [
+      "D"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:67",
+     "bankId": "zhenti-2023",
+     "localId": 67,
+     "seq": 67,
+     "no": 68,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "下列网络互连设备中，属于物理层的是（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "交换机",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "中继器",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "路由器",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "网桥",
+       "images": []
+      }
+     ],
+     "answer": [
+      "B"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:68",
+     "bankId": "zhenti-2023",
+     "localId": 68,
+     "seq": 68,
+     "no": 69,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "（ ）开发过程模型以用户需求为动力，以对象为驱动，适合于面向对象的开发方法。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "瀑布",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "原型",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "螺旋",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "喷泉",
+       "images": []
+      }
+     ],
+     "answer": [
+      "D"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:69",
+     "bankId": "zhenti-2023",
+     "localId": 69,
+     "seq": 69,
+     "no": 70,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "关于网络安全防御技术的描述，不正确的是（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "防火墙主要实现网络安全的安全策略，可以对策略中涉及的网络访问行为实施有效管理，也可以对策略之外的网络访问行为进行控制",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "入侵检测系统注重是网络安全状况的监督，绝大多数IDS系统都是被动的",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "蜜罐技术是一种主动防御技术，是一个诱捕攻击者的陷阱",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "虚拟专用网络是在公网中建立专用的、安全的数据通信通道",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:70",
+     "bankId": "zhenti-2023",
+     "localId": 70,
+     "seq": 70,
+     "no": 71,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "以下关于Cache(高速缓冲存储器)的叙述中，不正确的是（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "Cache的设置扩大了主存的容量",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "Cache的内容是主存部分内容的拷贝",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "Cache的命中率并不随其容量增大线性地提高",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "Cache位于主存与CPU之间",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:71",
+     "bankId": "zhenti-2023",
+     "localId": 71,
+     "seq": 71,
+     "no": 72,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "根据软件过程活动对软件工具进行分类，则逆向工程工具属于（ ）工具。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "软件开发",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "软件维护",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "软件管理",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "软件支持",
+       "images": []
+      }
+     ],
+     "answer": [
+      "B"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:72",
+     "bankId": "zhenti-2023",
+     "localId": 72,
+     "seq": 72,
+     "no": 73,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "以下关于网络层次与主要设备对应关系的叙述中，配对正确的是（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "网络层——集线器",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "数据链路层——网桥",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "传输层——路由器",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "会话层——防火墙",
+       "images": []
+      }
+     ],
+     "answer": [
+      "B"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:73",
+     "bankId": "zhenti-2023",
+     "localId": 73,
+     "seq": 73,
+     "no": 74,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "以下关于海明码的叙述中，正确的是（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "海明码利用奇偶性进行检错和纠错",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "海明码的码距为1",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "海明码可以检错但不能纠错",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "海明码中数据位的长度与校验位必须相同",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:74",
+     "bankId": "zhenti-2023",
+     "localId": 74,
+     "seq": 74,
+     "no": 76,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "自底向上的集成测试策略的优点包括（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "主要的设计问题可以在测试早期处理",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "不需要写驱动程序",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "不需要写桩程序",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "不需要进行回归测试",
+       "images": []
+      }
+     ],
+     "answer": [
+      "C"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:75",
+     "bankId": "zhenti-2023",
+     "localId": 75,
+     "seq": 75,
+     "no": 77,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "下列攻击行为中，属于典型被动攻击的是（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "拒绝服务攻击",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "会话拦截",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "系统干涉",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "修改数据命令",
+       "images": []
+      }
+     ],
+     "answer": [
+      "C"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:76",
+     "bankId": "zhenti-2023",
+     "localId": 76,
+     "seq": 76,
+     "no": 78,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "从存储空间的利用率角度来看，以下关于数据结构中图的存储的叙述中，正确的是（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "有向图适合采用邻接矩阵存储，无向图适合采用邻接表存储",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "无向图适合采用邻接矩阵存储，有向图适合采用邻接表存储",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "完全图适合采用邻接矩阵存储",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "完全图适合采用邻接表存储",
+       "images": []
+      }
+     ],
+     "answer": [
+      "C"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:77",
+     "bankId": "zhenti-2023",
+     "localId": 77,
+     "seq": 77,
+     "no": 79,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "主域名服务器在接收到域名请求后，首先查询的是（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "本地hosts文件",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "转发域名服务器",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "本地缓存",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "授权域名服务器",
+       "images": []
+      }
+     ],
+     "answer": [
+      "C"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:78",
+     "bankId": "zhenti-2023",
+     "localId": 78,
+     "seq": 78,
+     "no": 80,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "内存按字节编址。若用存储容量为32Kx8bit的存储器芯片构成地址从A0000H到DFFFFH的内存，则至少需要（ ）片芯片。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "4",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "8",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "16",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "32",
+       "images": []
+      }
+     ],
+     "answer": [
+      "B"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:79",
+     "bankId": "zhenti-2023",
+     "localId": 79,
+     "seq": 79,
+     "no": 81,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "为了攻击远程主机，通常利用（ ）技术检测远程主机状态。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "病毒查杀",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "端口扫描",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "QQ聊天",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "身份认证",
+       "images": []
+      }
+     ],
+     "answer": [
+      "B"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:80",
+     "bankId": "zhenti-2023",
+     "localId": 80,
+     "seq": 80,
+     "no": 82,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "在13个元素构成的有序表M[1..13]中进行折半查找（向下取整），若找到的元素为M[4]，则被比较的元素依次为（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "M[7]、M[3]、M[5]、M[4]",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "M[7]、M[5]、M[4]",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "M[7]、M[6]、M[4]",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "M[7]、M[4]",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:81",
+     "bankId": "zhenti-2023",
+     "localId": 81,
+     "seq": 81,
+     "no": 83,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "以下关于软件可维护性的叙述中，不正确的是“可维护性（ ）”。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "是衡量软件质量的一个重要特性",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "不受软件开发文档的影响",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "是软件开发阶段各个时期的关键目标",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "可以从可理解性、可靠性、可测试性、可行性、可移植性等方面进行度量",
+       "images": []
+      }
+     ],
+     "answer": [
+      "B"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:82",
+     "bankId": "zhenti-2023",
+     "localId": 82,
+     "seq": 82,
+     "no": 84,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "可用于数字签名的算法是（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "RSA",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "IDEA",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "RC4",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "MD5",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:83",
+     "bankId": "zhenti-2023",
+     "localId": 83,
+     "seq": 83,
+     "no": 85,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "在程序执行过程中，Cache与主存的地址映射是由（ ）完成的。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "操作系统",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "程序员调度",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "硬件自动",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "用户软件",
+       "images": []
+      }
+     ],
+     "answer": [
+      "C"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:84",
+     "bankId": "zhenti-2023",
+     "localId": 84,
+     "seq": 84,
+     "no": 87,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "已知数据信息为16位，最少应附加（ ）位校验位，才能实现海明码纠错。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "3",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "4",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "5",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "6",
+       "images": []
+      }
+     ],
+     "answer": [
+      "C"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:85",
+     "bankId": "zhenti-2023",
+     "localId": 85,
+     "seq": 85,
+     "no": 88,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "在Linux中，要更改一个文件的权限设置可使用（ ）命令。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "attrib",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "modify",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "chmod",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "change",
+       "images": []
+      }
+     ],
+     "answer": [
+      "C"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:86",
+     "bankId": "zhenti-2023",
+     "localId": 86,
+     "seq": 86,
+     "no": 89,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "以下协议中属于应用层协议的是（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "SNMP",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "ARP",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "ICMP",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "X.25",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:87",
+     "bankId": "zhenti-2023",
+     "localId": 87,
+     "seq": 87,
+     "no": 90,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "在敏捷过程的方法中（ ）认为每一个不同的项目都需要一套不同的策略、约定和方法论。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "极限编程(XP)",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "水晶法(Crystal)",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "并列争球法(Scrum)",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "自适应软件开发(ASD)",
+       "images": []
+      }
+     ],
+     "answer": [
+      "B"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:88",
+     "bankId": "zhenti-2023",
+     "localId": 88,
+     "seq": 88,
+     "no": 91,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "传输经过SSL加密的网页所采用的协议是（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "HTTP",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "HTTPS",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "S-HTTP",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "HTTP-S",
+       "images": []
+      }
+     ],
+     "answer": [
+      "B"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:89",
+     "bankId": "zhenti-2023",
+     "localId": 89,
+     "seq": 89,
+     "no": 92,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "要判断字长为16位的整数a的低四位是否全为0，则（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "将a与0x000F进行“逻辑与”运算，然后判断运算结果是否等于0",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "将a与0x000F进行“逻辑或”运算，然后判断运算结果是否等于F",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "将a与0x000F进行“逻辑异或”运算，然后判断运算结果是否等于0",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "将a与0x000F进行“逻辑与”运算，然后判断运算结果是否等于F",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:90",
+     "bankId": "zhenti-2023",
+     "localId": 90,
+     "seq": 90,
+     "no": 93,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "以下路由策略中，依据网络信息经常更新路由的是（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "静态路由",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "洪泛式",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "随机路由",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "自适应路由",
+       "images": []
+      }
+     ],
+     "answer": [
+      "D"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:91",
+     "bankId": "zhenti-2023",
+     "localId": 91,
+     "seq": 91,
+     "no": 94,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "浮点数的表示分为阶和尾数两部分。两个浮点数相加时，需要先对阶，即（ ）(n为阶差的绝对值)。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "将大阶向小阶对齐，同时将尾数左移n位",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "将大阶向小阶对齐，同时将尾数右移n位",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "将小阶向大阶对齐，同时将尾数左移n位",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "将小阶向大阶对齐，同时将尾数右移n位",
+       "images": []
+      }
+     ],
+     "answer": [
+      "D"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:92",
+     "bankId": "zhenti-2023",
+     "localId": 92,
+     "seq": 92,
+     "no": 95,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "在计算机网络中，按照交换层次的不同，网络交换可以分为物理层交换、链路层交换、网络层交换、传输层交换、应用层交换五层，其中，对“IP地址进行变更”属于（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "网络层交换",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "链路层交换",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "传输层交换",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "应用层交换",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:93",
+     "bankId": "zhenti-2023",
+     "localId": 93,
+     "seq": 93,
+     "no": 96,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "计算机系统的主存主要是由（ ）构成的。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "DRAM",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "SRAM",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "Cache",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "EEPROM",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:94",
+     "bankId": "zhenti-2023",
+     "localId": 94,
+     "seq": 94,
+     "no": 97,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "在无线局域网中，AP的作用是（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "无线接入",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "用户认证",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "路由选择",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "业务管理",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:95",
+     "bankId": "zhenti-2023",
+     "localId": 95,
+     "seq": 95,
+     "no": 98,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "某四级指令流水线分别完成取指、取数、运算、保存结果四步操作。若完成上述操作的时间依次为8ns、9ns、4ns、8ns，则该流水线的操作周期应至少为（ ）ns。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "4",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "8",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "9",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "33",
+       "images": []
+      }
+     ],
+     "answer": [
+      "C"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:96",
+     "bankId": "zhenti-2023",
+     "localId": 96,
+     "seq": 96,
+     "no": 99,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "在物联网架构中，物联网管理中心和物联网信息中心处于（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "感知层",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "网络层",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "应用层",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "管理层",
+       "images": []
+      }
+     ],
+     "answer": [
+      "B"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:97",
+     "bankId": "zhenti-2023",
+     "localId": 97,
+     "seq": 97,
+     "no": 100,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "正式技术评审的目标是（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "允许高级技术人员修改错误",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "评价程序员的工作效率",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "发现软件中的错误",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "记录程序员的错误情况并与绩效挂钩",
+       "images": []
+      }
+     ],
+     "answer": [
+      "C"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:98",
+     "bankId": "zhenti-2023",
+     "localId": 98,
+     "seq": 98,
+     "no": 156,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "2017年，该市三大产业增加值同比增速最快的是：（ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "第一产业",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "第二产业",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "第三产业",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "无法判断",
+       "images": []
+      }
+     ],
+     "answer": [
+      "D"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:99",
+     "bankId": "zhenti-2023",
+     "localId": 99,
+     "seq": 99,
+     "no": 157,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "2018年，下列产业对该市地区生产总值增长的贡献率最大的是：（ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "第三产业",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "现代服务业",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "文化及相关产业（规模以上）",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "高新技术产业",
+       "images": []
+      }
+     ],
+     "answer": [
+      "D"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:100",
+     "bankId": "zhenti-2023",
+     "localId": 100,
+     "seq": 100,
+     "no": 158,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "2018年，从产业增加值的同比增量看，该市七大战略性新兴产业中，高端装备制造产业和（ ）最接近。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "新一代信息技术产业",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "数字经济产业",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "绿色低碳产业",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "生物医药产业",
+       "images": []
+      }
+     ],
+     "answer": [
+      "C"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:101",
+     "bankId": "zhenti-2023",
+     "localId": 101,
+     "seq": 101,
+     "no": 159,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "2018年，该市年末常住人口同比增长约：（ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "3.6%",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "3.9%",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "4.1%",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "4.2%",
+       "images": []
+      }
+     ],
+     "answer": [
+      "B"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:102",
+     "bankId": "zhenti-2023",
+     "localId": 102,
+     "seq": 102,
+     "no": 160,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "根据上文，下列说法正确的是：（ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "2018年，该市第二产业增加值占地区生产总值比重同比下降",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "2017年，该市四大支柱产业中，物流业增加值最大",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "2018年，该市年末城镇登记失业人口29.96万人",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "2018年，该市一般公共预算收入中，非税收入同比负增长",
+       "images": []
+      }
+     ],
+     "answer": [
+      "D"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:104",
+     "bankId": "zhenti-2023",
+     "localId": 104,
+     "seq": 104,
+     "no": 162,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "第二段中(X)处应填入的数值最可能是：（ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "16.3",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "17.6",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "13.7",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "15.0",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:105",
+     "bankId": "zhenti-2023",
+     "localId": 105,
+     "seq": 105,
+     "no": 163,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "2018年，B市零售额同比增长了：（ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "不到200亿元",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "200-400亿元之间",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "400-600亿元之间",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "超过600亿元",
+       "images": []
+      }
+     ],
+     "answer": [
+      "B"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:106",
+     "bankId": "zhenti-2023",
+     "localId": 106,
+     "seq": 106,
+     "no": 164,
+     "type": "single",
+     "sectionId": "s1",
+     "sectionName": "单项选择题",
+     "stem": "2018年，B市高新技术示范区规模以上高新技术企业月均收入在以下哪个范围内？（ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "不到3500亿元",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "3500-4500亿元之间",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "4500-5500亿元之间",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "超过5500亿元",
+       "images": []
+      }
+     ],
+     "answer": [
+      "C"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:107",
+     "bankId": "zhenti-2023",
+     "localId": 107,
+     "seq": 107,
+     "no": 101,
+     "type": "multiple",
+     "sectionId": "s2",
+     "sectionName": "多项选择题",
+     "stem": "以下关于Cache与主存间地址映射的叙述中，不正确的是（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "操作系统负责管理Cache与主存之间的地址映射",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "程序员需要通过编程来处理Cache与主存之间的地址映射",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "应用软件对Cache与主存之间的地址映射进行调度",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "由硬件自动完成Cache与主存之间的地址映射",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A",
+      "B",
+      "C"
+     ],
+     "score": 2.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:108",
+     "bankId": "zhenti-2023",
+     "localId": 108,
+     "seq": 108,
+     "no": 102,
+     "type": "multiple",
+     "sectionId": "s2",
+     "sectionName": "多项选择题",
+     "stem": "下面有关加密技术的叙述中，正确的是（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "IDEA 是一种对称加密算法",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "公钥加密技术和单向陷门函数密不可分",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "IKE 是一种消息摘要算法",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "公钥加密的一个重要应用是数字签名",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A",
+      "B",
+      "D"
+     ],
+     "score": 2.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:109",
+     "bankId": "zhenti-2023",
+     "localId": 109,
+     "seq": 109,
+     "no": 103,
+     "type": "multiple",
+     "sectionId": "s2",
+     "sectionName": "多项选择题",
+     "stem": "CPU(中央处理单元)的基本组成部件包括（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "算术逻辑单元",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "系统总线",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "控制单元",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "寄存器组",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A",
+      "C",
+      "D"
+     ],
+     "score": 2.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:110",
+     "bankId": "zhenti-2023",
+     "localId": 110,
+     "seq": 110,
+     "no": 104,
+     "type": "multiple",
+     "sectionId": "s2",
+     "sectionName": "多项选择题",
+     "stem": "下面对计算机操作系统描述，错误的是（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "一种使计算机便于操作的硬件设备",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "计算机的操作规范",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "计算机系统中必不可少的系统软件",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "对源程序进行编辑和编译的软件",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A",
+      "B",
+      "D"
+     ],
+     "score": 2.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:111",
+     "bankId": "zhenti-2023",
+     "localId": 111,
+     "seq": 111,
+     "no": 105,
+     "type": "multiple",
+     "sectionId": "s2",
+     "sectionName": "多项选择题",
+     "stem": "以下关于三层C/S结构的叙述中，正确的是（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "允许合理划分三层结构的功能，使之在逻辑上保持相对独立性，提高系统的可维护性和可扩展性",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "允许更灵活有效地选用相应的软硬件平台和系统",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "应用的各层可以并行开发，但需要相同的开发语言",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "利用功能层有效地隔离表示层和数据层，便于严格的安全管理",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A",
+      "B",
+      "D"
+     ],
+     "score": 2.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:112",
+     "bankId": "zhenti-2023",
+     "localId": 112,
+     "seq": 112,
+     "no": 106,
+     "type": "multiple",
+     "sectionId": "s2",
+     "sectionName": "多项选择题",
+     "stem": "下面不是计算机网络最突出的优点是（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "精度高",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "容量大",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "运算速度快",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "共享资源",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A",
+      "B",
+      "C"
+     ],
+     "score": 2.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:113",
+     "bankId": "zhenti-2023",
+     "localId": 113,
+     "seq": 113,
+     "no": 107,
+     "type": "multiple",
+     "sectionId": "s2",
+     "sectionName": "多项选择题",
+     "stem": "使用漏洞扫描系统对信息系统和服务器进行定期扫描，不可以完成的功能是（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "发现高危风险和安全漏洞",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "修复高危风险和安全漏洞",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "获取系统受攻击的日志信息",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "关闭非必要的网络端口和服务",
+       "images": []
+      }
+     ],
+     "answer": [
+      "B",
+      "C",
+      "D"
+     ],
+     "score": 2.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:114",
+     "bankId": "zhenti-2023",
+     "localId": 114,
+     "seq": 114,
+     "no": 108,
+     "type": "multiple",
+     "sectionId": "s2",
+     "sectionName": "多项选择题",
+     "stem": "下列叙述中，不正确的是（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "十进制数101的值大于二进制数1000001",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "所有十进制小数都能准确地转换为有限位的二进制小数",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "十进制数55的值小于八进制数66的值",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "二进制的乘法规则比十进制的复杂",
+       "images": []
+      }
+     ],
+     "answer": [
+      "B",
+      "C",
+      "D"
+     ],
+     "score": 2.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:115",
+     "bankId": "zhenti-2023",
+     "localId": 115,
+     "seq": 115,
+     "no": 109,
+     "type": "multiple",
+     "sectionId": "s2",
+     "sectionName": "多项选择题",
+     "stem": "以下关于快速原型模型优点的叙述中，正确的是（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "有助于满足用户的真实需求",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "适用于大型软件系统的开发",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "开发人员快速开发出原型系统，因此可以加速软件开发过程，节约开发成本",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "原型系统已经通过与用户的交互得到验证，因此对应的规格说明文档能正确描述用户需求",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A",
+      "B",
+      "D"
+     ],
+     "score": 2.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:116",
+     "bankId": "zhenti-2023",
+     "localId": 116,
+     "seq": 116,
+     "no": 110,
+     "type": "multiple",
+     "sectionId": "s2",
+     "sectionName": "多项选择题",
+     "stem": "以下关于某委托开发软件的著作权归属的叙述中，不正确的是（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "该软件的著作权归属仅依据委托人与受托人在书面合同中的约定来确定",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "无论是否有合同约定，该软件的著作权都由委托人和受托人共同享有",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "若无书面合同或合同中未明确约定，则该软件的著作权由受托人享有",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "若无书面合同或合同中未明确约定，则该软件的著作权由委托人享有",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A",
+      "B",
+      "D"
+     ],
+     "score": 2.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:117",
+     "bankId": "zhenti-2023",
+     "localId": 117,
+     "seq": 117,
+     "no": 111,
+     "type": "multiple",
+     "sectionId": "s2",
+     "sectionName": "多项选择题",
+     "stem": "以下说法中错误的是（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "域名服务器中存放Internet主机的IP地址",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "域名服务器中存放Internet主机的域名",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "域名服务器中存放Internet主机域名与IP地址的对照表",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "域名服务器中存放Internet主机的电子邮箱的地址",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A",
+      "B",
+      "D"
+     ],
+     "score": 2.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:118",
+     "bankId": "zhenti-2023",
+     "localId": 118,
+     "seq": 118,
+     "no": 112,
+     "type": "multiple",
+     "sectionId": "s2",
+     "sectionName": "多项选择题",
+     "stem": "以下关于总线的叙述中，正确的是（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "并行总线适合近距离高速数据传输",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "串行总线适合长距离数据传输",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "单总线结构在一个总线上适应不同种类的设备，设计简单且性能很高",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "专用总线在设计上可以与连接设备实现最佳匹配",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A",
+      "B",
+      "D"
+     ],
+     "score": 2.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:119",
+     "bankId": "zhenti-2023",
+     "localId": 119,
+     "seq": 119,
+     "no": 113,
+     "type": "multiple",
+     "sectionId": "s2",
+     "sectionName": "多项选择题",
+     "stem": "下列叙述中，错误的是（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "用高级程序语言编写的程序称为源程序",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "计算机能直接识别并执行用汇编语言编写的程序",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "机器语言编写的程序执行效率最低",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "不同型号的计算机具有相同的机器语言",
+       "images": []
+      }
+     ],
+     "answer": [
+      "B",
+      "C",
+      "D"
+     ],
+     "score": 2.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:120",
+     "bankId": "zhenti-2023",
+     "localId": 120,
+     "seq": 120,
+     "no": 114,
+     "type": "multiple",
+     "sectionId": "s2",
+     "sectionName": "多项选择题",
+     "stem": "CPU执行算术运算或者逻辑运算时，一般不会将源操作数和结果暂存在（ ）中。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "程序计数器(PC)",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "累加器(AC)",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "指令寄存器(IR)",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "地址寄存器(AR)",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A",
+      "C",
+      "D"
+     ],
+     "score": 2.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:121",
+     "bankId": "zhenti-2023",
+     "localId": 121,
+     "seq": 121,
+     "no": 115,
+     "type": "multiple",
+     "sectionId": "s2",
+     "sectionName": "多项选择题",
+     "stem": "计算机系统中常用的输入/输出控制方式有无条件传送、中断、程序查询和DMA方式等。当采用（ ）方式时，需要CPU执行程序指令来传送数据。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "中断",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "程序查询",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "无条件传送",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "DMA",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A",
+      "B",
+      "C"
+     ],
+     "score": 2.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:122",
+     "bankId": "zhenti-2023",
+     "localId": 122,
+     "seq": 122,
+     "no": 116,
+     "type": "multiple",
+     "sectionId": "s2",
+     "sectionName": "多项选择题",
+     "stem": "下列关于计算机病毒的叙述中，正确的是（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "计算机病毒会造成对计算机文件和数据的破坏",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "只要删除感染了病毒的文件就可以彻底消除此病毒",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "计算机病毒是一段人为制造的小程序",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "计算机病毒是可以预防和消除的",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A",
+      "C",
+      "D"
+     ],
+     "score": 2.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:123",
+     "bankId": "zhenti-2023",
+     "localId": 123,
+     "seq": 123,
+     "no": 117,
+     "type": "multiple",
+     "sectionId": "s2",
+     "sectionName": "多项选择题",
+     "stem": "在程序运行过程中，CPU需要将指令从内存中取出并加以分析和执行。不是CPU用来区分在内存中以二进制编码形式存放的指令和数据的是（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "指令周期的不同阶段",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "指令和数据的寻址方式",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "指令操作码的译码结果",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "指令和数据所在的存储单元",
+       "images": []
+      }
+     ],
+     "answer": [
+      "B",
+      "C",
+      "D"
+     ],
+     "score": 2.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:124",
+     "bankId": "zhenti-2023",
+     "localId": 124,
+     "seq": 124,
+     "no": 118,
+     "type": "multiple",
+     "sectionId": "s2",
+     "sectionName": "多项选择题",
+     "stem": "下面不是TCP协议的主要功能是（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "进行数据分组",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "保证可靠的数据传输",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "确定数据传输路径",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "提高数据传输速度",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A",
+      "C",
+      "D"
+     ],
+     "score": 2.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:125",
+     "bankId": "zhenti-2023",
+     "localId": 125,
+     "seq": 125,
+     "no": 119,
+     "type": "multiple",
+     "sectionId": "s2",
+     "sectionName": "多项选择题",
+     "stem": "信息系统规划总体报告包含（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "现状分析与诊断",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "信息化战略描述",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "应用架构",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "需求分析",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A",
+      "B",
+      "C"
+     ],
+     "score": 2.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:126",
+     "bankId": "zhenti-2023",
+     "localId": 126,
+     "seq": 126,
+     "no": 120,
+     "type": "multiple",
+     "sectionId": "s2",
+     "sectionName": "多项选择题",
+     "stem": "下列关于电子邮件的说法，错误的是（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "收件人必须有E-mail账号，发件人可以没有E-mail账号",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "发件人必须有E-mail账号，收件人可以没有E-mail账号",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "发件人和收件人均必须有E-mail账号",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "发件人必须知道收件人的邮政编码",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A",
+      "B",
+      "D"
+     ],
+     "score": 2.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:127",
+     "bankId": "zhenti-2023",
+     "localId": 127,
+     "seq": 127,
+     "no": 121,
+     "type": "multiple",
+     "sectionId": "s2",
+     "sectionName": "多项选择题",
+     "stem": "高级程序语言的编译程序不属于（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "专用软件",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "应用软件",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "通用软件",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "系统软件",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A",
+      "B",
+      "C"
+     ],
+     "score": 2.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:128",
+     "bankId": "zhenti-2023",
+     "localId": 128,
+     "seq": 128,
+     "no": 122,
+     "type": "multiple",
+     "sectionId": "s2",
+     "sectionName": "多项选择题",
+     "stem": "当函数调用执行时，在栈顶创建且用来支持被调用函数执行的一段存储空间称为活动记录或栈帧，栈帧中包括（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "形参变量",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "全局变量",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "返回地址",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "局部变量",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A",
+      "C",
+      "D"
+     ],
+     "score": 2.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:129",
+     "bankId": "zhenti-2023",
+     "localId": 129,
+     "seq": 129,
+     "no": 123,
+     "type": "multiple",
+     "sectionId": "s2",
+     "sectionName": "多项选择题",
+     "stem": "下列设备中，（ ）可作为计算机的输出设备。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "打印机",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "显示器",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "绘图仪",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "键盘",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A",
+      "B",
+      "C"
+     ],
+     "score": 2.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:130",
+     "bankId": "zhenti-2023",
+     "localId": 130,
+     "seq": 130,
+     "no": 124,
+     "type": "multiple",
+     "sectionId": "s2",
+     "sectionName": "多项选择题",
+     "stem": "以下关于风险管理的叙述中，正确的是（ ）。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "承认风险是客观存在的，不可能完全避免",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "同时管理所有的风险",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "风险管理应该贯穿整个项目管理过程",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "风险计划本身可能会带来新的风险",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A",
+      "C",
+      "D"
+     ],
+     "score": 2.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:131",
+     "bankId": "zhenti-2023",
+     "localId": 131,
+     "seq": 131,
+     "no": 125,
+     "type": "multiple",
+     "sectionId": "s2",
+     "sectionName": "多项选择题",
+     "stem": "优化模块结构时，（ ）是适当的处理方法。",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "使模块功能完整",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "消除重复功能，改善软件结构",
+       "images": []
+      },
+      {
+       "key": "C",
+       "text": "只根据模块功能确定规模大小",
+       "images": []
+      },
+      {
+       "key": "D",
+       "text": "避免或减少模块之间的病态连接",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A",
+      "B",
+      "D"
+     ],
+     "score": 2.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:132",
+     "bankId": "zhenti-2023",
+     "localId": 132,
+     "seq": 132,
+     "no": 126,
+     "type": "judge",
+     "sectionId": "s3",
+     "sectionName": "判断题",
+     "stem": "安全机制和安全服务设计的首要目的是防止最特殊的攻击手段。（ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "正确",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "错误",
+       "images": []
+      }
+     ],
+     "answer": [
+      "B"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:133",
+     "bankId": "zhenti-2023",
+     "localId": 133,
+     "seq": 133,
+     "no": 127,
+     "type": "judge",
+     "sectionId": "s3",
+     "sectionName": "判断题",
+     "stem": "网络发展三阶段：面向终端的网络；计算机-计算机网络；开放式标准化网络。（ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "正确",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "错误",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:134",
+     "bankId": "zhenti-2023",
+     "localId": 134,
+     "seq": 134,
+     "no": 128,
+     "type": "judge",
+     "sectionId": "s3",
+     "sectionName": "判断题",
+     "stem": "抵赖是一种来自黑客的攻击。（ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "正确",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "错误",
+       "images": []
+      }
+     ],
+     "answer": [
+      "B"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:135",
+     "bankId": "zhenti-2023",
+     "localId": 135,
+     "seq": 135,
+     "no": 129,
+     "type": "judge",
+     "sectionId": "s3",
+     "sectionName": "判断题",
+     "stem": "信息安全领域内最关键和最薄弱的环节是技术。（ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "正确",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "错误",
+       "images": []
+      }
+     ],
+     "answer": [
+      "B"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:136",
+     "bankId": "zhenti-2023",
+     "localId": 136,
+     "seq": 136,
+     "no": 130,
+     "type": "judge",
+     "sectionId": "s3",
+     "sectionName": "判断题",
+     "stem": "报文认证是指在网络上对接收到报文的一致性进行确认的过程。（ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "正确",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "错误",
+       "images": []
+      }
+     ],
+     "answer": [
+      "B"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:137",
+     "bankId": "zhenti-2023",
+     "localId": 137,
+     "seq": 137,
+     "no": 131,
+     "type": "judge",
+     "sectionId": "s3",
+     "sectionName": "判断题",
+     "stem": "软件必须依附于一定的硬件和软件环境，否则无法正常运行。（ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "正确",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "错误",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:138",
+     "bankId": "zhenti-2023",
+     "localId": 138,
+     "seq": 138,
+     "no": 132,
+     "type": "judge",
+     "sectionId": "s3",
+     "sectionName": "判断题",
+     "stem": "公钥体制中，一般存在公钥和私钥两种密钥。（ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "正确",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "错误",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:139",
+     "bankId": "zhenti-2023",
+     "localId": 139,
+     "seq": 139,
+     "no": 133,
+     "type": "judge",
+     "sectionId": "s3",
+     "sectionName": "判断题",
+     "stem": "CPU能直接访问主存、Cache和外存，但不能直接访问I/O设备。（ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "正确",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "错误",
+       "images": []
+      }
+     ],
+     "answer": [
+      "B"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:140",
+     "bankId": "zhenti-2023",
+     "localId": 140,
+     "seq": 140,
+     "no": 134,
+     "type": "judge",
+     "sectionId": "s3",
+     "sectionName": "判断题",
+     "stem": "在层次化局域网模型中，核心层的主要功能是将分组从一个区域高速地转发到另一个区域。（ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "正确",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "错误",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:141",
+     "bankId": "zhenti-2023",
+     "localId": 141,
+     "seq": 141,
+     "no": 135,
+     "type": "judge",
+     "sectionId": "s3",
+     "sectionName": "判断题",
+     "stem": "将二进制数01100100转换成十进制数是100，转换成十六进制数是46H。（ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "正确",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "错误",
+       "images": []
+      }
+     ],
+     "answer": [
+      "B"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:142",
+     "bankId": "zhenti-2023",
+     "localId": 142,
+     "seq": 142,
+     "no": 136,
+     "type": "judge",
+     "sectionId": "s3",
+     "sectionName": "判断题",
+     "stem": "“超媒体”即超级媒体，是采用一种非线性网状结构对块状多媒体信息(包括文本、图像、视频等)进行组织和管理技术。（ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "正确",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "错误",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:143",
+     "bankId": "zhenti-2023",
+     "localId": 143,
+     "seq": 143,
+     "no": 137,
+     "type": "judge",
+     "sectionId": "s3",
+     "sectionName": "判断题",
+     "stem": "交换的信息是本路由器知道的全部信息，也就是自己的路由表。（ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "正确",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "错误",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:144",
+     "bankId": "zhenti-2023",
+     "localId": 144,
+     "seq": 144,
+     "no": 138,
+     "type": "judge",
+     "sectionId": "s3",
+     "sectionName": "判断题",
+     "stem": "文件系统中源程序是有结构的记录式文件。（ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "正确",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "错误",
+       "images": []
+      }
+     ],
+     "answer": [
+      "B"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:145",
+     "bankId": "zhenti-2023",
+     "localId": 145,
+     "seq": 145,
+     "no": 139,
+     "type": "judge",
+     "sectionId": "s3",
+     "sectionName": "判断题",
+     "stem": "计算机取证包括保护目标计算机系统、确定电子证据、收集电子证据和保存电子证据。（ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "正确",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "错误",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:146",
+     "bankId": "zhenti-2023",
+     "localId": 146,
+     "seq": 146,
+     "no": 140,
+     "type": "judge",
+     "sectionId": "s3",
+     "sectionName": "判断题",
+     "stem": "PGP不是一种完全的非对称加密体系，它是一个混合加密算法。（ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "正确",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "错误",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:147",
+     "bankId": "zhenti-2023",
+     "localId": 147,
+     "seq": 147,
+     "no": 141,
+     "type": "judge",
+     "sectionId": "s3",
+     "sectionName": "判断题",
+     "stem": "ICMP与IP同属于不同的层协议，用于传送有关通信问题的消息。（ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "正确",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "错误",
+       "images": []
+      }
+     ],
+     "answer": [
+      "B"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:148",
+     "bankId": "zhenti-2023",
+     "localId": 148,
+     "seq": 148,
+     "no": 142,
+     "type": "judge",
+     "sectionId": "s3",
+     "sectionName": "判断题",
+     "stem": "防火墙最主要被部署在网络边界位置。（ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "正确",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "错误",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:149",
+     "bankId": "zhenti-2023",
+     "localId": 149,
+     "seq": 149,
+     "no": 143,
+     "type": "judge",
+     "sectionId": "s3",
+     "sectionName": "判断题",
+     "stem": "虚拟现实是计算机与用户之间的一种更为现实化的人-机对话形式。（ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "正确",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "错误",
+       "images": []
+      }
+     ],
+     "answer": [
+      "B"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:150",
+     "bankId": "zhenti-2023",
+     "localId": 150,
+     "seq": 150,
+     "no": 144,
+     "type": "judge",
+     "sectionId": "s3",
+     "sectionName": "判断题",
+     "stem": "计算机网络中，数据链路层采用IP地址进行寻址，网络层采用MAC地址进行寻址。（ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "正确",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "错误",
+       "images": []
+      }
+     ],
+     "answer": [
+      "B"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:151",
+     "bankId": "zhenti-2023",
+     "localId": 151,
+     "seq": 151,
+     "no": 145,
+     "type": "judge",
+     "sectionId": "s3",
+     "sectionName": "判断题",
+     "stem": "SSL是一个安全协议，它提供使用TCP/IP的通信应用程序间的隐私与完整性。（ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "正确",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "错误",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:152",
+     "bankId": "zhenti-2023",
+     "localId": 152,
+     "seq": 152,
+     "no": 146,
+     "type": "judge",
+     "sectionId": "s3",
+     "sectionName": "判断题",
+     "stem": "蠕虫是一种可以自我复制的代码，并且通过网络传播，通常无需人为干预就能传播。（ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "正确",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "错误",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:153",
+     "bankId": "zhenti-2023",
+     "localId": 153,
+     "seq": 153,
+     "no": 147,
+     "type": "judge",
+     "sectionId": "s3",
+     "sectionName": "判断题",
+     "stem": "数字签名可以利用公钥密码体制、对称密码体制或者公证系统来实现。（ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "正确",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "错误",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:154",
+     "bankId": "zhenti-2023",
+     "localId": 154,
+     "seq": 154,
+     "no": 148,
+     "type": "judge",
+     "sectionId": "s3",
+     "sectionName": "判断题",
+     "stem": "公钥加密加密算法复杂且加解密效率低，适用于大量数据的加密。（ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "正确",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "错误",
+       "images": []
+      }
+     ],
+     "answer": [
+      "B"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:155",
+     "bankId": "zhenti-2023",
+     "localId": 155,
+     "seq": 155,
+     "no": 149,
+     "type": "judge",
+     "sectionId": "s3",
+     "sectionName": "判断题",
+     "stem": "身份认证是在计算机网络中确认操作者身份的过程而产生的有效解决办法。（ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "正确",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "错误",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:156",
+     "bankId": "zhenti-2023",
+     "localId": 156,
+     "seq": 156,
+     "no": 150,
+     "type": "judge",
+     "sectionId": "s3",
+     "sectionName": "判断题",
+     "stem": "图像数字化后每个像素所占二进制位数就是该图像所包含的颜色数。（ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "正确",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "错误",
+       "images": []
+      }
+     ],
+     "answer": [
+      "B"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:157",
+     "bankId": "zhenti-2023",
+     "localId": 157,
+     "seq": 157,
+     "no": 151,
+     "type": "judge",
+     "sectionId": "s3",
+     "sectionName": "判断题",
+     "stem": "防火墙具备检查病毒的功能。（ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "正确",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "错误",
+       "images": []
+      }
+     ],
+     "answer": [
+      "B"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:158",
+     "bankId": "zhenti-2023",
+     "localId": 158,
+     "seq": 158,
+     "no": 152,
+     "type": "judge",
+     "sectionId": "s3",
+     "sectionName": "判断题",
+     "stem": "DDOS的中文名叫分布式拒绝服务攻击，俗称洪水攻击。（ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "正确",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "错误",
+       "images": []
+      }
+     ],
+     "answer": [
+      "B"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:159",
+     "bankId": "zhenti-2023",
+     "localId": 159,
+     "seq": 159,
+     "no": 153,
+     "type": "judge",
+     "sectionId": "s3",
+     "sectionName": "判断题",
+     "stem": "遍历二叉树是按某种搜索策略巡访二叉树中的每一个节点，使得每个节点均被访问一次，而且可以被访问一次以上。（ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "正确",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "错误",
+       "images": []
+      }
+     ],
+     "answer": [
+      "B"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:160",
+     "bankId": "zhenti-2023",
+     "localId": 160,
+     "seq": 160,
+     "no": 154,
+     "type": "judge",
+     "sectionId": "s3",
+     "sectionName": "判断题",
+     "stem": "从安全属性对各种网络攻击进行分类，阻断攻击是针对完整性的攻击。（ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "正确",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "错误",
+       "images": []
+      }
+     ],
+     "answer": [
+      "B"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    },
+    {
+     "uid": "zhenti-2023:161",
+     "bankId": "zhenti-2023",
+     "localId": 161,
+     "seq": 161,
+     "no": 155,
+     "type": "judge",
+     "sectionId": "s3",
+     "sectionName": "判断题",
+     "stem": "RIP协议存在的一个问题就是当网络出现故障的时候，要经过比较长的时间才能把信息传送到所有的路由器。（ ）",
+     "stemImages": [],
+     "options": [
+      {
+       "key": "A",
+       "text": "正确",
+       "images": []
+      },
+      {
+       "key": "B",
+       "text": "错误",
+       "images": []
+      }
+     ],
+     "answer": [
+      "A"
+     ],
+     "score": 1.0,
+     "analysis": null,
+     "analysisImages": [],
+     "warnings": []
+    }
+   ],
+   "stats": {
+    "total": 159,
+    "byType": {
+     "single": 104,
+     "multiple": 25,
+     "judge": 30
+    },
+    "bySection": {
+     "s1": 104,
+     "s2": 25,
+     "s3": 30
+    },
+    "hasAnalysis": false,
+    "hasImages": false
+   }
   }
  ]
 }
