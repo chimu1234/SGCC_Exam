@@ -41,6 +41,26 @@ def make_copier(bank_id):
     return copy
 
 
+def apply_analysis(bank):
+    """Overlay analyses from sources/analysis/<bank_id>.json keyed by seq."""
+    p = ROOT / "sources" / "analysis" / ("%s.json" % bank["id"])
+    if not p.is_file():
+        return 0
+    try:
+        m = json.loads(p.read_text(encoding="utf-8"))
+    except Exception:
+        return 0
+    n = 0
+    for q in bank["questions"]:
+        if (q.get("analysis") or "").strip():
+            continue
+        a = m.get(str(q.get("seq"))) or m.get(str(q.get("no")))
+        if a and str(a).strip():
+            q["analysis"] = str(a).strip()
+            n += 1
+    return n
+
+
 def validate(bank):
     problems = []
     uids = Counter(q["uid"] for q in bank["questions"])
@@ -122,6 +142,7 @@ def main():
         if not adapter:
             raise SystemExit("unknown adapter: %s" % cfg.get("adapter"))
         bank = adapter(cfg, ROOT, make_copier(cfg["id"]))
+        apply_analysis(bank)
         bank = summarize(bank)
         problems = validate(bank)
         bank["problems"] = problems
