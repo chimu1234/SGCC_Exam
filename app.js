@@ -23,7 +23,7 @@
     session: null,
     lastResult: null,
     configDraft: {
-      bankId: null, mode: 'practice', count: 10,
+      bankId: null, mode: 'practice', count: 10, scope: 'all',
       sections: [], types: [], shuffle: false, backMode: false, timerMin: 20
     },
     searchQuery: ''
@@ -221,11 +221,17 @@
       bankId, mode,
       sections: meta.sections.map(s => s.id),
       types: TYPE_ORDER.filter(t => (meta.byType || {})[t]),
-      count: 10, shuffle: false, backMode: false,
+      count: 10, scope: 'all', shuffle: false, backMode: false,
       timerMin: (meta.exam && meta.exam.durationMin) ? meta.exam.durationMin : 20
     });
     save();
     setView('config');
+  }
+
+  function applyScope(pool, scope) {
+    if (scope === 'unseen') return pool.filter(q => !(state.progress[q.uid] && state.progress[q.uid].seen > 0));
+    if (scope === 'wrong') return pool.filter(q => !!state.wrong[q.uid]);
+    return pool;
   }
 
   function startFromConfig() {
@@ -233,6 +239,8 @@
     const bank = cache[d.bankId];
     if (!bank) { toast('题库未加载'); return; }
     let pool = bank.questions.filter(q => d.sections.includes(q.sectionId) && d.types.includes(q.type));
+    pool = applyScope(pool, d.scope || 'all');
+    if (!pool.length) { toast(d.scope === 'unseen' ? '这个范围内没有没做过的题了' : (d.scope === 'wrong' ? '这个范围内还没有错题' : '没有符合条件的题目')); return; }
     if (d.shuffle) pool = shuffle(pool);
     if (d.count > 0) pool = pool.slice(0, d.count);
     startSession(d.bankId, pool.map(q => q.seq), d.mode, d);
@@ -242,7 +250,7 @@
     try { await loadBank(bankId); } catch (e) { toast('题库加载失败'); return; }
     const meta = META_MAP.get(bankId);
     const cfg = {
-      bankId, mode: 'practice', count: 1,
+      bankId, mode: 'practice', count: 1, scope: 'all',
       sections: meta.sections.map(s => s.id),
       types: TYPE_ORDER.filter(t => (meta.byType || {})[t]),
       shuffle: false, backMode: false, timerMin: 20
@@ -546,10 +554,13 @@
     const bank = d.bankId ? cache[d.bankId] : null;
     if (!meta || !bank) return '<div class="card"><p class="muted">请先从首页选择题库。</p><button class="btn" data-action="go-home">返回题库</button></div>';
 
-    let pool = bank.questions.filter(q => d.sections.includes(q.sectionId) && d.types.includes(q.type));
+    let basePool = bank.questions.filter(q => d.sections.includes(q.sectionId) && d.types.includes(q.type));
+    const scope = d.scope || 'all';
+    const counts = { all: basePool.length, unseen: applyScope(basePool, 'unseen').length, wrong: applyScope(basePool, 'wrong').length };
+    let pool = applyScope(basePool, scope);
     const selected = d.count > 0 ? pool.slice(0, d.count) : pool;
     const byType = {};
-    pool.forEach(q => { byType[q.type] = (byType[q.type] || 0) + 1; });
+    basePool.forEach(q => { byType[q.type] = (byType[q.type] || 0) + 1; });
 
     return '<div class="card">' +
       '<div class="qcount"><span class="badge">' + esc(meta.shortName) + '</span><h1 style="margin:0;font-size:21px">' + (d.mode === 'exam' ? '模拟考试' : '练习') + '设置</h1></div>' +
@@ -557,7 +568,7 @@
         '<button class="chip ' + (d.mode === 'practice' ? 'on' : '') + '" data-action="cfg-mode" data-v="practice">练习模式</button>' +
         '<button class="chip ' + (d.mode === 'exam' ? 'on' : '') + '" data-action="cfg-mode" data-v="exam">考试模式</button>' +
       '</div></div>' +
-      '<div class="field"><div class="label">章节 / 板块 <span class="hint">当前筛选可选 ' + pool.length + ' 题</span></div><div class="chips">' +
+      '<div class="field"><div class="label">章节 / 板块 <span class="hint">当前筛选可选 ' + basePool.length + ' 题</span></div><div class="chips">' +
         meta.sections.map(sec =>
           '<button class="chip ' + (d.sections.includes(sec.id) ? 'on' : '') + '" data-action="cfg-section" data-v="' + sec.id + '">' +
           esc(sec.name) + ' · ' + sec.count + '</button>'
@@ -568,6 +579,11 @@
           '<button class="chip ' + (d.types.includes(t) ? 'on' : '') + '" data-action="cfg-type" data-v="' + t + '">' +
           TYPE_LABEL[t] + ' · ' + (byType[t] || 0) + '</button>'
         ).join('') +
+      '</div></div>' +
+      '<div class="field"><div class="label">出题范围 <span class="hint">全部 ' + counts.all + ' · 没做过 ' + counts.unseen + ' · 错题 ' + counts.wrong + '</span></div><div class="chips">' +
+        '<button class="chip ' + (scope === 'all' ? 'on' : '') + '" data-action="cfg-scope" data-v="all">全部题目</button>' +
+        '<button class="chip ' + (scope === 'unseen' ? 'on' : '') + '" data-action="cfg-scope" data-v="unseen">只做没做过的</button>' +
+        '<button class="chip ' + (scope === 'wrong' ? 'on' : '') + '" data-action="cfg-scope" data-v="wrong">只做错过的</button>' +
       '</div></div>' +
       '<div class="field"><div class="label">题量</div><div class="chips">' +
         [10, 15, 20, 30, 50, 0].map(n =>
@@ -589,7 +605,7 @@
           ).join('') +
           '</div></div>') +
       '<div class="config-summary">将开始' + (d.mode === 'exam' ? '模拟考试' : '练习') + '：' +
-        (d.count === 0 ? '全部 ' + pool.length + ' 题' : d.count + ' 题') +
+        (d.count === 0 ? '全部 ' + pool.length + ' 题' : Math.min(d.count, pool.length) + ' 题') +
         ' · ' + d.sections.length + ' 个章节 · ' + d.types.length + ' 种题型' +
         (d.mode === 'exam' ? ' · 本次满分 ' + fmtScore(selected.reduce((s, q) => s + scoreOf(q), 0)) : '') +
       '</div>' +
@@ -717,6 +733,12 @@
     const isBack = r.mode === 'back';
     const pct = r.full ? Math.round(r.earned / r.full * 100) : (r.total ? Math.round(r.correct / r.total * 100) : 0);
     const title = r.mode === 'exam' ? '模拟考试结束' : (isBack ? '背题完成' : '练习完成');
+    const unseenMode = (r.mode !== 'exam' && !isBack && r.config && r.config.scope === 'unseen');
+    let remainUnseen = 0;
+    if (unseenMode && bank) {
+      const base = bank.questions.filter(q => r.config.sections.includes(q.sectionId) && r.config.types.includes(q.type));
+      remainUnseen = applyScope(base, 'unseen').length;
+    }
 
     const stats =
       '<div class="result-stats" style="grid-template-columns:repeat(auto-fit,minmax(110px,1fr))">' +
@@ -748,7 +770,9 @@
         '<div class="score-ring" style="--pct:' + pct + '"><div>' + pct + '</div></div>' +
         stats +
         '<div class="hero-actions" style="justify-content:center">' +
-          '<button class="btn primary" data-action="retry">再来一次</button>' +
+          (unseenMode
+            ? '<button class="btn primary" data-action="retry-unseen">' + (remainUnseen > 0 ? '继续练没做过的（还剩 ' + remainUnseen + ' 题）' : '没做过的都练完了 · 再来一轮') + '</button>'
+            : '<button class="btn primary" data-action="retry">再来一次</button>') +
           '<button class="btn" data-action="go-wrong">查看错题本</button>' +
           '<button class="btn ghost" data-action="go-home">返回题库</button>' +
         '</div>' +
@@ -961,6 +985,7 @@
       case 'cfg': enterConfig(d.bank, d.mode); break;
       case 'cfg-mode': state.configDraft.mode = d.v; save(); render(); break;
       case 'cfg-count': state.configDraft.count = Number(d.v); save(); render(); break;
+      case 'cfg-scope': state.configDraft.scope = d.v; save(); render(); break;
       case 'cfg-section': {
         const v = d.v, arr = state.configDraft.sections;
         state.configDraft.sections = arr.includes(v) ? arr.filter(x => x !== v) : arr.concat(v);
@@ -1002,6 +1027,22 @@
       case 'retry': {
         const r = state.lastResult;
         if (r && cache[r.bankId]) startSession(r.bankId, r.ids.slice(), r.mode === 'exam' ? 'exam' : 'practice', r.config || state.configDraft);
+        break;
+      }
+      case 'retry-unseen': {
+        const r = state.lastResult;
+        const bank = r && cache[r.bankId];
+        if (!bank) break;
+        const cfg = Object.assign({}, r.config || state.configDraft, { scope: 'unseen' });
+        let pool = bank.questions.filter(q => cfg.sections.includes(q.sectionId) && cfg.types.includes(q.type));
+        pool = applyScope(pool, 'unseen');
+        if (!pool.length) {
+          pool = bank.questions.filter(q => cfg.sections.includes(q.sectionId) && cfg.types.includes(q.type));
+          toast('没做过的都练完了，重新开始一轮');
+        }
+        if (cfg.shuffle) pool = shuffle(pool);
+        if (cfg.count > 0) pool = pool.slice(0, cfg.count);
+        startSession(r.bankId, pool.map(q => q.seq), 'practice', cfg);
         break;
       }
       case 'export': exportData(); break;
